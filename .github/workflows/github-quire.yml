@@ -1,0 +1,90 @@
+name: Quire
+on:
+  push:
+    branches:
+      - master
+permissions:
+  actions: read
+  checks: read
+  contents: write
+  deployments: write
+  pull-requests: write
+  repository-projects: write
+  statuses: write
+jobs:
+  quire-build:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - name: Cache node modules
+        id: cache-npm
+        uses: actions/cache@v3
+        env:
+          cache-name: cache-node-modules
+        with:
+          path: ~/node_modules
+          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-build-${{ env.cache-name }}-
+            ${{ runner.os }}-build-
+            ${{ runner.os }}-
+
+      - if: ${{ steps.cache-npm.outputs.cache-hit != 'true' }}
+        name: List the state of node modules
+        continue-on-error: true
+        run: npm list
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Quire install
+        run: |
+          sudo npm install --global @thegetty/quire-cli@1.0.0-rc.11
+
+      - name: Git init
+        run: |
+          git config --global user.name "Github Action"
+          git config --global user.email "gihubaction@users.noreply.github.com"
+
+      - name: Publication URL customization
+        run: |
+          sed -i 's@^url:.*$@url: https://'"${PUBLIC_URL}"'@' content/_data/publication.yaml
+          grep 'url:' content/_data/publication.yaml
+        env:
+          PUBLIC_URL: ${{ vars.PUBLIC_URL }}
+
+      - name: Quire build
+        run: quire build
+
+      - name: Quire PDF build
+        continue-on-error: true
+        run: |
+          quire pdf
+          sudo apt-get install pandoc
+          mkdir -p _site/downloads
+          pandoc _site/pdf.html -o _site/downloads/output.pdf
+
+
+      - name: GH Pages customizations
+        run: |
+          rm -rf docs || echo "not removing docs"
+          mv _site docs || mkdir -p docs/_assets
+          touch docs/.nojekyll
+          touch docs/_assets/.nojekyll
+          test -d docs/static || mkdir docs/static
+          echo "${PUBLIC_URL}" > docs/static/CNAME
+          echo "${PUBLIC_URL}" > docs/CNAME
+        env:
+          PUBLIC_URL: ${{ vars.PUBLIC_URL }}
+      - name: Git push back
+        run: |
+          git add docs || echo "INFO - nothing to add"
+          git commit -m "Quire: publishing assets" || echo "INFO - nothing to commit"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
