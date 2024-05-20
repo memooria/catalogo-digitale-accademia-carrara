@@ -1,0 +1,39 @@
+{
+  "name": "@11ty/eleventy-plugin-vite",
+  "version": "4.0.0",
+  "description": "A plugin to use Vite as a development server and run Vite to postprocess your Eleventy build.",
+  "main": ".eleventy.js",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.18.0"
+  },
+  "funding": {
+    "type": "opencollective",
+    "url": "https://opencollective.com/11ty"
+  },
+  "keywords": [
+    "eleventy",
+    "server"
+  ],
+  "11ty": {
+    "compatibility": ">=2.0.0-canary.32"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": {
+    "name": "Zach Leatherman",
+    "email": "zachleatherman@gmail.com",
+    "url": "https://zachleat.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/11ty/eleventy-plugin-vite.git"
+  },
+  "bugs": "https://github.com/11ty/eleventy-plugin-vite/issues",
+  "homepage": "https://github.com/11ty/eleventy-plugin-vite/",
+  "dependencies": {
+    "lodash.merge": "^4.6.2",
+    "vite": "^4.0.4"
+  }
+}
