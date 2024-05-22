@@ -143,6 +143,10 @@
     "file": "_assets/notoserif-regular.woff2",
     "src": "_assets/fonts/noto-serif/notoserif-regular.woff2"
   },
+  "_assets/images/Cover_Accademia_Carrara.jpg": {
+    "file": "_assets/Cover_Accademia_Carrara.jpg",
+    "src": "_assets/images/Cover_Accademia_Carrara.jpg"
+  },
   "_assets/images/contributors/judith-keller.jpg": {
     "file": "_assets/judith-keller.jpg",
     "src": "_assets/images/contributors/judith-keller.jpg"
@@ -198,10 +202,6 @@
   "_assets/images/logo-getty.png": {
     "file": "_assets/logo-getty.png",
     "src": "_assets/images/logo-getty.png"
-  },
-  "_assets/images/spiral-overlay.png": {
-    "file": "_assets/spiral-overlay.png",
-    "src": "_assets/images/spiral-overlay.png"
   },
   "_index-4a43986f.js": {
     "assets": [
