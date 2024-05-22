@@ -1,4 +1,16 @@
 object_display_order:
+  
+  - autore
+  - dati anagrafici autore
+  - titolo
+  - datazione
+  - materia e tecnica
+  - misure
+  - iscrizioni, etichette, cartellini, timbri
+  - acquisizione
+  - numero di inventario
+  - numeri di inventario precedenti
+  - collocazione
   - artist
   - year
   - dimensions
@@ -8,13 +20,17 @@ object_display_order:
 object_list:
 
   - id: 1
-    title: Human Erosion in California / Migrant Mother
-    artist: Dorothea Lange
-    year: 1936
-    medium: Gelatin silver print
-    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
-    location: J. Paul Getty Museum
-    link:  https://www.getty.edu/art/collection/object/108E2E
+    autore: Tito Sarrocchi, nella bottega di Giovanni Dupré
+    dati anagrafici autore: Siena, 5 gennaio 1824 - Siena, 30 luglio 1900
+    titolo: Ritratto di Luigi Tonti
+    datazione: 1854-1855
+    materia e tecnica: Porfido rosso
+    misure: 23 × 19 × 6 cm (porfido); 31,2 x 27,8 x 6 cm (cornice) 39,7 x 27,8 x 6 cm (cornice e occhiello)
+    iscrizioni, etichette, cartellini, timbri: Sul verso della cornice, iscrizione incisa in carattere corsivo: «Il Professore Giovanni Duprè scolpiva il ritratto di Luigi Tonti ritrovatore della tempera che rende gli scalpelli resistenti a tagliare il Porfido. / Firenze 1855.»
+    acquisizione: Legato federico Zeri, 1998
+    numero di inventario: Inv. n. 98 ZR 00044
+    numeri di inventario precedenti: Sc. 170 (1998-2007); Sc. 172; Sc. 157; 2007 SC 00122 (2007-2011); 1998 AC Sculture 00044; 98 SC ZR044 (2012-2015)
+    collocazione: Non esposto
     figure:
       - id: "cat-1"
 
