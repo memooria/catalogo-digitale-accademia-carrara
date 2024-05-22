@@ -10,16 +10,11 @@ object_display_order:
   - numero di inventario
   - numeri di inventario precedenti
   - collocazione
-  - artist
-  - year
-  - dimensions
-  - medium
-  - location
 
 object_list:
 
   - id: 1
-    autore: Tito Sarrocchi, nella bottega di Giovanni Dupré
+    autore: Tito Sarrocchi, nella bottega di Giovanni Dupre'
     dati anagrafici autore: Siena, 5 gennaio 1824 - Siena, 30 luglio 1900
     titolo: Ritratto di Luigi Tonti
     datazione: 1854-1855
@@ -34,13 +29,12 @@ object_list:
       - id: "cat-1"
 
   - id: 2
-    title: Bud Fields and His Wife Ivy, and His Daughter Ellen, Hale County, Alabama
-    artist: Walker Evans
-    year: 1936
-    medium: Gelatin silver print
-    dimensions: 19.4 x 24.4 (7 <sup>5</sup>⁄<sub>8</sub> x 9 <sup>5</sup>⁄<sub>8</sub> in.)
-    location: J. Paul Getty Museum
-    link: https://www.getty.edu/art/collection/object/104A2K
+    titolo: Bud Fields and His Wife Ivy, and His Daughter Ellen, Hale County, Alabama
+    autore: Walker Evans
+    datazione: 1936
+    materia e tecnica: Gelatin silver print
+    dimensioni: 19.4 x 24.4 (7 <sup>5</sup>⁄<sub>8</sub> x 9 <sup>5</sup>⁄<sub>8</sub> in.)
+    collocazione: J. Paul Getty Museum
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
