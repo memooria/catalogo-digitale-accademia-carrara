@@ -30,7 +30,7 @@ pub_date: 2022-12-01 # YYYY-MM-DD
 language: en
 pub_type: book # book | journal-periodical | other
 
-identifier: name-title # name | name-title | false
+identifier: 
   isbn:
 
 publisher:
