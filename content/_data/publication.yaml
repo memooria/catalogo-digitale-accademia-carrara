@@ -13,14 +13,14 @@ url: 'http://localhost:8080'
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: New Deal Photography
-subtitle: The Works of Dorothea Lange and Walker Evans
+title: Accademia Carrara - Catalogo Scientifico Digitale 
+subtitle: Sculture dal Quattrocento all'Ottocento
 reading_line:
 short_title:
 
 description:
   one_line:
-  full: "In the 1930s, during America's worst financial crises, the administration of President Franklin D. Roosevelt employed photographers to document the plight of everyday folk in the Great Depression in order to push forward with their New Deal programs. Documentary photographers Dorothea Lange and Walker Evans were prolific frontrunners of these efforts and their extraordinary photographs continue to endure today. Their artistic and documentary mastery and historical importance provide key insight into a monumental turning point in American history."
+  full: "Il Catalogo Scientifico Digitale dell'Accademia Carrara è un innovativo progetto di editoria digitale che contiene schede curatoriali dedicate alle opere d'arte custodite presso il museo bergamasco. Le schede riportano informazioni sui materiali, le tecniche d’esecuzione e lo stato di conservazione di ciascuna opera. Se noto, indicano se esse erano state realizzate per un luogo e per un committente ben preciso e se facevano parte di un insieme ora disperso. Vengono inoltre discussi i problemi di attribuzione e datazione, raccontata la storia di chi ha posseduto le opere e molto altro."
 
 # ------------------------------------------------------------------------------
 # Publication Details
@@ -48,8 +48,8 @@ contributor_as_it_appears:
 contributor:
   - id: jkeller
     type: primary
-    first_name: Judith
-    last_name: Keller
+    first_name: Paolo
+    last_name: Plebani
     title: Senior Curator of Photographs
     affiliation: J. Paul Getty Museum
     bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
