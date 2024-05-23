@@ -1,7 +1,7 @@
 ---
 label: I
-title: American Photographs
-subtitle: Evans in Middletown
+title: Catalogo Scientifico Digitale
+subtitle: Sculture dell'Accademia Carrara
 layout: essay
 order: 30
 classes:
