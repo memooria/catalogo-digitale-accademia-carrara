@@ -155,9 +155,37 @@
     "file": "_assets/35.jpg",
     "src": "_assets/images/figures/35.jpg"
   },
+  "_assets/images/figures/evans-burroughs.jpg": {
+    "file": "_assets/evans-burroughs.jpg",
+    "src": "_assets/images/figures/evans-burroughs.jpg"
+  },
+  "_assets/images/figures/evans-graveyard.jpg": {
+    "file": "_assets/evans-graveyard.jpg",
+    "src": "_assets/images/figures/evans-graveyard.jpg"
+  },
+  "_assets/images/figures/evans-hymns.jpg": {
+    "file": "_assets/evans-hymns.jpg",
+    "src": "_assets/images/figures/evans-hymns.jpg"
+  },
+  "_assets/images/figures/evans-legionnaire.jpg": {
+    "file": "_assets/evans-legionnaire.jpg",
+    "src": "_assets/images/figures/evans-legionnaire.jpg"
+  },
+  "_assets/images/figures/evans-sons.jpg": {
+    "file": "_assets/evans-sons.jpg",
+    "src": "_assets/images/figures/evans-sons.jpg"
+  },
+  "_assets/images/figures/evans.jpg": {
+    "file": "_assets/evans.jpg",
+    "src": "_assets/images/figures/evans.jpg"
+  },
   "_assets/images/figures/lange-house.jpg": {
     "file": "_assets/lange-house.jpg",
     "src": "_assets/images/figures/lange-house.jpg"
+  },
+  "_assets/images/figures/lange.jpg": {
+    "file": "_assets/lange.jpg",
+    "src": "_assets/images/figures/lange.jpg"
   },
   "_assets/images/logo-getty.png": {
     "file": "_assets/logo-getty.png",
