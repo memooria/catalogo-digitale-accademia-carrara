@@ -1,5 +1,61 @@
 figure_list:
 
+  - id: "cat-35"
+    src: figures/35.jpg
+    caption: "Tito Sarrocchi nella bottega di Giovanni Dupré, *Ritratto di Luigi Tonti*"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/74197d41-f274-4f8b-8caa-f01600b04479/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/74197d41-f274-4f8b-8caa-f01600b04479/canvas/ebd087e7-2473-44aa-9fa2-25205f7493b8
+    zoom: true
+
+  - id: "cat-35_1"
+    src: figures/35_1.jpg
+    caption: "Tito Sarrocchi nella bottega di Giovanni Dupré, *Ritratto di Luigi Tonti* (recto con cornice e iscrizione)."
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b04bc18f-2909-4c48-94a1-0b5edba73f66/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b04bc18f-2909-4c48-94a1-0b5edba73f66/canvas/d3c3c2a7-c9d3-4830-a3ae-3126ddc17b2c
+    zoom: true
+
+  - id: "cat-35_2"
+    src: figures/35_2.jpg
+    caption: "Fig. 2 - Tito Sarrocchi nella bottega di Giovanni Dupré, *Ritratto di Luigi Tonti* (recto, particolare)."
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b0a135e3-d010-49b8-9249-a6a3822b0d5b/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b0a135e3-d010-49b8-9249-a6a3822b0d5b/canvas/9665630c-062e-42bd-b94a-8409767c15e8
+    zoom: true
+
+  - id: "cat-35_3"
+    src: figures/35_3.jpg
+    caption: "Fig. 3 - Giovanni Dupré, *Giotto*, Firenze, Loggiato degli Uffizi (particolare)."
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/665a46d2-2248-4b9b-a4f5-00da49cf16d5/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/665a46d2-2248-4b9b-a4f5-00da49cf16d5/canvas/01fc413a-4122-433f-ac2d-06ebf8b319b1
+    zoom: true
+
+  - id: "cat-35_4"
+    src: figures/35_4.jpg
+    caption: "Fig. 4 - Giovanni Dupré, *Sonno dell’Innocenza*, Siena, Museo dell’Opera del Duomo (particolare)."
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3631860d-f0b1-43f2-87cb-84a0f0471835/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3631860d-f0b1-43f2-87cb-84a0f0471835/canvas/b216ab1c-3e5c-40d5-8637-15434351e5a2
+    zoom: true
+
+  - id: "cat-35_6"
+    src: figures/35_6.jpg
+    caption: "Fig. 6 - Francesco Ferrucci detto del Tadda, *Ritratto di Cosimo I*, Londra, Victoria and Albert Museum."
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bd5eda0c-9978-481e-9abf-02865f20fcf0/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bd5eda0c-9978-481e-9abf-02865f20fcf0/canvas/f0642e0a-3f40-46c5-9823-96266fb9dba9
+    zoom: true
+
+  - id: "cat-35_7"
+    src: figures/35_7.jpg
+    caption: "Fig. 7 - Tito Sarrocchi nella bottega di Giovanni Dupré, *Ritratto di Luigi Tonti* (recto senza cornice)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/28f56217-ae69-445a-afef-563aa3f7ca83/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/28f56217-ae69-445a-afef-563aa3f7ca83/canvas/dcc03725-6480-4bb2-8dd4-830c5b662de3
+    zoom: true
+
+  - id: "cat-35_8"
+    src: figures/35_8.jpg
+    caption: "Fig. 8 - Tito Sarrocchi nella bottega di Giovanni Dupré, *Ritratto di Luigi Tonti* (verso senza cornice)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e34fcde0-a432-4253-8729-ed8e4d5b3cf6/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e34fcde0-a432-4253-8729-ed8e4d5b3cf6/canvas/ed987646-01e7-487b-940a-3f04bf38ff8a
+    zoom: true
+
   - id: "lange"
     src: figures/lange.jpg
     caption: "*Dorothea Lange, Resettlement Administration photographer, in California*, 1936."
@@ -64,13 +120,6 @@ figure_list:
     caption: "Echoing the work of Lange and Evans, contemporary photographer Chris Killip documents social landscapes and is known for a series of powerful images of struggling industrial communities in North East England."
     credit: "© J. Paul Getty Trust"
 
-  - id: "cat-1"
-    src: figures/lange-mother-a.jpg
-    caption: "Dorothea Lange, *Human Erosion in California / Migrant Mother*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-    zoom: true
-
   - id: "mother-variants"
     label: "Figure 1.1"
     caption: "Alternate versions of Dorothea Lange’s *Migrant Mother*, 1936."
@@ -97,20 +146,3 @@ figure_list:
           - src: "figures/lange-layers/scratches.png"
           - src: "figures/lange-layers/thumb.png"
             selected: true
-
-  - id: "cat-2"
-    src: figures/evans-fields-family-a.jpg
-    caption: "Walker Evans, *Bud Fields with His Wife Ivy, and His Daughter Ellen, Hale County, Alabama*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-    zoom: true
-
-  - id: "cat-2-b"
-    src: figures/evans-fields-family-b.jpg
-    caption: "Walker Evans, *Sharecropper's Family, Hale County, Alabama / Bud Fields and His Family, Hale County, Alabama / Bud Woods and His Family*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-
-  - id: "cat-2-c"
-    src: figures/evans-bud-fields.jpg
-    caption: "Walker Evans, * [William Edward (Bud) Fields, A Cotton Sharecropper, Hale County, Alabama]/[Bud Woods, Tenant Farmer]*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
