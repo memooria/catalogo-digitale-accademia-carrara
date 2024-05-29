@@ -1,5 +1,5 @@
 ---
-title: Contributors
+title: Autori
 layout: page
 order: 501
 ---

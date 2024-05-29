@@ -1,5 +1,5 @@
 ---
-title: Contents
+title: Indice
 layout: table-of-contents
 order: 6
 presentation: list
