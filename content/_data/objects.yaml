@@ -13,7 +13,7 @@ object_display_order:
 
 object_list:
 
-  - id: 1
+  - id: 35
     autore: Tito Sarrocchi, nella bottega di Giovanni Dupré
     dati anagrafici autore: Siena, 5 gennaio 1824 - Siena, 30 luglio 1900
     titolo: Ritratto di Luigi Tonti
@@ -26,7 +26,15 @@ object_list:
     numeri di inventario precedenti: Sc. 170 (1998-2007); Sc. 172; Sc. 157; 2007 SC 00122 (2007-2011); 1998 AC Sculture 00044; 98 SC ZR044 (2012-2015)
     collocazione: Non esposto
     figure:
-      - id: "cat-1"
+      - id: "cat-35"
+      - id: "cat-35_1"
+      - id: "cat-35_2"
+      - id: "cat-35_3"
+      - id: "cat-35_4"
+      - id: "cat-35_5"
+      - id: "cat-35_6"
+      - id: "cat-35_7"
+      - id: "cat-35_8"
 
   - id: 2
     titolo: Bud Fields and His Wife Ivy, and His Daughter Ellen, Hale County, Alabama
