@@ -143,6 +143,10 @@
     "file": "_assets/notoserif-regular.woff2",
     "src": "_assets/fonts/noto-serif/notoserif-regular.woff2"
   },
+  "_assets/images/Collezione_Zeri.jpeg": {
+    "file": "_assets/Collezione_Zeri.jpeg",
+    "src": "_assets/images/Collezione_Zeri.jpeg"
+  },
   "_assets/images/Cover_Accademia_Carrara.jpg": {
     "file": "_assets/Cover_Accademia_Carrara.jpg",
     "src": "_assets/images/Cover_Accademia_Carrara.jpg"
