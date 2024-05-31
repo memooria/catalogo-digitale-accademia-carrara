@@ -48,13 +48,22 @@ contributor_as_it_appears:
 contributor:
   - id: jkeller
     type: primary
+    first_name: Martina
+    last_name: Bagnoli
+    title: Direttrice
+    affiliation: Accademia Carrara
+    bio: "Direttore di museo con vasta esperienza internazionale e comprovata capacità di sviluppare e attuare una visione strategica per grandi istituzioni museali. Forte competenza nella progettazione, negoziazione e attuazione di cambiamenti aziendali al fine di sviluppare approcci innovativi al patrimonio museale e artistico per una sua efficace conservazione, valorizzazione e fruizione. Storica dell’arte di fama e curatrice di importanti esposizioni internazionali con all’attivo più di 130 tra mostre, pubblicazioni, docenze accademiche e conferenze. Esperta comunicatrice con una solida esperienza nella raccolta fondi e nella costruzione di partnership, Martina Bagnoli è una appassionata sostenitrice del ruolo dell'arte nella società. Dal 2015 a gennaio 2024 è stata direttrice delle Gallerie Estensi, un museo autonomo del Ministero della Cultura italiano che comprende la Galleria Estense di Modena, la Biblioteca Estense universitaria, il Museo lapidario, il Palazzo ducale di Sassuolo e la Pinacoteca nazionale di Ferrara. In precedenza, dal 2002 al 2015, Bagnoli è stata curatrice di arte medievale per il Walters Art Museum. Da febbraio 2024 dirige l'Accademia Carrara di Bergamo."
+    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
+    image: figures/contributors/martinabagnoli.jpg
+
+  - id: pplebani
+    type: secondary
     first_name: Paolo
     last_name: Plebani
-    title: Senior Curator of Photographs
-    affiliation: J. Paul Getty Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    image: contributors/judith-keller.jpg
+    title: Responsabile Dipinti, Disegni, Stampe, Archivi Storici, Biblioteca Storica
+    affiliation: Accademia Carrara
+    bio: "Storico dell’arte, specializzato in pittura veneta tra XVI e XVIII secolo, conservatore all’Accademia Carrara di Bergamo. Tra i suoi lavori, molte collaborazioni con saggi e schede di catalogo a mostre: si ricordi il recente contributo a *La peinture en Lombardie au XVII siècle. De la violence des passions à l’idéal de beauté* (Palais Fesch, Ajaccio, 2014). Tra le sue pubblicazioni, la monografia *Verona e gli artisti veronesi nelle «Vite» di Giorgio Vasari* (LED Edizioni Universitarie, Milano 2012)."
+    image: 
 
 # ------------------------------------------------------------------------------
 # Copright & License
