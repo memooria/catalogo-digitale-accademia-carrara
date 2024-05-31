@@ -143,49 +143,25 @@
     "file": "_assets/notoserif-regular.woff2",
     "src": "_assets/fonts/noto-serif/notoserif-regular.woff2"
   },
+  "_assets/images/Collezione_Zeri.jpeg": {
+    "file": "_assets/Collezione_Zeri.jpeg",
+    "src": "_assets/images/Collezione_Zeri.jpeg"
+  },
   "_assets/images/Cover_Accademia_Carrara.jpg": {
     "file": "_assets/Cover_Accademia_Carrara.jpg",
     "src": "_assets/images/Cover_Accademia_Carrara.jpg"
   },
-  "_assets/images/contributors/judith-keller.jpg": {
-    "file": "_assets/judith-keller.jpg",
-    "src": "_assets/images/contributors/judith-keller.jpg"
+  "_assets/images/contributors/martinabagnoli.jpg": {
+    "file": "_assets/martinabagnoli.jpg",
+    "src": "_assets/images/contributors/martinabagnoli.jpg"
+  },
+  "_assets/images/contributors/paoloplebani.jpg": {
+    "file": "_assets/paoloplebani.jpg",
+    "src": "_assets/images/contributors/paoloplebani.jpg"
   },
   "_assets/images/figures/35.jpg": {
     "file": "_assets/35.jpg",
     "src": "_assets/images/figures/35.jpg"
-  },
-  "_assets/images/figures/evans-burroughs.jpg": {
-    "file": "_assets/evans-burroughs.jpg",
-    "src": "_assets/images/figures/evans-burroughs.jpg"
-  },
-  "_assets/images/figures/evans-graveyard.jpg": {
-    "file": "_assets/evans-graveyard.jpg",
-    "src": "_assets/images/figures/evans-graveyard.jpg"
-  },
-  "_assets/images/figures/evans-hymns.jpg": {
-    "file": "_assets/evans-hymns.jpg",
-    "src": "_assets/images/figures/evans-hymns.jpg"
-  },
-  "_assets/images/figures/evans-legionnaire.jpg": {
-    "file": "_assets/evans-legionnaire.jpg",
-    "src": "_assets/images/figures/evans-legionnaire.jpg"
-  },
-  "_assets/images/figures/evans-sons.jpg": {
-    "file": "_assets/evans-sons.jpg",
-    "src": "_assets/images/figures/evans-sons.jpg"
-  },
-  "_assets/images/figures/evans.jpg": {
-    "file": "_assets/evans.jpg",
-    "src": "_assets/images/figures/evans.jpg"
-  },
-  "_assets/images/figures/lange-house.jpg": {
-    "file": "_assets/lange-house.jpg",
-    "src": "_assets/images/figures/lange-house.jpg"
-  },
-  "_assets/images/figures/lange.jpg": {
-    "file": "_assets/lange.jpg",
-    "src": "_assets/images/figures/lange.jpg"
   },
   "_assets/images/logo-getty.png": {
     "file": "_assets/logo-getty.png",
