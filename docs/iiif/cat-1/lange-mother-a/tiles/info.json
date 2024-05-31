@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "https://catalogo-accademia-carrara.memooria.org/iiif/cat-1/lange-mother-a/tiles",
+  "@id": "https://francescogavioli-catalogo-accademia-carrara.memooria.org/iiif/cat-1/lange-mother-a/tiles",
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
     {
