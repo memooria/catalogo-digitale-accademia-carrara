@@ -21,7 +21,7 @@ export class CustomBox {
     //language=html
     const html = `
         <div id="logo-container" class="cb-d-flex ">
-            <img src="/_assets/images/logo-gallerie-estensi.png" alt="logo gallerie estensi">
+            <img src="/_assets/images/logo-accademia-carrara.png" alt="logo gallerie estensi">
         </div>
     `;
 
@@ -32,7 +32,7 @@ export class CustomBox {
 
 
     const img = document.createElement('img');
-    img.src = '/_assets/images/logo-gallerie-estensi.png';
+    img.src = '/_assets/images/logo-accademia-carrara.png';
     img.alt = 'logo gallerie estensi';
     logoContainer.appendChild(img);
 
