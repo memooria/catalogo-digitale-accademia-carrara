@@ -9,7 +9,7 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'http://localhost:8080'
+url: 'https://quireac.dev-box.it'
 
 # ------------------------------------------------------------------------------
 # Title & Description
@@ -27,17 +27,17 @@ description:
 # ------------------------------------------------------------------------------
 
 pub_date: 2022-12-01 # YYYY-MM-DD
-language: en
+language: it
 pub_type: book # book | journal-periodical | other
 
 identifier: 
   isbn:
 
 publisher:
-  - name: J. Paul Getty Trust
-    location: Los Angeles
-    url:
-    logo: logo-getty.png
+  - name: Haltadefinizione
+    location: Modena
+    url: https://www.haltadefinizione.com/
+    logo: logo-accademia-carrara.png
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -68,7 +68,7 @@ contributor:
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2022 J. Paul Getty Trust
+copyright: © 2024 Accademia Carrara - Ministero della Cultura
 
 license:
   name: Creative Commons Attribution 4.0 International License

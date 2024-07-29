@@ -41,9 +41,9 @@ figures:
 licenseIcons: true
 
 localization:
-  defaultLocale: en-us
+  defaultLocale: it-it
 
-menuType: full # full | brief
+menuType: full
 
 navigation:
   nextButtonText: Avanti
