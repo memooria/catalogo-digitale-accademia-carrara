@@ -21,8 +21,13 @@ import Accordion from './accordion'
 import Search from '../../../../_plugins/search/search.js'
 import scrollToHash from './scroll-to-hash'
 
+import {CustomBox} from '#root/content/_assets/javascript/custom'
+new CustomBox().init();
+
 // array of leaflet instances
 const mapArr = []
+
+
 
 /**
  * toggleMenu
@@ -234,15 +239,15 @@ function setDate() {
 }
 
 /**
-* Translates the X-position of an element inside a container so that its contents
-* are contained
-* Expects the contained element to already be translated so that it's centered above
-* another element
-*
-* @param {object} element to position
-* @param {object} container element
-* @param {number} container margin
-*/
+ * Translates the X-position of an element inside a container so that its contents
+ * are contained
+ * Expects the contained element to already be translated so that it's centered above
+ * another element
+ *
+ * @param {object} element to position
+ * @param {object} container element
+ * @param {number} container margin
+ */
 function setPositionInContainer(el, container) {
   const margin = parseInt(getComputedStyle(document.documentElement).getPropertyValue('--gap'))
   const elRect = el.getBoundingClientRect()
