@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://catalogo-accademia-carrara.memooria.org/iiif/mother-variants/manifest.json",
+  "id": "https://quireac.dev-box.it/iiif/mother-variants/manifest.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -9,25 +9,25 @@
   },
   "items": [
     {
-      "id": "https://catalogo-accademia-carrara.memooria.org/iiif/mother-variants/canvas",
+      "id": "https://quireac.dev-box.it/iiif/mother-variants/canvas",
       "type": "Canvas",
       "height": 1024,
       "width": 826,
       "items": [
         {
-          "id": "https://catalogo-accademia-carrara.memooria.org/iiif/mother-variants/canvas/annotation-page",
+          "id": "https://quireac.dev-box.it/iiif/mother-variants/canvas/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://catalogo-accademia-carrara.memooria.org/iiif/mother-variants/canvas/choices",
+              "id": "https://quireac.dev-box.it/iiif/mother-variants/canvas/choices",
               "motivation": "painting",
-              "target": "https://catalogo-accademia-carrara.memooria.org/iiif/mother-variants/canvas",
+              "target": "https://quireac.dev-box.it/iiif/mother-variants/canvas",
               "type": "Annotation",
               "body": {
                 "type": "Choice",
                 "items": [
                   {
-                    "id": "https://catalogo-accademia-carrara.memooria.org/iiif/mother-variants/lange-mother-b.jpg",
+                    "id": "https://quireac.dev-box.it/iiif/mother-variants/lange-mother-b.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "height": 1024,
@@ -39,7 +39,7 @@
                     }
                   },
                   {
-                    "id": "https://catalogo-accademia-carrara.memooria.org/iiif/mother-variants/lange-mother-c.jpg",
+                    "id": "https://quireac.dev-box.it/iiif/mother-variants/lange-mother-c.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "height": 1024,
