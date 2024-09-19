@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://catalogo-accademia-carrara.memooria.org/iiif/cat-2/manifest.json",
+  "id": "https://francescogavioli-catalogo-accademia-carrara.memooria.org/iiif/cat-2/manifest.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -9,22 +9,22 @@
   },
   "items": [
     {
-      "id": "https://catalogo-accademia-carrara.memooria.org/iiif/cat-2/canvas",
+      "id": "https://francescogavioli-catalogo-accademia-carrara.memooria.org/iiif/cat-2/canvas",
       "type": "Canvas",
       "height": 4276,
       "width": 5365,
       "items": [
         {
-          "id": "https://catalogo-accademia-carrara.memooria.org/iiif/cat-2/canvas/annotation-page",
+          "id": "https://francescogavioli-catalogo-accademia-carrara.memooria.org/iiif/cat-2/canvas/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://catalogo-accademia-carrara.memooria.org/iiif/cat-2/canvas/evans-fields-family-a",
+              "id": "https://francescogavioli-catalogo-accademia-carrara.memooria.org/iiif/cat-2/canvas/evans-fields-family-a",
               "motivation": "painting",
-              "target": "https://catalogo-accademia-carrara.memooria.org/iiif/cat-2/canvas",
+              "target": "https://francescogavioli-catalogo-accademia-carrara.memooria.org/iiif/cat-2/canvas",
               "type": "Annotation",
               "body": {
-                "id": "https://catalogo-accademia-carrara.memooria.org/iiif/cat-2/evans-fields-family-a/tiles/info.json",
+                "id": "https://francescogavioli-catalogo-accademia-carrara.memooria.org/iiif/cat-2/evans-fields-family-a/tiles/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 4276,
@@ -37,7 +37,7 @@
                 "service": [
                   {
                     "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://catalogo-accademia-carrara.memooria.org/iiif/cat-2/evans-fields-family-a/tiles/info.json",
+                    "@id": "https://francescogavioli-catalogo-accademia-carrara.memooria.org/iiif/cat-2/evans-fields-family-a/tiles/info.json",
                     "profile": "level0",
                     "protocol": "http://iiif.io/api/image"
                   }
