@@ -110,4 +110,45 @@ object_list:
     numeri di inventario precedenti: Sc. 133 (1998-2007); Sc. 135; Sc. 120; 1998 AC Sculture 00007 (2011-2012); 98 SC ZR007 (2012-2015)
     collocazione: Esposto - Sala 6
     figure:
-    
+  
+  - id: 8
+    autore: Pietro Bernini
+    dati anagrafici autore: Sesto Fiorentino, 1562 - Roma, 1629
+    titolo: Andromeda
+    datazione: 1610-1620 circa
+    materia e tecnica: Marmo
+    misure: 105 × 52,5 × 41 cm
+    iscrizioni, etichette, cartellini, timbri: Nessuna
+    acquisizione: Legato Federico Zeri, 1998
+    numero di inventario: Inv. n. 98 ZR 00008
+    numeri di inventario precedenti: Sc. 134 (1998-2007); Sc. 137; Sc. 122; 1998 AC Sculture 00008 (2011-2012); 98 SC ZR008 (2012-2015)
+    collocazione: Esposto Sala 6
+    figure:
+
+  - id: 9
+    autore: Pietro Bernini
+    dati anagrafici autore: Sesto Fiorentino, 1562 - Roma, 1629
+    titolo: La Virtù sottomette il Vizio 
+    datazione: 1615 circa
+    materia e tecnica: Marmo
+    misure: 42 × 21 × 18.5 cm (statua); 10 x 25 x 26 cm (basamento intagliato dorato)
+    iscrizioni, etichette, cartellini, timbri: Nessuna
+    acquisizione: Legato Federico Zeri, 1998
+    numero di inventario: Inv. n. 98 ZR 00009
+    numeri di inventario precedenti: Sc. 135 (1998-2007); Sc. 136; Sc. 121; 1998 AC Sculture 00009 (2011-2012); 98 SC ZR009 (2012-2015)
+    collocazione: Esposto Sala 6
+    figure:
+
+  - id: 10
+    autore: Francois du Quesnoy (o Duquesnoy), detto il Fiammingo
+    dati anagrafici autore: Bruxelles, 12 gennaio 1597 - Livorno, 18 luglio 1643
+    titolo: Angelo con drappo
+    datazione: 1628-1629 circa
+    materia e tecnica: Marmo bianco 
+    misure: 28,8 x 14,8 x 7,2 cm; con cornice: 44,2 x 30 x 7,5 cm
+    iscrizioni, etichette, cartellini, timbri: Nessuna
+    acquisizione: Legato Federico Zeri, 1998
+    numero di inventario: Inv. n. 98 ZR 00010 
+    numeri di inventario precedenti: Sc. 137 (1998-2007); Sc. 138; Sc. 123; 1998 AC Sculture 00010 (2011-2012); 98 SC ZR010 (2012-2015) 
+    collocazione: Esposto Sala 6
+    figure:
