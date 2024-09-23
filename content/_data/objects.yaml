@@ -122,7 +122,7 @@ object_list:
     acquisizione: Legato Federico Zeri, 1998
     numero di inventario: Inv. n. 98 ZR 00008
     numeri di inventario precedenti: Sc. 134 (1998-2007); Sc. 137; Sc. 122; 1998 AC Sculture 00008 (2011-2012); 98 SC ZR008 (2012-2015)
-    collocazione: Esposto Sala 6
+    collocazione: Esposto - Sala 6
     figure:
 
   - id: 9
@@ -136,7 +136,7 @@ object_list:
     acquisizione: Legato Federico Zeri, 1998
     numero di inventario: Inv. n. 98 ZR 00009
     numeri di inventario precedenti: Sc. 135 (1998-2007); Sc. 136; Sc. 121; 1998 AC Sculture 00009 (2011-2012); 98 SC ZR009 (2012-2015)
-    collocazione: Esposto Sala 6
+    collocazione: Esposto - Sala 6
     figure:
 
   - id: 10
@@ -150,5 +150,391 @@ object_list:
     acquisizione: Legato Federico Zeri, 1998
     numero di inventario: Inv. n. 98 ZR 00010 
     numeri di inventario precedenti: Sc. 137 (1998-2007); Sc. 138; Sc. 123; 1998 AC Sculture 00010 (2011-2012); 98 SC ZR010 (2012-2015) 
-    collocazione: Esposto Sala 6
+    collocazione: Esposto - Sala 6
+    figure:
+
+  - id: 11
+    autore: François du Quesnoy (o Duquesnoy), detto il Fiammingo
+    dati anagrafici autore: Bruxelles, 12 gennaio 1597 - Livorno, 18 luglio 1643
+    titolo: Putto con corona di alloro
+    datazione: 1626-1630 circa
+    materia e tecnica: Marmo bianco
+    misure: 27,6 x 14,8 x 7 cm; con cornice: 43,2 x 30 x 7,7 cm
+    iscrizioni, etichette, cartellini, timbri: Nessuna
+    acquisizione: Legato Federico Zeri, 1998
+    numero di inventario: Inv. n. 98 ZR 00011
+    numeri di inventario precedenti: Sc. 136 (1998-2007); Sc. 139; Sc. 124; 1998 AC Sculture 00011 (2011-2012); 98 SC ZR011 (2012-2015) 
+    collocazione: Esposto - Sala 6
+    figure:
+
+  - id: 12
+    autore: Scultore attivo a Roma (Alessandro Algardi? Nicolas Cordier?)
+    dati anagrafici autore: 
+    titolo: Santa Martina
+    datazione: 1650 circa / 1590-1610 circa
+    materia e tecnica: Terracotta
+    misure: 91 × 57 × 41 cm
+    iscrizioni, etichette, cartellini, timbri: Nessuna
+    acquisizione: Legato Federico Zeri, 1988
+    numero di inventario: Inv. n. 98 ZR 00012
+    numeri di inventario precedenti: Sc. 138 (1998-2007); Sc. 141; Sc. 126; 1998 AC Sculture 00012 (2011-2012); 98 SC ZR012 (2012-2015)
+    collocazione: Non esposto
+    figure:
+
+  - id: 13
+    autore: Scultore attivo a Roma
+    dati anagrafici autore: Roma, prima metà del secolo XVII
+    titolo: Testa di Socrate
+    datazione: 1630-1650 circa
+    materia e tecnica: Marmo nero del Belgio (o Marmo nero Marquina)
+    misure: 40,5 × 26,4 × 25,3 cm (busto); 12,7 × 21,5 × 18,9 cm (base)
+    iscrizioni, etichette, cartellini, timbri: Nessuna
+    acquisizione: Legato Federico Zeri, 1988
+    numero di inventario: Inv. n. 98 ZR 00013
+    numeri di inventario precedenti: Sc. 139 (1998-2007); Sc. 140; Sc. 125; 1998 AC Sculture 00013 (2011-2012); 98 SC ZR013 (2012-2015)
+    collocazione: Esposto - Sala 6
+    figure:
+
+  - id: 14
+    autore: Domenico Guidi
+    dati anagrafici autore: Torano, Carrara, 1625 - Roma, 1701
+    titolo: Busto di Alessandro Rondinini
+    datazione: 1667 circa
+    materia e tecnica: Marmo
+    misure: 93 × 73 × 33 cm (busto); 17,5 x XX x XX cm (base)
+    iscrizioni, etichette, cartellini, timbri: Sulla base, non unita al busto originariamente, iscrizione in lettere capitali «pavl aemilivs / card  zacchia / anno mdxcix»
+    acquisizione: Legato Federico Zeri, 1988
+    numero di inventario: Inv. n. 98 ZR 00014
+    numeri di inventario precedenti: Sc. 140 (1998-2007); Sc. 142; Sc. 127; 1998 AC Sculture 00014 (2011-2012); 98 SC ZR014 (2012-2015)
+    collocazione: Esposto - Sala 6
+    figure:
+
+  - id: 15
+    autore: Scultore attivo a Roma / Scultore romano
+    dati anagrafici autore:
+    titolo: Busto di cardinale (Toussaint de Forbin-Janson?)
+    datazione: 1700-1715 circa 
+    materia e tecnica: Marmo
+    misure: 69 × 72 × 33 cm (busto); cm. XX x XX (base)
+    iscrizioni, etichette, cartellini, timbri: Sul retro in basso etichetta adesiva circolare con iscrizione a china: «[…] / 330»
+    acquisizione: Legato Federico Zeri, 1988
+    numero di inventario: Inv. n. 98 ZR 00015
+    numeri di inventario precedenti: Sc. 141 (1998-2007); Sc. 154; Sc. 139; 1998 AC Sculture 00015 (2011-2012); 98 SC ZR015 (2012-2015)
+    collocazione: Non esposto
+    figure:
+
+  - id: 16
+    autore: Giovanni Francesco Arrighi
+    dati anagrafici autore: Roma, 1646-1730
+    titolo: Statua reliquiario di Santa Palazia
+    datazione: 1726
+    materia e tecnica: Argento, rame dorato, marmo, legno 
+    misure: 105 × 53 × 47 cm
+    iscrizioni, etichette, cartellini, timbri: All’attaccatura della testa, punzone della Corporazione degli orafi e argentieri di Roma (due chiavi pontificie incrociate e coperte da un ombrello). Punzone camerale nascosto. Sopra il camerale, punzone dell’artefice (zampa di leone).
+    acquisizione: Legato Federico Zeri, 1988
+    numero di inventario: Inv. n. 98 ZR 00016
+    numeri di inventario precedenti: Sc. 142 (1998-2007); Sc. 143; Sc. 128; 1998 AC Sculture 00016 (2011-2012); 98 SC ZR016 (2012-2015)
+    collocazione: Esposto - Scalone d’onore
+    figure:
+
+  - id: 17
+    autore: Ignazio Marabitti
+    dati anagrafici autore: Palermo, 1719-1797 
+    titolo: San Paolo
+    datazione: 1757
+    materia e tecnica: Terracotta
+    misure: 55 × 35 × 18 cm 
+    iscrizioni, etichette, cartellini, timbri: Nessuna
+    acquisizione: Legato Federico Zeri, 1988
+    numero di inventario: Inv. n. 98 ZR 00017
+    numeri di inventario precedenti: Sc. 143 (1998-2007); Sc. 157; Sc. 142; 1998 AC Sculture 00017 (2011-2012); 98 SC ZR017 (2012-2015)
+    collocazione: Non esposto
+    figure:
+
+  - id: 18a
+    autore: Anton Francesco Andreozzi 
+    dati anagrafici autore: Firenze, 1663-1731
+    titolo: Incontro di Cristo con le pie donne 
+    datazione: 1685 circa
+    materia e tecnica: Terracotta invetriata
+    misure: diam. 43,5 cm x X (con cornice diam. 58 cm x 3)
+    iscrizioni, etichette, cartellini, timbri: Nessuna
+    acquisizione: Legato Federico Zeri, 1988
+    numero di inventario: Inv. n. 98 ZR 00018
+    numeri di inventario precedenti: Sc. 144 (1998-2007); Sc. 129; 1998 AC Sculture 00018 (2011-2012); 98 SC ZR018 (2012-2015)
+    collocazione: Non esposto
+    figure:
+
+  - id: 18b
+    autore: Anton Francesco Andreozzi
+    dati anagrafici autore: Firenze, 1663-1731
+    titolo: Seconda caduta di Cristo sotto la croce
+    datazione: 1685 circa 
+    materia e tecnica: Terracotta invetriata
+    misure: diam. 43,5 cm x X (con cornice diam. 58 cm x 3)
+    iscrizioni, etichette, cartellini, timbri: Sul retro, sul controfondo in legno, iscrizione a gessetto azzurro: «GELARDINI / SOTHEBY».
+    acquisizione: Llegato Federico Zeri, 1988
+    numero di inventario: Inv. n. 98 ZR 00019
+    numeri di inventario precedenti: Sc. 145 (1998-2007); Sc. 130; 1998 AC Sculture 00019 (2011-2012); 98 SC ZR019 (2012-2015)
+    collocazione: Non esposto 
+    figure:
+
+  - id: 19
+    autore: Filippo Parodi
+    dati anagrafici autore: Genova, 1630-1702
+    titolo: Angeli e cherubini (Bozzetto per il basamento di candeliere della cappella dell’Arca di Sant’Antonio)
+    datazione: 1688-1689 circa
+    materia e tecnica: Terracotta
+    misure: 22 × 29 × 14 cm 
+    iscrizioni, etichette, cartellini, timbri: Nessuna
+    acquisizione: Legato Federico Zeri, 1988
+    numero di inventario: Inv. n. 98 ZR 00020
+    numeri di inventario precedenti: Sc. 146 (1998-2007); Sc. 132; Sc. 131; 1998 AC Sculture 00020 (2011-2012); 98 SC ZR020 (2012-2015)
+    collocazione: Esposto - Sala 13
+    figure:
+
+  - id: 20
+    autore: Orazio Marinali
+    dati anagrafici autore: Angarano, Vicenza, 1643 - Vicenza, 1720
+    titolo: Lucrezia
+    datazione: 1700-1710
+    materia e tecnica: Marmo
+    misure: 49 × 40 × 27 cm (busto); 18 × 21,5 × 21 cm (base)
+    iscrizioni, etichette, cartellini, timbri: 
+    acquisizione: Legato Federico Zeri, 1988
+    numero di inventario: Inv. n. 98 ZR 00021
+    numeri di inventario precedenti: Sc. 147 (1998-2007); Sc. 132; 1998 AC Sculture 00021; (2011-2012); 98 SC ZR021 (2012-2015)
+    collocazione: Esposto - Sala 13
+    figure:
+
+  - id: 21
+    autore: 
+    dati anagrafici autore: 
+    titolo: 
+    datazione: 
+    materia e tecnica: 
+    misure: 
+    iscrizioni, etichette, cartellini, timbri: 
+    acquisizione: 
+    numero di inventario: 
+    numeri di inventario precedenti: 
+    collocazione: 
+    figure:
+
+  - id: 22
+    autore: 
+    dati anagrafici autore: 
+    titolo: 
+    datazione: 
+    materia e tecnica: 
+    misure: 
+    iscrizioni, etichette, cartellini, timbri: 
+    acquisizione: 
+    numero di inventario: 
+    numeri di inventario precedenti: 
+    collocazione: 
+    figure:
+
+  - id: 23
+    autore: 
+    dati anagrafici autore: 
+    titolo: 
+    datazione: 
+    materia e tecnica: 
+    misure: 
+    iscrizioni, etichette, cartellini, timbri: 
+    acquisizione: 
+    numero di inventario: 
+    numeri di inventario precedenti: 
+    collocazione: 
+    figure:
+
+  - id: 24
+    autore: 
+    dati anagrafici autore: 
+    titolo: 
+    datazione: 
+    materia e tecnica: 
+    misure: 
+    iscrizioni, etichette, cartellini, timbri: 
+    acquisizione: 
+    numero di inventario: 
+    numeri di inventario precedenti: 
+    collocazione: 
+    figure:
+
+  - id: 25
+    autore: 
+    dati anagrafici autore: 
+    titolo: 
+    datazione: 
+    materia e tecnica: 
+    misure: 
+    iscrizioni, etichette, cartellini, timbri: 
+    acquisizione: 
+    numero di inventario: 
+    numeri di inventario precedenti: 
+    collocazione: 
+    figure:
+
+  - id: 26
+    autore: 
+    dati anagrafici autore: 
+    titolo: 
+    datazione: 
+    materia e tecnica: 
+    misure: 
+    iscrizioni, etichette, cartellini, timbri: 
+    acquisizione: 
+    numero di inventario: 
+    numeri di inventario precedenti: 
+    collocazione: 
+    figure:
+
+  - id: 27
+    autore: 
+    dati anagrafici autore: 
+    titolo: 
+    datazione: 
+    materia e tecnica: 
+    misure: 
+    iscrizioni, etichette, cartellini, timbri: 
+    acquisizione: 
+    numero di inventario: 
+    numeri di inventario precedenti: 
+    collocazione: 
+    figure:
+
+  - id: 28
+    autore: 
+    dati anagrafici autore: 
+    titolo: 
+    datazione: 
+    materia e tecnica: 
+    misure: 
+    iscrizioni, etichette, cartellini, timbri: 
+    acquisizione: 
+    numero di inventario: 
+    numeri di inventario precedenti: 
+    collocazione: 
+    figure:
+
+  - id: 29
+    autore: 
+    dati anagrafici autore: 
+    titolo: 
+    datazione: 
+    materia e tecnica: 
+    misure: 
+    iscrizioni, etichette, cartellini, timbri: 
+    acquisizione: 
+    numero di inventario: 
+    numeri di inventario precedenti: 
+    collocazione: 
+    figure:
+
+  - id: 30
+    autore: 
+    dati anagrafici autore: 
+    titolo: 
+    datazione: 
+    materia e tecnica: 
+    misure: 
+    iscrizioni, etichette, cartellini, timbri: 
+    acquisizione: 
+    numero di inventario: 
+    numeri di inventario precedenti: 
+    collocazione: 
+    figure:
+
+  - id: 31
+    autore: 
+    dati anagrafici autore: 
+    titolo: 
+    datazione: 
+    materia e tecnica: 
+    misure: 
+    iscrizioni, etichette, cartellini, timbri: 
+    acquisizione: 
+    numero di inventario: 
+    numeri di inventario precedenti: 
+    collocazione: 
+    figure:
+
+  - id: 32
+    autore: 
+    dati anagrafici autore: 
+    titolo: 
+    datazione: 
+    materia e tecnica: 
+    misure: 
+    iscrizioni, etichette, cartellini, timbri: 
+    acquisizione: 
+    numero di inventario: 
+    numeri di inventario precedenti: 
+    collocazione: 
+    figure:
+
+  - id: 33
+    autore: 
+    dati anagrafici autore: 
+    titolo: 
+    datazione: 
+    materia e tecnica: 
+    misure: 
+    iscrizioni, etichette, cartellini, timbri: 
+    acquisizione: 
+    numero di inventario: 
+    numeri di inventario precedenti: 
+    collocazione: 
+    figure:
+
+  - id: 34
+    autore: 
+    dati anagrafici autore: 
+    titolo: 
+    datazione: 
+    materia e tecnica: 
+    misure: 
+    iscrizioni, etichette, cartellini, timbri: 
+    acquisizione: 
+    numero di inventario: 
+    numeri di inventario precedenti: 
+    collocazione: 
+    figure:
+
+  - id: 35
+    autore: Tito Sarrocchi, nella bottega di Giovanni Dupré
+    dati anagrafici autore: Siena, 5 gennaio 1824 - Siena, 30 luglio 1900
+    titolo: Ritratto di Luigi Tonti
+    datazione: 1854 - 1855
+    materia e tecnica: Porfido rosso
+    misure: 23 × 19 × 6 cm (porfido); 31,2 x 27,8 x 6 cm (cornice) 39,7 x 27,8 x 6 cm (cornice e occhiello)
+    iscrizioni, etichette, cartellini, timbri: Sul verso della cornice, iscrizione incisa in carattere corsivo « Il Professore Giovanni Duprè scolpiva il ritratto di Luigi Tonti ritrovatore della tempera che rende gli scalpelli resistenti a tagliare il Porfido. / Firenze 1855. »
+    acquisizione: Legato Federico Zeri, 1998
+    numero di inventario: Inv. n. 98 ZR 00044
+    numeri di inventario precedenti: Sc. 170 (1998-2007); Sc. 172; Sc. 157; 2007 SC 00122 (2007-2011); 1998 AC Sculture 00044; 98 SC ZR044 (2012-2015)
+    collocazione: Non esposto
+    figure:
+      - id: "cat-35"
+      - id: "cat-35_1"
+      - id: "cat-35_2"
+      - id: "cat-35_3"
+      - id: "cat-35_4"
+      - id: "cat-35_6"
+      - id: "cat-35_7"
+      - id: "cat-35_8"
+
+  - id: 36
+    autore: 
+    dati anagrafici autore: 
+    titolo: 
+    datazione: 
+    materia e tecnica: 
+    misure: 
+    iscrizioni, etichette, cartellini, timbri: 
+    acquisizione: 
+    numero di inventario: 
+    numeri di inventario precedenti: 
+    collocazione: 
     figure:
