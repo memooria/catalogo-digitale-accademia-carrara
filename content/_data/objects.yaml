@@ -28,129 +28,129 @@ object_list:
     figure:
 
   - id: 2
-    autore: 
+    autore: Scultore emiliano 
     dati anagrafici autore: 
-    titolo: 
-    datazione: 
-    materia e tecnica: 
-    misure: 
-    iscrizioni, etichette, cartellini, timbri: 
-    acquisizione: 
-    numero di inventario: 
-    numeri di inventario precedenti: 
-    collocazione: 
+    titolo: Ritratto d’uomo
+    datazione: Ultimo quarto del XV secolo
+    materia e tecnica: Marmo
+    misure: 49,5 × 38 × 8 cm
+    iscrizioni, etichette, cartellini, timbri: Nessuna
+    acquisizione: Legato Federico Zeri, 1998
+    numero di inventario: Inv. n. 98 ZR 00002
+    numeri di inventario precedenti: Sc. 128 (1998-2007); Sc. 129; Sc. 114; 1998 AC Sculture 00002 (2011-2012); 98 SC ZR002 (2012-2015)
+    collocazione: Non esposto 
     figure:
 
   - id: 3
-    autore: 
+    autore: Scultore dell’Italia meridionale
     dati anagrafici autore: 
-    titolo: 
-    datazione: 
-    materia e tecnica: 
-    misure: 
-    iscrizioni, etichette, cartellini, timbri: 
-    acquisizione: 
-    numero di inventario: 
-    numeri di inventario precedenti: 
-    collocazione: 
+    titolo: Madonna con il Bambino in trono
+    datazione: Inizio del XVI secolo
+    materia e tecnica: Legno policromo
+    misure: 147 × 78 × 22 cm
+    iscrizioni, etichette, cartellini, timbri: Lungo la base, iscrizione dipinta in nero in lettere capitali, parzialmente leggibile: «da verificare»; sul libro, iscrizione dipinta in nero: «Mihi / vindic/ tam et / ego/ retribu/ am […]» da verificare e completare 
+    acquisizione: Legato Federico Zeri, 1998
+    numero di inventario: Inv. n. 98 ZR 00003
+    numeri di inventario precedenti: Sc. 129 (1998-2007); Sc. 131; Sc. 116; 1998 AC Sculture 00003 (2011-2012); 98 SC ZR003 (2012-2015)
+    collocazione: Non esposto 
     figure:
 
   - id: 4
-    autore: 
+    autore: Scultore attivo a Roma
     dati anagrafici autore: 
-    titolo: 
-    datazione: 
-    materia e tecnica: 
-    misure: 
-    iscrizioni, etichette, cartellini, timbri: 
-    acquisizione: 
-    numero di inventario: 
-    numeri di inventario precedenti: 
-    collocazione: 
+    titolo: Busto di prelato
+    datazione: 1550 circa
+    materia e tecnica: Marmo
+    misure: 63 × 42 × 40 cm (busto); 78 x 65 x 46 cm (busto con piedistallo)
+    iscrizioni, etichette, cartellini, timbri: Nessuna
+    acquisizione: Legato Federico Zeri, 1998
+    numero di inventario: Inv. n. 98 ZR 00004 
+    numeri di inventario precedenti: Sc. 130 (1998-2007); Sc. 132; Sc. 117; 1998 AC Sculture 00004 (2011-2012); 98 SC ZR004 (2012-2015)
+    collocazione: Non esposto 
     figure:
 
   - id: 5
-    autore: 
+    autore: Scultore senese
     dati anagrafici autore: 
-    titolo: 
-    datazione: 
-    materia e tecnica: 
-    misure: 
-    iscrizioni, etichette, cartellini, timbri: 
-    acquisizione: 
-    numero di inventario: 
-    numeri di inventario precedenti: 
-    collocazione: 
+    titolo: Ecate (Prudenza)
+    datazione: 1580-1600 circa 
+    materia e tecnica: Legno policromo
+    misure: 123 × 53 × 28 cm
+    iscrizioni, etichette, cartellini, timbri: Nessuna
+    acquisizione: Legato Federico Zeri, 1998
+    numero di inventario: Inv. n. 98 ZR 00005
+    numeri di inventario precedenti: Sc. 131 (1998-2007); Sc. 133; Sc. 118; 1998 AC Sculture 00005 (2011-2012); 98 SC ZR005 (2012-2015)
+    collocazione: Non esposto 
     figure:
 
   - id: 6
-    autore: 
-    dati anagrafici autore: 
-    titolo: 
-    datazione: 
-    materia e tecnica: 
-    misure: 
-    iscrizioni, etichette, cartellini, timbri: 
-    acquisizione: 
-    numero di inventario: 
-    numeri di inventario precedenti: 
-    collocazione: 
+    autore: Alessandro Vittoria
+    dati anagrafici autore: Trento, 1525 - Venezia, 1608
+    titolo: Ritratto di Apollonio Massa
+    datazione: 1587
+    materia e tecnica: Terracotta
+    misure: 33 × 14 × 9,5 cm
+    iscrizioni, etichette, cartellini, timbri: Nessuna
+    acquisizione: Legato Federico Zeri, 1998
+    numero di inventario: Inv. n. 98 ZR 00006
+    numeri di inventario precedenti: Sc. 132 (1998-2007); Sc. 134; Sc. 119; 1998 AC Sculture 00006 (2011-2012); 98 SC ZR001 (2012-2015)
+    collocazione: Esposto - Sala 5
     figure:
 
   - id: 7
-    autore: 
-    dati anagrafici autore: 
-    titolo: 
-    datazione: 
-    materia e tecnica: 
-    misure: 
-    iscrizioni, etichette, cartellini, timbri: 
-    acquisizione: 
-    numero di inventario: 
-    numeri di inventario precedenti: 
-    collocazione: 
+    autore: Nicolas Cordier
+    dati anagrafici autore: Lorena, 1567 circa - Roma, 1612
+    titolo: Busto di Paolo V Borghese
+    datazione: 1605-1612 circa
+    materia e tecnica: Marmo
+    misure: 62 × 64 × 30 cm
+    iscrizioni, etichette, cartellini, timbri: Nessuna
+    acquisizione: Legato Federico Zeri, 1998
+    numero di inventario: Inv. n. 98 ZR 00007
+    numeri di inventario precedenti: Sc. 133 (1998-2007); Sc. 135; Sc. 120; 1998 AC Sculture 00007 (2011-2012); 98 SC ZR007 (2012-2015).
+    collocazione: Esposto - Sala 6
     figure:
 
   - id: 8
-    autore: 
-    dati anagrafici autore: 
-    titolo: 
-    datazione: 
-    materia e tecnica: 
-    misure: 
-    iscrizioni, etichette, cartellini, timbri: 
-    acquisizione: 
-    numero di inventario: 
-    numeri di inventario precedenti: 
-    collocazione: 
+    autore: Pietro Bernini
+    dati anagrafici autore: Sesto Fiorentino, 1562 - Roma, 1629
+    titolo: Andromeda
+    datazione: 1610-1620 circa
+    materia e tecnica: Marmo
+    misure: 105 × 52,5 × 41 cm
+    iscrizioni, etichette, cartellini, timbri: Nessuna
+    acquisizione: Legato Federico Zeri, 1998
+    numero di inventario: Inv. n. 98 ZR 00008
+    numeri di inventario precedenti: Sc. 134 (1998-2007); Sc. 137; Sc. 122; 1998 AC Sculture 00008 (2011-2012); 98 SC ZR008 (2012-2015).
+    collocazione: Esposto - Sala 6
     figure:
 
   - id: 9
-    autore: 
-    dati anagrafici autore: 
-    titolo: 
-    datazione: 
-    materia e tecnica: 
-    misure: 
-    iscrizioni, etichette, cartellini, timbri: 
-    acquisizione: 
-    numero di inventario: 
-    numeri di inventario precedenti: 
-    collocazione: 
+    autore: Pietro Bernini
+    dati anagrafici autore: Sesto Fiorentino, 1562 - Roma, 1629
+    titolo: La Virtù sottomette il Vizio 
+    datazione: 1615 circa
+    materia e tecnica: Marmo
+    misure: 42 × 21 × 18.5 cm (statua); 10 x 25 x 26 cm (basamento intagliato dorato)
+    iscrizioni, etichette, cartellini, timbri: Nessuna
+    acquisizione: Legato Federico Zeri, 1998
+    numero di inventario: Inv. n. 98 ZR 00009
+    numeri di inventario precedenti: Sc. 135 (1998-2007); Sc. 136; Sc. 121; 1998 AC Sculture 00009 (2011-2012); 98 SC ZR009 (2012-2015)
+    collocazione: Esposto - Sala 6
     figure:
 
   - id: 10
-    autore: 
-    dati anagrafici autore: 
-    titolo: 
-    datazione: 
-    materia e tecnica: 
-    misure: 
-    iscrizioni, etichette, cartellini, timbri: 
-    acquisizione: 
-    numero di inventario: 
-    numeri di inventario precedenti: 
-    collocazione: 
+    autore: François du Quesnoy (o Duquesnoy), detto il Fiammingo
+    dati anagrafici autore: Bruxelles, 12 gennaio 1597 - Livorno, 18 luglio 1643
+    titolo: Angelo con drappo
+    datazione: 1628-1629 circa
+    materia e tecnica: Marmo bianco 
+    misure: 28,8 x 14,8 x 7,2 cm; con cornice: 44,2 x 30 x 7,5 cm
+    iscrizioni, etichette, cartellini, timbri: Nessuna
+    acquisizione: Legato Federico Zeri, 1998
+    numero di inventario: Inv. n. 98 ZR 00010 
+    numeri di inventario precedenti: Sc. 137 (1998-2007); Sc. 138; Sc. 123; 1998 AC Sculture 00010 (2011-2012); 98 SC ZR010 (2012-2015) 
+    collocazione: Esposto - Sala 6
     figure:
 
   - id: 11
