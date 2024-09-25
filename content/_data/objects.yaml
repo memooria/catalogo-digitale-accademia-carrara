@@ -96,6 +96,14 @@ object_list:
     numeri di inventario precedenti: Sc. 132 (1998-2007); Sc. 134; Sc. 119; 1998 AC Sculture 00006 (2011-2012); 98 SC ZR001 (2012-2015)
     collocazione: Esposto - Sala 5
     figure:
+      - id: "cat-35"
+      - id: "cat-35_1"
+      - id: "cat-35_2"
+      - id: "cat-35_3"
+      - id: "cat-35_4"
+      - id: "cat-35_6"
+      - id: "cat-35_7"
+      - id: "cat-35_8"
 
   - id: 7
     autore: Nicolas Cordier
