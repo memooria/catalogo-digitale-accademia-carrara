@@ -58,6 +58,156 @@ object_list:
     figure:
       - id: "cat-35"
 
+  - id: 3a
+    autore: Scultore attivo a Roma 
+    dati anagrafici autore: 
+    titolo: Parasta
+    datazione: Ultimo quarto del XV secolo
+    materia e tecnica: Marmo
+    misure: 84 x 14 x XX cm
+    iscrizioni, etichette, cartellini, timbri: Nessuna
+    acquisizione: Legato Università di Bologna, 2023
+    numero di inventario: Inv. n. 98 ZR 00047
+    numeri di inventario precedenti: Nessuno
+    collocazione: Non esposto 
+    figure:
+      - id: "cat-35"
+
+  - id: 3b
+    autore: Scultore attivo a Roma 
+    dati anagrafici autore: 
+    titolo: Parasta
+    datazione: Ultimo quarto del XV secolo
+    materia e tecnica: Marmo
+    misure: 84 x 14 x XX cm
+    iscrizioni, etichette, cartellini, timbri: Nessuna
+    acquisizione: Legato Università di Bologna, 2023
+    numero di inventario: Inv. n. 98 ZR 00048
+    numeri di inventario precedenti: Nessuno
+    collocazione: Non esposto 
+    figure:
+      - id: "cat-35"
+
+  - id: 3c
+    autore: Scultore attivo a Roma 
+    dati anagrafici autore: 
+    titolo: Parasta
+    datazione: Ultimo quarto del XV secolo
+    materia e tecnica: Marmo
+    misure: 144 x 25 x XX cm
+    iscrizioni, etichette, cartellini, timbri: Nessuna
+    acquisizione: Legato Università di Bologna, 2023
+    numero di inventario: Inv. n. 98 ZR 00049
+    numeri di inventario precedenti: Nessuno
+    collocazione: Non esposto 
+    figure:
+      - id: "cat-35"
+
+  - id: 3d
+    autore: Scultore attivo a Roma 
+    dati anagrafici autore: 
+    titolo: Parasta
+    datazione: Ultimo quarto del XV secolo
+    materia e tecnica: Marmo
+    misure: 124 x 22 x XX cm
+    iscrizioni, etichette, cartellini, timbri: Nessuna
+    acquisizione: Legato Università di Bologna, 2023
+    numero di inventario: Inv. n. 98 ZR 00050
+    numeri di inventario precedenti: Nessuno
+    collocazione: Non esposto 
+    figure:
+      - id: "cat-35"
+
+  - id: 3e
+    autore: Scultore attivo a Roma 
+    dati anagrafici autore: 
+    titolo: Parasta 
+    datazione: Ultimo quarto del XV secolo
+    materia e tecnica: Marmo
+    misure: 127 x 20 x XX cm
+    iscrizioni, etichette, cartellini, timbri: Nessuna
+    acquisizione: Legato Università di Bologna, 2023
+    numero di inventario: Inv. n. 98 ZR 00051
+    numeri di inventario precedenti: Nessuno
+    collocazione: Non esposto 
+    figure:
+      - id: "cat-35"
+
+  - id: 3f
+    autore: Scultore attivo a Roma 
+    dati anagrafici autore: 
+    titolo: Parasta
+    datazione: Ultimo quarto del XV secolo
+    materia e tecnica: Marmo
+    misure: 105 x 20 x XX cm
+    iscrizioni, etichette, cartellini, timbri: Nessuna
+    acquisizione: Legato Università di Bologna, 2023 
+    numero di inventario: Inv. n. 98 ZR 00052
+    numeri di inventario precedenti: Nessuno
+    collocazione: Non esposto
+    figure:
+      - id: "cat-35" 
+
+  - id: 3g
+    autore: Scultore attivo a Roma 
+    dati anagrafici autore: 
+    titolo: Parasta
+    datazione: Ultimo quarto del XV secolo
+    materia e tecnica: Marmo
+    misure: 220 x 24 x XX cm
+    iscrizioni, etichette, cartellini, timbri: Nessuna 
+    acquisizione: Legato Università di Bologna, 2023
+    numero di inventario: Inv. n. 98 ZR 00053
+    numeri di inventario precedenti: Nessuno
+    collocazione: Non esposto
+    figure:
+      - id: "cat-35"
+
+  - id: 3h
+    autore: Scultore attivo a Roma 
+    dati anagrafici autore: 
+    titolo: Parasta
+    datazione: Ultimo quarto del XV secolo
+    materia e tecnica: Marmo
+    misure: 220 x 24 x XX cm
+    iscrizioni, etichette, cartellini, timbri: Nessuna
+    acquisizione: Legato Università di Bologna, 2023
+    numero di inventario: Inv. n. 98 ZR 00054
+    numeri di inventario precedenti: Nessuno
+    collocazione: Non esposto
+    figure:
+      - id: "cat-35"
+
+  - id: 3i
+    autore: Scultore attivo a Roma 
+    dati anagrafici autore: 
+    titolo: Parasta
+    datazione: Ultimo quarto del XV secolo
+    materia e tecnica: Marmo
+    misure: 220 x 24 x XX cm
+    iscrizioni, etichette, cartellini, timbri: Nessuna 
+    acquisizione: Legato Università di Bologna, 2023
+    numero di inventario: Inv. n. 98 ZR 00055
+    numeri di inventario precedenti: Nessuno
+    collocazione: Non esposto
+    figure:
+      - id: "cat-35"
+
+  - id: 3l
+    autore: Scultore attivo a Roma 
+    dati anagrafici autore: 
+    titolo: Parasta
+    datazione: Ultimo quarto del XV secolo
+    materia e tecnica: Marmo
+    misure: 
+    iscrizioni, etichette, cartellini, timbri: Nessuna 
+    acquisizione: Legato Università di Bologna, 2023
+    numero di inventario: Inv. n. 98 ZR 00056
+    numeri di inventario precedenti: Nessuno
+    collocazione: Non esposto
+    figure:
+      - id: "cat-35"
+
   - id: 4
     autore: Scultore attivo a Roma
     dati anagrafici autore: 
