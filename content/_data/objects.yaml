@@ -26,6 +26,7 @@ object_list:
     numeri di inventario precedenti: Sc. 127 (1998-2007); Sc. 130; Sc. 115; 1998 AC Sculture 00001 (2011-2012); 98 SC ZR001 (2012-2015)
     collocazione: Non esposto 
     figure:
+      - id: "cat-35"
 
   - id: 2
     autore: Scultore emiliano 
@@ -40,6 +41,7 @@ object_list:
     numeri di inventario precedenti: Sc. 128 (1998-2007); Sc. 129; Sc. 114; 1998 AC Sculture 00002 (2011-2012); 98 SC ZR002 (2012-2015)
     collocazione: Non esposto 
     figure:
+      - id: "cat-35"
 
   - id: 3
     autore: Scultore dell’Italia meridionale
@@ -54,6 +56,7 @@ object_list:
     numeri di inventario precedenti: Sc. 129 (1998-2007); Sc. 131; Sc. 116; 1998 AC Sculture 00003 (2011-2012); 98 SC ZR003 (2012-2015)
     collocazione: Non esposto 
     figure:
+      - id: "cat-35"
 
   - id: 4
     autore: Scultore attivo a Roma
@@ -68,6 +71,7 @@ object_list:
     numeri di inventario precedenti: Sc. 130 (1998-2007); Sc. 132; Sc. 117; 1998 AC Sculture 00004 (2011-2012); 98 SC ZR004 (2012-2015)
     collocazione: Non esposto 
     figure:
+      - id: "cat-35"
 
   - id: 5
     autore: Scultore senese
@@ -82,6 +86,7 @@ object_list:
     numeri di inventario precedenti: Sc. 131 (1998-2007); Sc. 133; Sc. 118; 1998 AC Sculture 00005 (2011-2012); 98 SC ZR005 (2012-2015)
     collocazione: Non esposto 
     figure:
+      - id: "cat-35"
 
   - id: 6
     autore: Alessandro Vittoria
@@ -97,13 +102,6 @@ object_list:
     collocazione: Esposto - Sala 5
     figure:
       - id: "cat-35"
-      - id: "cat-35_1"
-      - id: "cat-35_2"
-      - id: "cat-35_3"
-      - id: "cat-35_4"
-      - id: "cat-35_6"
-      - id: "cat-35_7"
-      - id: "cat-35_8"
 
   - id: 7
     autore: Nicolas Cordier
@@ -118,6 +116,7 @@ object_list:
     numeri di inventario precedenti: Sc. 133 (1998-2007); Sc. 135; Sc. 120; 1998 AC Sculture 00007 (2011-2012); 98 SC ZR007 (2012-2015)
     collocazione: Esposto - Sala 6
     figure:
+      - id: "cat-35"
 
   - id: 8
     autore: Pietro Bernini
@@ -132,6 +131,7 @@ object_list:
     numeri di inventario precedenti: Sc. 134 (1998-2007); Sc. 137; Sc. 122; 1998 AC Sculture 00008 (2011-2012); 98 SC ZR008 (2012-2015)
     collocazione: Esposto - Sala 6
     figure:
+      - id: "cat-35"
 
   - id: 9
     autore: Pietro Bernini
@@ -146,6 +146,7 @@ object_list:
     numeri di inventario precedenti: Sc. 135 (1998-2007); Sc. 136; Sc. 121; 1998 AC Sculture 00009 (2011-2012); 98 SC ZR009 (2012-2015)
     collocazione: Esposto - Sala 6
     figure:
+      - id: "cat-35"
 
   - id: 10
     autore: Francois du Quesnoy (o Duquesnoy), detto il Fiammingo
@@ -160,6 +161,7 @@ object_list:
     numeri di inventario precedenti: Sc. 137 (1998-2007); Sc. 138; Sc. 123; 1998 AC Sculture 00010 (2011-2012); 98 SC ZR010 (2012-2015) 
     collocazione: Esposto - Sala 6
     figure:
+      - id: "cat-35"
 
   - id: 11
     autore: François du Quesnoy (o Duquesnoy), detto il Fiammingo
@@ -174,6 +176,7 @@ object_list:
     numeri di inventario precedenti: Sc. 136 (1998-2007); Sc. 139; Sc. 124; 1998 AC Sculture 00011 (2011-2012); 98 SC ZR011 (2012-2015) 
     collocazione: Esposto - Sala 6
     figure:
+      - id: "cat-35"
 
   - id: 12
     autore: Scultore attivo a Roma (Alessandro Algardi? Nicolas Cordier?)
@@ -188,6 +191,7 @@ object_list:
     numeri di inventario precedenti: Sc. 138 (1998-2007); Sc. 141; Sc. 126; 1998 AC Sculture 00012 (2011-2012); 98 SC ZR012 (2012-2015)
     collocazione: Non esposto
     figure:
+      - id: "cat-35"
 
   - id: 13
     autore: Scultore attivo a Roma
@@ -202,6 +206,7 @@ object_list:
     numeri di inventario precedenti: Sc. 139 (1998-2007); Sc. 140; Sc. 125; 1998 AC Sculture 00013 (2011-2012); 98 SC ZR013 (2012-2015)
     collocazione: Esposto - Sala 6
     figure:
+      - id: "cat-35"
 
   - id: 14
     autore: Domenico Guidi
@@ -216,6 +221,7 @@ object_list:
     numeri di inventario precedenti: Sc. 140 (1998-2007); Sc. 142; Sc. 127; 1998 AC Sculture 00014 (2011-2012); 98 SC ZR014 (2012-2015)
     collocazione: Esposto - Sala 6
     figure:
+      - id: "cat-35"
 
   - id: 15
     autore: Scultore attivo a Roma / Scultore romano
@@ -230,6 +236,7 @@ object_list:
     numeri di inventario precedenti: Sc. 141 (1998-2007); Sc. 154; Sc. 139; 1998 AC Sculture 00015 (2011-2012); 98 SC ZR015 (2012-2015)
     collocazione: Non esposto
     figure:
+      - id: "cat-35"
 
   - id: 16
     autore: Giovanni Francesco Arrighi
@@ -244,6 +251,7 @@ object_list:
     numeri di inventario precedenti: Sc. 142 (1998-2007); Sc. 143; Sc. 128; 1998 AC Sculture 00016 (2011-2012); 98 SC ZR016 (2012-2015)
     collocazione: Esposto - Scalone d’onore
     figure:
+      - id: "cat-35"
 
   - id: 17
     autore: Ignazio Marabitti
@@ -258,6 +266,7 @@ object_list:
     numeri di inventario precedenti: Sc. 143 (1998-2007); Sc. 157; Sc. 142; 1998 AC Sculture 00017 (2011-2012); 98 SC ZR017 (2012-2015)
     collocazione: Non esposto
     figure:
+      - id: "cat-35"
 
   - id: 18a
     autore: Anton Francesco Andreozzi 
@@ -272,6 +281,7 @@ object_list:
     numeri di inventario precedenti: Sc. 144 (1998-2007); Sc. 129; 1998 AC Sculture 00018 (2011-2012); 98 SC ZR018 (2012-2015)
     collocazione: Non esposto
     figure:
+      - id: "cat-35"
 
   - id: 18b
     autore: Anton Francesco Andreozzi
@@ -286,6 +296,7 @@ object_list:
     numeri di inventario precedenti: Sc. 145 (1998-2007); Sc. 130; 1998 AC Sculture 00019 (2011-2012); 98 SC ZR019 (2012-2015)
     collocazione: Non esposto 
     figure:
+      - id: "cat-35"
 
   - id: 19
     autore: Filippo Parodi
@@ -300,6 +311,7 @@ object_list:
     numeri di inventario precedenti: Sc. 146 (1998-2007); Sc. 132; Sc. 131; 1998 AC Sculture 00020 (2011-2012); 98 SC ZR020 (2012-2015)
     collocazione: Esposto - Sala 13
     figure:
+      - id: "cat-35"
 
   - id: 20
     autore: Orazio Marinali
@@ -314,6 +326,7 @@ object_list:
     numeri di inventario precedenti: Sc. 147 (1998-2007); Sc. 132; 1998 AC Sculture 00021; (2011-2012); 98 SC ZR021 (2012-2015)
     collocazione: Esposto - Sala 13
     figure:
+      - id: "cat-35"
 
   - id: 21a
     autore: Giusto Le Court
@@ -328,6 +341,7 @@ object_list:
     numeri di inventario precedenti: Sc. 148 (1998-2007); Sc. 133; 1998 AC Sculture 00022 (2011-2012); 98 SC ZR022 (2012-2015)
     collocazione: Esposto - Sala 13
     figure:
+      - id: "cat-35"
 
   - id: 21b
     autore: Giusto Le Court
@@ -342,6 +356,7 @@ object_list:
     numeri di inventario precedenti: Sc. 149 (1998-2007); Sc. 134; 1998 AC Sculture 00023 (2011-2012); 98 SC ZR023 (2012-2015)
     collocazione: Esposto - Sala 13
     figure:
+      - id: "cat-35"
 
   - id: 22a
     autore: Giusto Le Court
@@ -356,6 +371,7 @@ object_list:
     numeri di inventario precedenti: Sc. 150 (1998-2007); Sc. 135; 1998 AC Sculture 00024 (2011-2012); 98 SC ZR024 (2012-2015)
     collocazione: Esposto - Sala 13
     figure:
+      - id: "cat-35"
 
   - id: 22b
     autore: Giusto Le Court
@@ -370,6 +386,7 @@ object_list:
     numeri di inventario precedenti: Sc. 151 (1998-2007); Sc. 136; 1998 AC Sculture 00025 (2011-2012); 98 SC ZR025 (2012-2015)
     collocazione: Esposto - Sala 13
     figure:
+      - id: "cat-35"
 
   - id: 23a
     autore: Giovanni Bonazza
@@ -384,6 +401,7 @@ object_list:
     numeri di inventario precedenti: Sc. 152 (1998-2007); Sc. 137; 1998 AC Sculture 00026 (2011-2012); 98 SC ZR026 (2012-2015)
     collocazione: Esposto - Sala 13
     figure:
+      - id: "cat-35"
 
   - id: 23b
     autore: Giovanni Bonazza 
@@ -398,6 +416,7 @@ object_list:
     numeri di inventario precedenti: Sc. 153 (1998-2007); Sc. 138; 1998 AC Sculture 00027 (2011-2012); 98 SC ZR027 (2012-2015)
     collocazione: Esposto - Sala 13
     figure:
+      - id: "cat-35"
 
   - id: 24a
     autore: Jacques Bergé
@@ -412,6 +431,7 @@ object_list:
     numeri di inventario precedenti: Sc. 154 (1998-2007); Sc. 155; Sc. 140; 1998 AC Sculture 00028 (2011-2012); 98 SC ZR028 (2012-2015)
     collocazione: Non esposto
     figure:
+      - id: "cat-35"
 
   - id: 24b
     autore: Jacques Bergé
@@ -426,6 +446,7 @@ object_list:
     numeri di inventario precedenti: Sc. 155 (1998-2007); Sc. 156; Sc. 141; 1998 AC Sculture 00029 (2011-2012); 98 SC ZR029 (2012-2015)
     collocazione: Non esposto
     figure:
+      - id: "cat-35"
 
   - id: 25
     autore: Innocenzo Spinazzi
@@ -440,6 +461,7 @@ object_list:
     numeri di inventario precedenti: Sc. 156 (1998-2007); Sc. 164; Sc. 149; 1998 AC Sculture 00030 (2011-2012); 98 SC ZR030 (2012-2015)
     collocazione: Non esposto
     figure:
+      - id: "cat-35"
 
   - id: 26a
     autore: Tommaso Righi
@@ -454,6 +476,7 @@ object_list:
     numeri di inventario precedenti: Sc. 157 (1998-2007); Sc. 158; Sc. 143; 1998 AC Sculture 00031 (2011-2012); 98 SC ZR031 (2012-2015).
     collocazione: Non esposto
     figure:
+      - id: "cat-35"
 
   - id: 26b
     autore: Tommaso Righi
@@ -468,6 +491,7 @@ object_list:
     numeri di inventario precedenti: Sc. 158 (1998-2007); Sc. 159; Sc. 144; 1998 AC Sculture 00032 (2011-2012); 98 SC ZR032 (2012-2015).
     collocazione: Non esposto
     figure:
+      - id: "cat-35"
 
   - id: 26c
     autore: Tommaso Righi
@@ -482,6 +506,7 @@ object_list:
     numeri di inventario precedenti: Sc. 159 (1998-2007); Sc. 160; Sc. 145; 1998 AC Sculture 00033 (2011-2012); 98 SC ZR033 (2012-2015).
     collocazione: Non esposto
     figure:
+      - id: "cat-35"
 
   - id: 26d
     autore: Tommaso Righi
@@ -496,6 +521,7 @@ object_list:
     numeri di inventario precedenti: Sc. 160 (1998-2007); Sc. 161; Sc. 146; 1998 AC Sculture 00034 (2011-2012); 98 SC ZR034 (2012-2015).
     collocazione: Non esposto
     figure:
+      - id: "cat-35"
 
   - id: 27a
     autore: Francesco Celebrano
@@ -510,6 +536,7 @@ object_list:
     numeri di inventario precedenti: Sc. 161 (1998-2007); Sc. 162; Sc. 147; 1998 AC Sculture 00035 (2011-2012); 98 SC ZR035 (2012-2015)
     collocazione: Non esposto
     figure:
+      - id: "cat-35"
 
   - id: 27b
     autore: Francesco Celebrano
@@ -524,6 +551,7 @@ object_list:
     numeri di inventario precedenti: Sc. 162 (1998-2007); Sc. 163; Sc. 148; 1998 AC Sculture 00036 (2011-2012); 98 SC ZR036 (2012-2015)
     collocazione: Non esposto
     figure:
+      - id: "cat-35"
 
   - id: 28
     autore: Filippo Tagliolini?
@@ -538,6 +566,7 @@ object_list:
     numeri di inventario precedenti: Sc. 163 (1998-2007); Sc. 168; Sc. 153; 1998 AC Sculture 00037 (2011-2012); 98 SC ZR037 (2012-2015).
     collocazione: Non esposto
     figure:
+      - id: "cat-35"
 
   - id: 29
     autore: Joseph Chinard (?) / Bartolomeo Cavaceppi (?)
@@ -552,6 +581,7 @@ object_list:
     numeri di inventario precedenti: Sc. 164 (1998-2007); Sc. 165; Sc. 150; 1998 AC Sculture 00038 (2011-2012); 98 SC ZR038 (2012-2015)
     collocazione: Non esposto
     figure:
+      - id: "cat-35"
 
   - id: 30
     autore: Camillo Pacetti
@@ -566,6 +596,7 @@ object_list:
     numeri di inventario precedenti: Sc. 165 (1998-2007); Sc. 169; Sc. 154; 1998 AC Sculture 00039 (2011-2012); 98 SC ZR039 (2012-2015)
     collocazione: Non esposto
     figure:
+      - id: "cat-35"
 
   - id: 31
     autore: Giovanni Trevisan detto Giovanni Volpato
@@ -580,6 +611,7 @@ object_list:
     numeri di inventario precedenti: Sc. 167 (1998-2007); Sc. 166; Sc. 151; 1998 AC Sculture 00041 (2011-2012); 98 SC ZR041 (2012-2015)
     collocazione: Esposto - Sala 6
     figure:
+      - id: "cat-35"
 
   - id: 32
     autore: Bartolomeo Cavaceppi
@@ -594,6 +626,7 @@ object_list:
     numeri di inventario precedenti: Sc. 168 (1998-2007); Sc. 167; Sc. 152; 1998 AC Sculture 00042 (2011-2012); 98 SC ZR042 (2012-2015)
     collocazione: Esposto - Scala nobile
     figure:
+      - id: "cat-35"
 
   - id: 33
     autore: Scultore italiano della prima metà dell’Ottocento 
@@ -608,6 +641,7 @@ object_list:
     numeri di inventario precedenti: Sc. 169 (1998-2007); Sc. 171; Sc. 156; 1998 AC Sculture 00043 (2011-2012); 98 SC ZR043 (2012-2015)
     collocazione: Non esposto
     figure:
+      - id: "cat-35"
 
   - id: 34
     autore: 
@@ -622,6 +656,7 @@ object_list:
     numeri di inventario precedenti: 
     collocazione: 
     figure:
+      - id: "cat-35"
 
   - id: 35
     autore: Tito Sarrocchi, nella bottega di Giovanni Dupré
@@ -658,6 +693,7 @@ object_list:
     numeri di inventario precedenti: Sc. 171 (1998-2007); Sc. 173; Sc. 158; 1998 AC Sculture 00045 (2011-2012); 98 SC ZR045 (2012-2015)
     collocazione: Esposto - Scala nobile
     figure:
+      - id: "cat-35"
 
   - id: 35b
     autore: Randolph Rogers
@@ -672,3 +708,5 @@ object_list:
     numeri di inventario precedenti: Sc. 172 (1998-2007); Sc. 174; Sc. 159; 1998 AC Sculture 00046 (2011-2012); 98 SC ZR046 (2012-2015)
     collocazione: Esposto - Scala nobile
     figure:
+      - id: "cat-35"
+
