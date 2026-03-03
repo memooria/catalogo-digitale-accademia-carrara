@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://catalogo-accademia-carrara.memooria.org/iiif/cat-1/manifest.json",
+  "id": "https://francescogavioli-catalogo-accademia-carrara.memooria.org/iiif/cat-1/manifest.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -9,22 +9,22 @@
   },
   "items": [
     {
-      "id": "https://catalogo-accademia-carrara.memooria.org/iiif/cat-1/canvas",
+      "id": "https://francescogavioli-catalogo-accademia-carrara.memooria.org/iiif/cat-1/canvas",
       "type": "Canvas",
       "height": 6073,
       "width": 4748,
       "items": [
         {
-          "id": "https://catalogo-accademia-carrara.memooria.org/iiif/cat-1/canvas/annotation-page",
+          "id": "https://francescogavioli-catalogo-accademia-carrara.memooria.org/iiif/cat-1/canvas/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://catalogo-accademia-carrara.memooria.org/iiif/cat-1/canvas/lange-mother-a",
+              "id": "https://francescogavioli-catalogo-accademia-carrara.memooria.org/iiif/cat-1/canvas/lange-mother-a",
               "motivation": "painting",
-              "target": "https://catalogo-accademia-carrara.memooria.org/iiif/cat-1/canvas",
+              "target": "https://francescogavioli-catalogo-accademia-carrara.memooria.org/iiif/cat-1/canvas",
               "type": "Annotation",
               "body": {
-                "id": "https://catalogo-accademia-carrara.memooria.org/iiif/cat-1/lange-mother-a/tiles/info.json",
+                "id": "https://francescogavioli-catalogo-accademia-carrara.memooria.org/iiif/cat-1/lange-mother-a/tiles/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 6073,
@@ -37,7 +37,7 @@
                 "service": [
                   {
                     "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://catalogo-accademia-carrara.memooria.org/iiif/cat-1/lange-mother-a/tiles/info.json",
+                    "@id": "https://francescogavioli-catalogo-accademia-carrara.memooria.org/iiif/cat-1/lange-mother-a/tiles/info.json",
                     "profile": "level0",
                     "protocol": "http://iiif.io/api/image"
                   }
