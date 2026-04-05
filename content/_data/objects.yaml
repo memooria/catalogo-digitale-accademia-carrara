@@ -794,17 +794,17 @@ object_list:
       - id: "cat-35"
 
   - id: 34
-    autore: 
-    dati anagrafici autore: 
-    titolo: 
-    datazione: 
-    materia e tecnica: 
-    misure: 
-    iscrizioni, etichette, cartellini, timbri: 
-    acquisizione: 
-    numero di inventario: 
-    numeri di inventario precedenti: 
-    collocazione: 
+    autore: vuoto
+    dati anagrafici autore: vuoto 
+    titolo: vuoto
+    datazione: vuoto
+    materia e tecnica: vuoto 
+    misure: vuoto
+    iscrizioni, etichette, cartellini, timbri: vuoto
+    acquisizione: vuoto 
+    numero di inventario: vuoto
+    numeri di inventario precedenti: vuoto  
+    collocazione: vuoto
     figure:
       - id: "cat-35"
 
