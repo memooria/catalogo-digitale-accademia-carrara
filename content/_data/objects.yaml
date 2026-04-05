@@ -24,7 +24,7 @@ object_list:
     acquisizione: Legato Federico Zeri, 1998
     numero di inventario: Inv. n. 98 ZR 00001
     numeri di inventario precedenti: Sc. 127 (1998-2007); Sc. 130; Sc. 115; 1998 AC Sculture 00001 (2011-2012); 98 SC ZR001 (2012-2015)
-    collocazione: Non esposto 
+    collocazione: Non esposto
     figure:
       - id: "cat-35"
 
@@ -44,13 +44,13 @@ object_list:
       - id: "cat-35"
 
   - id: 3
-    autore: Scultore dell’Italia meridionale
+    autore: Scultore lucano
     dati anagrafici autore: 
     titolo: Madonna con il Bambino in trono
-    datazione: Inizio del XVI secolo
-    materia e tecnica: Legno policromo
+    datazione: Fine del XV o inizio del XVI secolo
+    materia e tecnica: Legno scolpito, dipinto e parzialmente dorato
     misure: 147 × 78 × 22 cm
-    iscrizioni, etichette, cartellini, timbri:
+    iscrizioni, etichette, cartellini, timbri: Lungo la base, iscrizione in lettere capitali, solo parzialmente leggibile; sul libro, iscrizione in corsiva: «Michi vindictam (così per vindicta), et ego | retribuam, ait Dominus omnipotens».
     acquisizione: Legato Federico Zeri, 1998
     numero di inventario: Inv. n. 98 ZR 00003
     numeri di inventario precedenti: Sc. 129 (1998-2007); Sc. 131; Sc. 116; 1998 AC Sculture 00003 (2011-2012); 98 SC ZR003 (2012-2015)
@@ -64,7 +64,7 @@ object_list:
     titolo: Parasta
     datazione: Ultimo quarto del XV secolo
     materia e tecnica: Marmo
-    misure: 84 x 14 x XX cm
+    misure: 85 x 14 x 6 cm
     iscrizioni, etichette, cartellini, timbri: Nessuna
     acquisizione: Legato Università di Bologna, 2023
     numero di inventario: Inv. n. 98 ZR 00047
@@ -79,7 +79,7 @@ object_list:
     titolo: Parasta
     datazione: Ultimo quarto del XV secolo
     materia e tecnica: Marmo
-    misure: 84 x 14 x XX cm
+    misure: 85,5 x 14 x 6 cm
     iscrizioni, etichette, cartellini, timbri: Nessuna
     acquisizione: Legato Università di Bologna, 2023
     numero di inventario: Inv. n. 98 ZR 00048
@@ -94,7 +94,7 @@ object_list:
     titolo: Parasta
     datazione: Ultimo quarto del XV secolo
     materia e tecnica: Marmo
-    misure: 144 x 25 x XX cm
+    misure: 145 x 25,5 x 9 cm
     iscrizioni, etichette, cartellini, timbri: Nessuna
     acquisizione: Legato Università di Bologna, 2023
     numero di inventario: Inv. n. 98 ZR 00049
@@ -109,7 +109,7 @@ object_list:
     titolo: Parasta
     datazione: Ultimo quarto del XV secolo
     materia e tecnica: Marmo
-    misure: 124 x 22 x XX cm
+    misure: 125,5 x 22 x 9 cm
     iscrizioni, etichette, cartellini, timbri: Nessuna
     acquisizione: Legato Università di Bologna, 2023
     numero di inventario: Inv. n. 98 ZR 00050
@@ -124,7 +124,7 @@ object_list:
     titolo: Parasta 
     datazione: Ultimo quarto del XV secolo
     materia e tecnica: Marmo
-    misure: 127 x 20 x XX cm
+    misure: 127 x 20,5 x 9 cm
     iscrizioni, etichette, cartellini, timbri: Nessuna
     acquisizione: Legato Università di Bologna, 2023
     numero di inventario: Inv. n. 98 ZR 00051
@@ -139,7 +139,7 @@ object_list:
     titolo: Parasta
     datazione: Ultimo quarto del XV secolo
     materia e tecnica: Marmo
-    misure: 105 x 20 x XX cm
+    misure: 107,5 x 20,5 x 11 cm
     iscrizioni, etichette, cartellini, timbri: Nessuna
     acquisizione: Legato Università di Bologna, 2023 
     numero di inventario: Inv. n. 98 ZR 00052
@@ -154,8 +154,8 @@ object_list:
     titolo: Parasta
     datazione: Ultimo quarto del XV secolo
     materia e tecnica: Marmo
-    misure: 220 x 24 x XX cm
-    iscrizioni, etichette, cartellini, timbri: Nessuna 
+    misure: 225,5 x 25,5 x 13 cm
+    iscrizioni, etichette, cartellini, timbri: Sulla tabula ansata, Inv. n. 98 ZR 00053 (a): «IVL · CAR · / S · P · / ADVINC ·»
     acquisizione: Legato Università di Bologna, 2023
     numero di inventario: Inv. n. 98 ZR 00053
     numeri di inventario precedenti: Nessuno
@@ -169,8 +169,8 @@ object_list:
     titolo: Parasta
     datazione: Ultimo quarto del XV secolo
     materia e tecnica: Marmo
-    misure: 220 x 24 x XX cm
-    iscrizioni, etichette, cartellini, timbri: Nessuna
+    misure: 225 x 25,4 x 13 cm
+    iscrizioni, etichette, cartellini, timbri: Sulla tabula ansata: «IVL · CAR · / S · P · / ADVINC ·»
     acquisizione: Legato Università di Bologna, 2023
     numero di inventario: Inv. n. 98 ZR 00054
     numeri di inventario precedenti: Nessuno
@@ -184,7 +184,7 @@ object_list:
     titolo: Parasta
     datazione: Ultimo quarto del XV secolo
     materia e tecnica: Marmo
-    misure: 220 x 24 x XX cm
+    misure: 225 x 25,1 x 11 cm
     iscrizioni, etichette, cartellini, timbri: Nessuna 
     acquisizione: Legato Università di Bologna, 2023
     numero di inventario: Inv. n. 98 ZR 00055
@@ -199,7 +199,7 @@ object_list:
     titolo: Parasta
     datazione: Ultimo quarto del XV secolo
     materia e tecnica: Marmo
-    misure: 
+    misure: 225 x 25,2 x 13 cm
     iscrizioni, etichette, cartellini, timbri: Nessuna 
     acquisizione: Legato Università di Bologna, 2023
     numero di inventario: Inv. n. 98 ZR 00056
@@ -224,12 +224,12 @@ object_list:
       - id: "cat-35"
 
   - id: 5
-    autore: Scultore senese
+    autore: Scultore senese (Domenico Cafaggi?)
     dati anagrafici autore: 
-    titolo: Ecate (Prudenza)
-    datazione: 1580-1600 circa 
+    titolo: Prudenza
+    datazione: Ultimo quarto del XVI secolo
     materia e tecnica: Legno policromo
-    misure: 123 × 53 × 28 cm
+    misure: 123 × 53 × 31 cm
     iscrizioni, etichette, cartellini, timbri: Nessuna
     acquisizione: Legato Federico Zeri, 1998
     numero di inventario: Inv. n. 98 ZR 00005
@@ -272,7 +272,7 @@ object_list:
     autore: Pietro Bernini
     dati anagrafici autore: Sesto Fiorentino, 1562 - Roma, 1629
     titolo: Andromeda
-    datazione: 1610-1620 circa
+    datazione: 1615-1616 circa
     materia e tecnica: Marmo
     misure: 105 × 52,5 × 41 cm
     iscrizioni, etichette, cartellini, timbri: Nessuna
@@ -287,9 +287,9 @@ object_list:
     autore: Pietro Bernini
     dati anagrafici autore: Sesto Fiorentino, 1562 - Roma, 1629
     titolo: La Virtù sottomette il Vizio 
-    datazione: 1615 circa
+    datazione: 1610-1615 circa
     materia e tecnica: Marmo
-    misure: 42 × 21 × 18.5 cm (statua); 10 x 25 x 26 cm (basamento intagliato dorato)
+    misure: 42 × 21 × 18.5 cm (statua); 10 x 25 x 26 cm (basamento in legno intagliato dorato)
     iscrizioni, etichette, cartellini, timbri: Nessuna
     acquisizione: Legato Federico Zeri, 1998
     numero di inventario: Inv. n. 98 ZR 00009
@@ -348,7 +348,7 @@ object_list:
     dati anagrafici autore: Roma, prima metà del secolo XVII
     titolo: Testa di Socrate
     datazione: 1630-1650 circa
-    materia e tecnica: Marmo nero del Belgio (o Marmo nero Marquina)
+    materia e tecnica: Marmo nero del Belgio
     misure: 40,5 × 26,4 × 25,3 cm (busto); 12,7 × 21,5 × 18,9 cm (base)
     iscrizioni, etichette, cartellini, timbri: Nessuna
     acquisizione: Legato Federico Zeri, 1988
@@ -360,11 +360,11 @@ object_list:
 
   - id: 14
     autore: Domenico Guidi
-    dati anagrafici autore: Torano, Carrara, 1625 - Roma, 1701
-    titolo: Busto di Alessandro Rondinini
-    datazione: 1667 circa
+    dati anagrafici autore: Torano, Carrara, 6 giugno 1625 – Roma, 28 marzo 1701
+    titolo: Busto di Alessandro Rondinini senior
+    datazione: 1669-1675 circa
     materia e tecnica: Marmo
-    misure: 93 × 73 × 33 cm (busto); 17,5 x XX x XX cm (base)
+    misure: 93 × 73 × 33 cm (busto); 18 x 24,5 x 24,5 cm (base)
     iscrizioni, etichette, cartellini, timbri: Sulla base, non unita al busto originariamente, iscrizione in lettere capitali «pavl aemilivs / card  zacchia / anno mdxcix»
     acquisizione: Legato Federico Zeri, 1988
     numero di inventario: Inv. n. 98 ZR 00014
@@ -374,12 +374,12 @@ object_list:
       - id: "cat-35"
 
   - id: 15
-    autore: Scultore attivo a Roma / Scultore romano
+    autore: Scultore attivo a Roma
     dati anagrafici autore:
-    titolo: Busto di cardinale (Toussaint de Forbin-Janson?)
-    datazione: 1700-1715 circa 
+    titolo: Busto del cardinale Toussaint de Forbin-Janson
+    datazione: Fine del XVII secolo - inizio del XVIII secolo 
     materia e tecnica: Marmo
-    misure: 69 × 72 × 33 cm (busto); cm. XX x XX (base)
+    misure: 69 × 72 × 33 cm (busto); 25 x 20 cm (base)
     iscrizioni, etichette, cartellini, timbri: Sul retro in basso etichetta adesiva circolare con iscrizione a china «[…] / 330»
     acquisizione: Legato Federico Zeri, 1988
     numero di inventario: Inv. n. 98 ZR 00015
@@ -404,13 +404,13 @@ object_list:
       - id: "cat-35"
 
   - id: 17
-    autore: Ignazio Marabitti
-    dati anagrafici autore: Palermo, 1719-1797 
+    autore: Girolamo Ticciati
+    dati anagrafici autore: Firenze, 20 febbraio 1679 - Firenze, 11 marzo 1745 
     titolo: San Paolo
-    datazione: 1757
+    datazione: 1732 circa
     materia e tecnica: Terracotta
     misure: 55 × 35 × 18 cm 
-    iscrizioni, etichette, cartellini, timbri: Nessuna
+    iscrizioni, etichette, cartellini, timbri: Sul retro, in basso, iscrizione a matita in gran parte abrasa e quindi non più leggibile
     acquisizione: Legato Federico Zeri, 1988
     numero di inventario: Inv. n. 98 ZR 00017
     numeri di inventario precedenti: Sc. 143 (1998-2007); Sc. 157; Sc. 142; 1998 AC Sculture 00017 (2011-2012); 98 SC ZR017 (2012-2015)
@@ -794,17 +794,17 @@ object_list:
       - id: "cat-35"
 
   - id: 34
-    autore: 
-    dati anagrafici autore: 
-    titolo: 
-    datazione: 
-    materia e tecnica: 
-    misure: 
-    iscrizioni, etichette, cartellini, timbri: 
-    acquisizione: 
-    numero di inventario: 
-    numeri di inventario precedenti: 
-    collocazione: 
+    autore: vuoto
+    dati anagrafici autore: vuoto 
+    titolo: vuoto
+    datazione: vuoto
+    materia e tecnica: vuoto 
+    misure: vuoto
+    iscrizioni, etichette, cartellini, timbri: vuoto
+    acquisizione: vuoto 
+    numero di inventario: vuoto
+    numeri di inventario precedenti: vuoto  
+    collocazione: vuoto
     figure:
       - id: "cat-35"
 
