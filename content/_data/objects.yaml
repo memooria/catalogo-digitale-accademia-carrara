@@ -793,21 +793,6 @@ object_list:
     figure:
       - id: "cat-35"
 
-  - id: 34
-    autore: vuoto
-    dati anagrafici autore: vuoto 
-    titolo: vuoto
-    datazione: vuoto
-    materia e tecnica: vuoto 
-    misure: vuoto
-    iscrizioni, etichette, cartellini, timbri: vuoto
-    acquisizione: vuoto 
-    numero di inventario: vuoto
-    numeri di inventario precedenti: vuoto  
-    collocazione: vuoto
-    figure:
-      - id: "cat-35"
-
   - id: 35
     autore: Tito Sarrocchi, nella bottega di Giovanni Dupré
     dati anagrafici autore: Siena, 5 gennaio 1824 - Siena, 30 luglio 1900
