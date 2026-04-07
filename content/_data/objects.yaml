@@ -50,7 +50,7 @@ object_list:
     datazione: Fine del XV o inizio del XVI secolo
     materia e tecnica: Legno scolpito, dipinto e parzialmente dorato
     misure: 147 × 78 × 22 cm
-    iscrizioni, etichette, cartellini, timbri: Lungo la base, iscrizione in lettere capitali, solo parzialmente leggibile; sul libro, iscrizione in corsiva: «Michi vindictam (così per vindicta), et ego | retribuam, ait Dominus omnipotens».
+    iscrizioni, etichette, cartellini, timbri: Lungo la base, iscrizione in lettere capitali, solo parzialmente leggibile; sul libro, iscrizione in corsiva "Michi vindictam (così per vindicta), et ego | retribuam, ait Dominus omnipotens."
     acquisizione: Legato Federico Zeri, 1998
     numero di inventario: Inv. n. 98 ZR 00003
     numeri di inventario precedenti: Sc. 129 (1998-2007); Sc. 131; Sc. 116; 1998 AC Sculture 00003 (2011-2012); 98 SC ZR003 (2012-2015)
@@ -155,7 +155,7 @@ object_list:
     datazione: Ultimo quarto del XV secolo
     materia e tecnica: Marmo
     misure: 225,5 x 25,5 x 13 cm
-    iscrizioni, etichette, cartellini, timbri: Sulla tabula ansata, Inv. n. 98 ZR 00053 (a): «IVL · CAR · / S · P · / ADVINC ·»
+    iscrizioni, etichette, cartellini, timbri: Sulla tabula ansata, Inv. n. 98 ZR 00053 (a)  «IVL · CAR · / S · P · / ADVINC ·»
     acquisizione: Legato Università di Bologna, 2023
     numero di inventario: Inv. n. 98 ZR 00053
     numeri di inventario precedenti: Nessuno
@@ -170,7 +170,7 @@ object_list:
     datazione: Ultimo quarto del XV secolo
     materia e tecnica: Marmo
     misure: 225 x 25,4 x 13 cm
-    iscrizioni, etichette, cartellini, timbri: Sulla tabula ansata: «IVL · CAR · / S · P · / ADVINC ·»
+    iscrizioni, etichette, cartellini, timbri: Sulla tabula ansata «IVL · CAR · / S · P · / ADVINC ·»
     acquisizione: Legato Università di Bologna, 2023
     numero di inventario: Inv. n. 98 ZR 00054
     numeri di inventario precedenti: Nessuno
@@ -793,21 +793,6 @@ object_list:
     figure:
       - id: "cat-35"
 
-  - id: 34
-    autore: vuoto
-    dati anagrafici autore: vuoto 
-    titolo: vuoto
-    datazione: vuoto
-    materia e tecnica: vuoto 
-    misure: vuoto
-    iscrizioni, etichette, cartellini, timbri: vuoto
-    acquisizione: vuoto 
-    numero di inventario: vuoto
-    numeri di inventario precedenti: vuoto  
-    collocazione: vuoto
-    figure:
-      - id: "cat-35"
-
   - id: 35
     autore: Tito Sarrocchi, nella bottega di Giovanni Dupré
     dati anagrafici autore: Siena, 5 gennaio 1824 - Siena, 30 luglio 1900
@@ -859,4 +844,3 @@ object_list:
     collocazione: Esposto - Scala nobile
     figure:
       - id: "cat-35"
-
