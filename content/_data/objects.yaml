@@ -236,7 +236,7 @@ object_list:
     numeri di inventario precedenti: Sc. 131 (1998-2007); Sc. 133; Sc. 118; 1998 AC Sculture 00005 (2011-2012); 98 SC ZR005 (2012-2015)
     collocazione: Non esposto 
     figure:
-      - id: "cat-35"
+      - id: "cat-6"
 
   - id: 6
     autore: Alessandro Vittoria
@@ -251,7 +251,7 @@ object_list:
     numeri di inventario precedenti: Sc. 132 (1998-2007); Sc. 134; Sc. 119; 1998 AC Sculture 00006 (2011-2012); 98 SC ZR001 (2012-2015)
     collocazione: Esposto - Sala 5
     figure:
-      - id: "cat-35"
+      - id: "cat-7"
 
   - id: 7
     autore: Nicolas Cordier
@@ -266,7 +266,7 @@ object_list:
     numeri di inventario precedenti: Sc. 133 (1998-2007); Sc. 135; Sc. 120; 1998 AC Sculture 00007 (2011-2012); 98 SC ZR007 (2012-2015)
     collocazione: Esposto - Sala 6
     figure:
-      - id: "cat-35"
+      - id: "cat-8"
 
   - id: 8
     autore: Pietro Bernini
@@ -281,12 +281,12 @@ object_list:
     numeri di inventario precedenti: Sc. 134 (1998-2007); Sc. 137; Sc. 122; 1998 AC Sculture 00008 (2011-2012); 98 SC ZR008 (2012-2015)
     collocazione: Esposto - Sala 6
     figure:
-      - id: "cat-35"
+      - id: "cat-9"
 
   - id: 9
     autore: Pietro Bernini
     dati anagrafici autore: Sesto Fiorentino, 1562 - Roma, 1629
-    titolo: La Virtù sottomette il Vizio 
+    titolo: Allegoria della Virtù vittoriosa sul Vizio 
     datazione: 1610-1615 circa
     materia e tecnica: Marmo
     misure: 42 × 21 × 18.5 cm (statua); 10 x 25 x 26 cm (basamento in legno intagliato dorato)
@@ -611,7 +611,7 @@ object_list:
     numeri di inventario precedenti: Sc. 156 (1998-2007); Sc. 164; Sc. 149; 1998 AC Sculture 00030 (2011-2012); 98 SC ZR030 (2012-2015)
     collocazione: Esposto - Sala 6
     figure:
-      - id: "cat-35"
+      - id: "cat-26"
 
   - id: 26a
     autore: Tommaso Righi
