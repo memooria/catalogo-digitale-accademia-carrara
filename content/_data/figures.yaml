@@ -9,28 +9,28 @@ figure_list:
 
   - id: "cat-1_2"
     src: figures/1_2.jpg
-    caption: "Fig. 2 – Antonio Rizzo (bottega di), *San Girolamo in un paesaggio*, 1465-1475 circa (particolare"
+    caption: "Fig. 2 – Antonio Rizzo (bottega di), *San Girolamo in un paesaggio*, 1465-1475 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/26136b96-ecf0-4431-a959-9337f535f118/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/26136b96-ecf0-4431-a959-9337f535f118/canvas/973a65d8-4bdd-41bd-ab03-8d986dff4152
     zoom: true
 
   - id: "cat-1_3"
     src: figures/1_3.jpg
-    caption: "Fig. 3 – Antonio Rizzo (bottega di), *San Girolamo in un paesaggio*, 1465-1475 circa (particolare"
+    caption: "Fig. 3 – Antonio Rizzo (bottega di), *San Girolamo in un paesaggio*, 1465-1475 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c91df8f0-c140-4aec-bfcc-b37a952d806c/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c91df8f0-c140-4aec-bfcc-b37a952d806c/canvas/4656d48e-be90-4897-b566-fa2cf819f771
     zoom: true
 
   - id: "cat-1_4"
     src: figures/1_4.jpg
-    caption: "Fig. 4 – Antonio Rizzo (bottega di), *San Girolamo in un paesaggio*, 1465-1475 circa (particolare"
+    caption: "Fig. 4 – Antonio Rizzo (bottega di), *San Girolamo in un paesaggio*, 1465-1475 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/111cd50d-9f73-4f32-8b1b-ecf2a5bf4ead/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/111cd50d-9f73-4f32-8b1b-ecf2a5bf4ead/canvas/cb6ffa95-9a51-4010-a03a-527a3b1be83d
     zoom: true
 
   - id: "cat-1_5"
     src: figures/1_5.jpg
-    caption: "Fig. 5 – Antonio Rizzo (bottega di), *San Girolamo in un paesaggio*, 1465-1475 circa (particolare"
+    caption: "Fig. 5 – Antonio Rizzo (bottega di), *San Girolamo in un paesaggio*, 1465-1475 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4c0acca7-29f7-498d-a2cd-e88a81d29cf6/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4c0acca7-29f7-498d-a2cd-e88a81d29cf6/canvas/a9cd5f58-9e98-4b0d-89f7-0f08948c8c13
     zoom: true
@@ -65,7 +65,7 @@ figure_list:
 
   - id: "cat-1_10"
     src: figures/1_10.jpg
-    caption: "Fig. 10 – Antonio Rizzo (bottega di), *San Girolamo*, 1465-1475 (particolare"
+    caption: "Fig. 10 – Antonio Rizzo (bottega di), *San Girolamo*, 1465-1475 (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4a00c2db-5ec0-4708-8501-7a363c081eac/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4a00c2db-5ec0-4708-8501-7a363c081eac/canvas/54dcf400-047c-4136-891a-0b6b50ab9639
     zoom: true
@@ -128,7 +128,7 @@ figure_list:
     
   - id: "cat-2_6"
     src: figures/2_6.jpg
-    caption: "Fig. 6 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?"
+    caption: "Fig. 6 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/1d436946-c022-486a-ba0e-157575de8b11/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ae2d5669-0f41-493e-8888-81da7ce26ed1/canvas/1d436946-c022-486a-ba0e-157575de8b11
     zoom: true
@@ -142,70 +142,70 @@ figure_list:
     
   - id: "cat-2_8"
     src: figures/2_8.jpg
-    caption: "Fig. 8 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare"
+    caption: "Fig. 8 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/a6d76f05-c8ca-4bde-81e1-b35d5df19bc1/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0bf5dc75-5057-4a6a-92e3-bbc56f1a07f3/canvas/a6d76f05-c8ca-4bde-81e1-b35d5df19bc1
     zoom: true
 
   - id: "cat-2_9"
     src: figures/2_9.jpg
-    caption: "Fig. 9 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare"
+    caption: "Fig. 9 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/ec999a85-ced4-4ec5-902c-278fb32844f1/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5053851b-0589-43dd-b741-523a9afdbbf1/canvas/ec999a85-ced4-4ec5-902c-278fb32844f1
     zoom: true
 
   - id: "cat-2_10"
     src: figures/2_10.jpg
-    caption: "Fig. 10 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare"
+    caption: "Fig. 10 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/11ea7c74-8958-417a-8887-94fbccbf447d/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bb3d5c22-d773-405c-83ca-e2720115a24a/canvas/11ea7c74-8958-417a-8887-94fbccbf447d
     zoom: true
 
   - id: "cat-2_11"
     src: figures/2_11.jpg
-    caption: "Fig. 11 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare"
+    caption: "Fig. 11 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/b82f2984-3e6f-4cae-ba33-9a189cc37e64/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/53bd6603-5c42-441c-adf0-4c5e16ec79bd/canvas/b82f2984-3e6f-4cae-ba33-9a189cc37e64
     zoom: true
 
   - id: "cat-2_12"
     src: figures/2_12.jpg
-    caption: "Fig. 12 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare"
+    caption: "Fig. 12 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/52ff3a74-d17b-4f7a-a000-897b76424c34/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4a722dc8-938c-453d-94f1-14cbd5b5517d/canvas/52ff3a74-d17b-4f7a-a000-897b76424c34
     zoom: true
 
   - id: "cat-2_13"
     src: figures/2_13.jpg
-    caption: "Fig. 13 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare"
+    caption: "Fig. 13 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/21ab5526-5a74-4e2a-b92d-e9ae3e51725a/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b0be0500-856d-4023-9d53-4ba011d3488a/canvas/21ab5526-5a74-4e2a-b92d-e9ae3e51725a
     zoom: true
 
   - id: "cat-2_14"
     src: figures/2_14.jpg
-    caption: "Fig. 14 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare"
+    caption: "Fig. 14 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/bbeeb4be-a599-4115-bd9f-02c5ecf9f2e8/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3cef4e82-866b-4533-9a69-1917b405b240/canvas/bbeeb4be-a599-4115-bd9f-02c5ecf9f2e8
     zoom: true
 
   - id: "cat-2_15"
     src: figures/2_15.jpg
-    caption: "Fig. 15 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare"
+    caption: "Fig. 15 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/4c3e5047-19f3-4177-b4a4-970662f2f7cf/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/954057ab-5868-4709-b1d4-0358faa03964/canvas/4c3e5047-19f3-4177-b4a4-970662f2f7cf
     zoom: true
 
   - id: "cat-2_16"
     src: figures/2_16.jpg
-    caption: "Fig. 16 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare"
+    caption: "Fig. 16 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/38dbf564-45d5-40d0-a36f-4b78d2fa2e8e/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c265d824-83a7-442c-8a59-b09b0884c7be/canvas/38dbf564-45d5-40d0-a36f-4b78d2fa2e8e
     zoom: true
 
   - id: "cat-2_17"
     src: figures/2_17.jpg
-    caption: "Fig. 17 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (verso"
+    caption: "Fig. 17 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (verso)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/47e26719-1e95-400a-8684-939eb1e511b1/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f015c26b-5b14-4a31-8068-f141bc93ee22/canvas/47e26719-1e95-400a-8684-939eb1e511b1
     zoom: true
@@ -282,7 +282,7 @@ figure_list:
 
   - id: "cat-3_11"
     src: figures/3_11.jpg
-    caption: "Fig. 11 - Scultore attivo a Roma, *Parasta*, ultimo quarto del XV secolo (particolare"
+    caption: "Fig. 11 - Scultore attivo a Roma, *Parasta*, ultimo quarto del XV secolo (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/28ec2a14-9bb0-4f8a-bda0-6749e2af122b/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/28ec2a14-9bb0-4f8a-bda0-6749e2af122b/canvas/d7ade8b3-e7ad-467a-beb2-429e71d787be
     zoom: true
@@ -324,7 +324,7 @@ figure_list:
 
   - id: "cat-3_17"
     src: figures/3_17.jpg
-    caption: "Fig. 17 - Scultore attivo a Roma, *Camino*, ultimo quarto del XV secolo, Roma, Palazzo Colonna, Salone Turco (particolare"
+    caption: "Fig. 17 - Scultore attivo a Roma, *Camino*, ultimo quarto del XV secolo, Roma, Palazzo Colonna, Salone Turco (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0a18f213-e155-43b1-ae4b-0c453fed249e/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0a18f213-e155-43b1-ae4b-0c453fed249e/canvas/ec3bdcc6-5b69-40dc-9639-102d552edc09
     zoom: true
@@ -352,14 +352,14 @@ figure_list:
 
   - id: "cat-4_3"
     src: figures/4_3.jpg
-    caption: "Fig. 3 - Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo (particolare"
+    caption: "Fig. 3 - Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/46f7d877-2903-4c78-aba5-3be4b5f1bca6/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/46f7d877-2903-4c78-aba5-3be4b5f1bca6/canvas/d2c36da2-fc90-4127-a6cf-a80e9036f3f4
     zoom: true
 
   - id: "cat-4_4"
     src: figures/4_4.jpg
-    caption: "Fig. 4 - Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo (particolare"
+    caption: "Fig. 4 - Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/aaf57bad-feec-4a8c-a4dd-5516fa6f81cd/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/aaf57bad-feec-4a8c-a4dd-5516fa6f81cd/canvas/41f0d78e-0a0e-4068-8b43-df2545e1310e
     zoom: true
@@ -534,7 +534,7 @@ figure_list:
 
   - id: "cat-7_5"
     src: figures/7_5.jpg
-    caption: "Fig. 5 – Alessandro Vittoria, *Ritratto di Apollonio Massa*, 1571-1572 circa (retro"
+    caption: "Fig. 5 – Alessandro Vittoria, *Ritratto di Apollonio Massa*, 1571-1572 circa (retro)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/636e338f-e8cd-439b-8fad-8adbeca62a9b/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/636e338f-e8cd-439b-8fad-8adbeca62a9b/canvas/4d502e55-8a9c-48d3-9848-9ffaed2977bd
     zoom: true
@@ -590,35 +590,35 @@ figure_list:
 
   - id: "cat-7_13"
     src: figures/7_13.jpg
-    caption: "Fig. 13 – Alessandro Vittoria, *Ritratto di Apollonio Massa*, 1571-1572 circa (particolare"
+    caption: "Fig. 13 – Alessandro Vittoria, *Ritratto di Apollonio Massa*, 1571-1572 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d6ad2fbf-8c50-4d59-8d2b-58f4f5776875/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d6ad2fbf-8c50-4d59-8d2b-58f4f5776875/canvas/75348385-d3c7-48cb-8d61-092460e3d982
     zoom: true
 
   - id: "cat-7_14"
     src: figures/7_14.jpg
-    caption: "Fig. 14 – Alessandro Vittoria, *Ritratto di Apollonio Massa*, 1571-1572 circa (particolare"
+    caption: "Fig. 14 – Alessandro Vittoria, *Ritratto di Apollonio Massa*, 1571-1572 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2df06218-d949-4686-950d-2af6a34c87b2/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2df06218-d949-4686-950d-2af6a34c87b2/canvas/aa08b2d2-c905-445f-9d19-130ee9627501
     zoom: true
 
   - id: "cat-7_15"
     src: figures/7_15.jpg
-    caption: "Fig. 15 – Alessandro Vittoria, *Ritratto di Apollonio Massa*, 1571-1572 circa (particolare"
+    caption: "Fig. 15 – Alessandro Vittoria, *Ritratto di Apollonio Massa*, 1571-1572 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/91ef7908-6c62-40c7-950a-63ff09d7c034/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/91ef7908-6c62-40c7-950a-63ff09d7c034/canvas/862186e8-fbd6-42b9-bf99-52fe67afa6be
     zoom: true
 
   - id: "cat-7_16"
     src: figures/7_16.jpg
-    caption: "Fig. 16 – Alessandro Vittoria, *Ritratto di Apollonio Massa*, 1571-1572 circa (particolare"
+    caption: "Fig. 16 – Alessandro Vittoria, *Ritratto di Apollonio Massa*, 1571-1572 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/fbd55b6c-1f00-4b44-8e77-8776303001c6/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/fbd55b6c-1f00-4b44-8e77-8776303001c6/canvas/ee6d3b29-8578-441c-83a0-5a8cbe1b5b86
     zoom: true
 
   - id: "cat-7_17"
     src: figures/7_17.jpg
-    caption: "Fig. 17 – Alessandro Vittoria, *Ritratto di Apollonio Massa*, 1571-1572 circa (particolare"
+    caption: "Fig. 17 – Alessandro Vittoria, *Ritratto di Apollonio Massa*, 1571-1572 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a23cc0b4-288c-4dd3-84ee-c5ea5cc3bbed/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a23cc0b4-288c-4dd3-84ee-c5ea5cc3bbed/canvas/aa1acb0a-0516-4abc-82ae-cc617953cc36
     zoom: true
@@ -744,42 +744,42 @@ figure_list:
 
   - id: "cat-8_17"
     src: figures/8_17.jpg
-    caption: "Fig. 17 - Nicolas Cordier, *Busto di Paolo V Borghese*, 1605-1612 circa (particolare"
+    caption: "Fig. 17 - Nicolas Cordier, *Busto di Paolo V Borghese*, 1605-1612 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/562197ce-eb18-463e-ad26-fa307713472a/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/562197ce-eb18-463e-ad26-fa307713472a/canvas/ec120b4f-454a-4c2f-a430-4b25dcc2d017
     zoom: true
 
   - id: "cat-8_18"
     src: figures/8_18.jpg
-    caption: "Fig. 18 - Nicolas Cordier, *Busto di Paolo V Borghese*, 1605-1612 circa (particolare"
+    caption: "Fig. 18 - Nicolas Cordier, *Busto di Paolo V Borghese*, 1605-1612 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4301e436-e321-4f76-aa1d-c1fad481705d/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4301e436-e321-4f76-aa1d-c1fad481705d/canvas/d3215f16-d085-4902-a123-ba0da36f8b88
     zoom: true
 
   - id: "cat-8_19"
     src: figures/8_19.jpg
-    caption: "Fig. 19 - Nicolas Cordier, *Busto di Paolo V Borghese*, 1605-1612 circa (particolare"
+    caption: "Fig. 19 - Nicolas Cordier, *Busto di Paolo V Borghese*, 1605-1612 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d2089879-bc3e-4b57-b22c-c05da3b68344/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d2089879-bc3e-4b57-b22c-c05da3b68344/canvas/f379422a-6752-45f3-8f17-644ac6df7f08
     zoom: true
 
   - id: "cat-8_20"
     src: figures/8_20.jpg
-    caption: "Fig. 20 - Nicolas Cordier, *Busto di Paolo V Borghese*, 1605-1612 circa (particolare"
+    caption: "Fig. 20 - Nicolas Cordier, *Busto di Paolo V Borghese*, 1605-1612 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0340423f-4530-4aaa-acdb-f94951f2c23f/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0340423f-4530-4aaa-acdb-f94951f2c23f/canvas/603f1667-f903-4383-9d17-7b01bb4c35c6
     zoom: true
 
   - id: "cat-8_21"
     src: figures/8_21.jpg
-    caption: "Fig. 21 - Nicolas Cordier, *Busto di Paolo V Borghese*, 1605-1612 circa (particolare"
+    caption: "Fig. 21 - Nicolas Cordier, *Busto di Paolo V Borghese*, 1605-1612 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/44fa2f79-f770-495a-a068-f2be9bd96580/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/44fa2f79-f770-495a-a068-f2be9bd96580/canvas/7b7d2856-19b7-41ea-94b0-cb3afd754a17
     zoom: true
 
   - id: "cat-8_22"
     src: figures/8_22.jpg
-    caption: "Fig. 22 - Nicolas Cordier, *Busto di Paolo V Borghese*, 1605-1612 circa (particolare"
+    caption: "Fig. 22 - Nicolas Cordier, *Busto di Paolo V Borghese*, 1605-1612 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4c04e092-e6d4-4edf-bd6a-dedf65508e2e/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4c04e092-e6d4-4edf-bd6a-dedf65508e2e/canvas/f2f9426f-c1a4-45c3-8e61-d2d08a4918e3
     zoom: true
@@ -947,7 +947,7 @@ figure_list:
 
   - id: "cat-10_7"
     src: figures/10_7.jpg
-    caption: "Fig. 7- Pietro Bernini, *Assunzione della Vergine*, Roma, Basilica Papale di Santa Maria Maggiore, Battistero (particolare"
+    caption: "Fig. 7- Pietro Bernini, *Assunzione della Vergine*, Roma, Basilica Papale di Santa Maria Maggiore, Battistero (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f0a959ec-0c49-4601-bb1f-5360201ec490/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f0a959ec-0c49-4601-bb1f-5360201ec490/canvas/982db771-037a-4d56-8a5e-971c2d4a2843
     zoom: true
@@ -996,7 +996,7 @@ figure_list:
 
   - id: "cat-14_1"
     src: figures/14_1.jpg
-    caption: "Fig. 1 - *Ritratto di Socrate*, tipo B, fine I sec. o inizio II sec. d. C., Parigi, Musée du Louvre (Louvre Abu Dhabi"
+    caption: "Fig. 1 - *Ritratto di Socrate*, tipo B, fine I sec. o inizio II sec. d. C., Parigi, Musée du Louvre (Louvre Abu Dhabi)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7d9b199e-e894-4c32-a443-e7d6097b4fac/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7d9b199e-e894-4c32-a443-e7d6097b4fac/canvas/8b67e981-c7ff-4d58-bb65-e1ce8a43e223
     zoom: true
@@ -1038,14 +1038,14 @@ figure_list:
 
   - id: "cat-14_7"
     src: figures/14_7.jpg
-    caption: "Fig. 7 - *Testa di Sileno*, I o II sec. d. C., collezione privata (già Vienna, Christoph Bacher"
+    caption: "Fig. 7 - *Testa di Sileno*, I o II sec. d. C., collezione privata (già Vienna, Christoph Bacher)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d40da683-4241-4aa9-a29f-2a89d34d301d/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d40da683-4241-4aa9-a29f-2a89d34d301d/canvas/db18685c-7f4c-4d70-b776-365091830c1c
     zoom: true
 
   - id: "cat-14_8"
     src: figures/14_8.jpg
-    caption: "Fig. 8 - Testa di Sileno, I o II sec. d. C., collezione privata (già Vienna, Christoph Bacher"
+    caption: "Fig. 8 - Testa di Sileno, I o II sec. d. C., collezione privata (già Vienna, Christoph Bacher)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bd499a12-0fbf-4f0f-9202-06f886519a0d/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bd499a12-0fbf-4f0f-9202-06f886519a0d/canvas/a40b55c0-79cc-4371-8042-4047885689da
     zoom: true
@@ -1066,7 +1066,7 @@ figure_list:
 
   - id: "cat-14_11"
     src: figures/14_11.jpg
-    caption: "Fig. 11 - Anonimo scultore (fiorentino?), *Ritratto di Socrate*, collezione privata (Pandolfini"
+    caption: "Fig. 11 - Anonimo scultore (fiorentino?), *Ritratto di Socrate*, collezione privata (Pandolfini)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8820a624-1f5d-44c3-944a-a37952b9f478/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8820a624-1f5d-44c3-944a-a37952b9f478/canvas/c739de28-f2b6-4dd6-9d43-8b28870b9e6e
     zoom: true
