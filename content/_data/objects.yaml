@@ -64,7 +64,7 @@ object_list:
     titolo: Parasta
     datazione: Ultimo quarto del XV secolo
     materia e tecnica: Marmo
-    misure: 85,5 x 14 x 6 cm / 145 x 25,5 x 9 cm / 125,5 x 22 x 9 cm / 127 x 20,5 x 9 cm / 107,5 x 20,5 x 11 cm / 225,5 x 25,5 x 13 cm / 225 x 25,4 x 13 cm / 225 x 25,1 x 11 cm / 225 x 25,2 x 13 cm
+    misure: 85,5 x 14 x 6 cm ; 145 x 25,5 x 9 cm ; 125,5 x 22 x 9 cm ; 127 x 20,5 x 9 cm ; 107,5 x 20,5 x 11 cm ; 225,5 x 25,5 x 13 cm ; 225 x 25,4 x 13 cm ; 225 x 25,1 x 11 cm ; 225 x 25,2 x 13 cm
     iscrizioni, etichette, cartellini, timbri: Nessuna
     acquisizione: Legato Università di Bologna, 2023
     numero di inventario: Inv. n. 98 ZR 00047, Inv. n. 98 ZR 00048, Inv. n. 98 ZR 00049, Inv. n. 98 ZR 00050, Inv. n. 98 ZR 00051, Inv. n. 98 ZR 00052, Inv. n. 98 ZR 00053, Inv. n. 98 ZR 00054, Inv. n. 98 ZR 00055, Inv. n. 98 ZR 00056
@@ -596,7 +596,7 @@ object_list:
     numeri di inventario precedenti: Sc. 164 (1998-2007); Sc. 165; Sc. 150; 1998 AC Sculture 00038 (2011-2012); 98 SC ZR038 (2012-2015)
     collocazione: Non esposto
     figure:
-      - id: "cat-29"
+      - id: "cat-30"
 
   - id: 30
     autore: Camillo Pacetti
