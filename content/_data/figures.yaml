@@ -212,6 +212,13 @@ figure_list:
 
   - id: "cat-3"
     src: figures/3.jpg
+    caption: "Scultore attivo a Roma, *Parasta*, ultimo quarto del XV secolo"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/07b19698-5305-4002-a5a0-001772acc1a1/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/07b19698-5305-4002-a5a0-001772acc1a1/canvas/0d75a3cd-7bc9-42e5-8977-7623150ddce8
+    zoom: true
+    
+  - id: "cat-3_1"
+    src: figures/3.jpg
     caption: "Fig. 1 - Scultore attivo a Roma, *Parasta*, ultimo quarto del XV secolo"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e84d2fe4-cdfb-43e8-a0fb-b76fc4b9f625/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e84d2fe4-cdfb-43e8-a0fb-b76fc4b9f625/canvas/84085de9-8248-4b51-93d4-cfd3fc95d5ff
@@ -986,7 +993,21 @@ figure_list:
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/270688f6-e0e4-4543-a2d7-dc45955da280/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/270688f6-e0e4-4543-a2d7-dc45955da280/canvas/5d3fbf64-a461-42a5-85f2-2de25ce0c196
     zoom: true
-    
+   
+  - id: "cat-11"
+    src: figures/11.jpg
+    caption: "François du Quesnoy detto il Fiammingo, *Angelo con drappo*, 1628-1629 circa, Collezione Zeri, Accademia Carrara, Bergamo"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/4cd33cae-947a-403a-83cc-bcdf373fe22c/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/4cd33cae-947a-403a-83cc-bcdf373fe22c/canvas/bc4b3ee8-d644-4efb-8315-fd3d6ccf8a50
+    zoom: true
+
+  - id: "cat-12"
+    src: figures/12.jpg
+    caption: "François du Quesnoy detto il Fiammingo, *Putto con ghirlanda*, 1626-1627 circa, Collezione Zeri, Accademia Carrara, Bergamo"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/e5caf143-558c-44c4-80e6-3f429ba271f8/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/e5caf143-558c-44c4-80e6-3f429ba271f8/canvas/3c6692be-d68f-46d1-b079-aa17f4edef47
+    zoom: true 
+  
   - id: "cat-14"
     src: figures/14.jpg
     caption: "Scultore attivo a Roma, *Testa di Socrate*, prima metà XVII sec, Collezione Zeri, Accademia Carrara, Bergamo"
@@ -1484,6 +1505,13 @@ figure_list:
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/97728f30-cd9e-4b19-abc4-d7ec56afbd42/canvas/d251d4e7-bf15-4a24-a7d2-5cebcaf0e967
     zoom: true
 
+  - id: "cat-30"
+    src: figures/30.jpg
+    caption: "Bartolomeo Cavaceppi, *Venere di Roma*, 1756-1769"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/a0c84b6a-e30f-4a3e-8bde-6712b392a5f4/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/a0c84b6a-e30f-4a3e-8bde-6712b392a5f4/canvas/a9df0744-8bfb-4568-a755-24dc5bba7746
+    zoom: true
+    
   - id: "cat-35"
     src: figures/35.jpg
     caption: "Tito Sarrocchi nella bottega di Giovanni Dupré, *Ritratto di Luigi Tonti*"
