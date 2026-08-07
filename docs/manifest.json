@@ -207,9 +207,17 @@
     "file": "_assets/16.jpg",
     "src": "_assets/images/figures/16.jpg"
   },
+  "_assets/images/figures/17.jpg": {
+    "file": "_assets/17.jpg",
+    "src": "_assets/images/figures/17.jpg"
+  },
   "_assets/images/figures/18.jpg": {
     "file": "_assets/18.jpg",
     "src": "_assets/images/figures/18.jpg"
+  },
+  "_assets/images/figures/19.jpg": {
+    "file": "_assets/19.jpg",
+    "src": "_assets/images/figures/19.jpg"
   },
   "_assets/images/figures/2.jpg": {
     "file": "_assets/2.jpg",
