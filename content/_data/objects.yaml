@@ -76,8 +76,8 @@ object_list:
   - id: 4
     autore: Scultore attivo a Roma
     dati anagrafici autore: 
-    titolo: Busto di prelato
-    datazione: 1550 circa
+    titolo: Busto di gentiluomo
+    datazione: Terzo quarto del XVI secolo
     materia e tecnica: Marmo
     misure: 63 × 42 × 40 cm (busto); 78 x 65 x 46 cm (busto con piedistallo)
     iscrizioni, etichette, cartellini, timbri: Nessuna
@@ -86,7 +86,7 @@ object_list:
     numeri di inventario precedenti: Sc. 130 (1998-2007); Sc. 132; Sc. 117; 1998 AC Sculture 00004 (2011-2012); 98 SC ZR004 (2012-2015)
     collocazione: Non esposto 
     figure:
-      - id: "cat-35"
+      - id: "cat-5"
 
   - id: 5
     autore: Scultore senese (Domenico Cafaggi?)
@@ -194,10 +194,10 @@ object_list:
       - id: "cat-12"
 
   - id: 12
-    autore: Scultore attivo a Roma (Alessandro Algardi? Nicolas Cordier?)
+    autore: Scultore attivo a Roma nella prima metà del XVII secolo
     dati anagrafici autore: 
     titolo: Santa Martina
-    datazione: 1650 circa / 1590-1610 circa
+    datazione: 1634-1650 circa
     materia e tecnica: Terracotta
     misure: 91 × 57 × 41 cm
     iscrizioni, etichette, cartellini, timbri: Nessuna
@@ -206,7 +206,7 @@ object_list:
     numeri di inventario precedenti: Sc. 138 (1998-2007); Sc. 141; Sc. 126; 1998 AC Sculture 00012 (2011-2012); 98 SC ZR012 (2012-2015)
     collocazione: Non esposto
     figure:
-      - id: "cat-35"
+      - id: "cat-13"
 
   - id: 13
     autore: Scultore attivo a Roma
@@ -258,15 +258,15 @@ object_list:
     dati anagrafici autore: Roma, 1646-1730
     titolo: Statua reliquiario di Santa Palazia
     datazione: 1726
-    materia e tecnica: Argento, rame dorato, marmo, legno 
+    materia e tecnica: Argento, rame dorato, diaspro giallo, legno
     misure: 105 × 53 × 47 cm
-    iscrizioni, etichette, cartellini, timbri: All’attaccatura della testa, punzone della Corporazione degli orafi e argentieri di Roma (due chiavi pontificie incrociate e coperte da un ombrello). Punzone camerale nascosto. Sopra il camerale, punzone dell’artefice (zampa di leone).
+    iscrizioni, etichette, cartellini, timbri: Sul collo, all’attaccatura della testa è visibile il bollo camerale della Corporazione degli Orafi e Argentieri di Roma (due chiavi pontificie incrociate coperte da un ombrello). Accanto al bollo camerale è visibile un altro marchio, che raffigura la zampa di un leone ed è stato identificato con quello dell’orafo e argentiere romano Giovanni Francesco Arrighi.
     acquisizione: Legato Federico Zeri, 1988
     numero di inventario: Inv. n. 98 ZR 00016
     numeri di inventario precedenti: Sc. 142 (1998-2007); Sc. 143; Sc. 128; 1998 AC Sculture 00016 (2011-2012); 98 SC ZR016 (2012-2015)
-    collocazione: Esposto - Scalone d’onore
+    collocazione: Esposto - Pianerottolo di arrivo della scala nobile
     figure:
-      - id: "cat-35"
+      - id: "cat-17"
 
   - id: 17
     autore: Girolamo Ticciati
@@ -286,47 +286,47 @@ object_list:
   - id: 18a
     autore: Anton Francesco Andreozzi 
     dati anagrafici autore: Firenze, 1663-1731
-    titolo: Incontro di Cristo con le pie donne 
-    datazione: 1685 circa
+    titolo: Incontro di Cristo con le pie donne di Gerusalemme
+    datazione: 1685
     materia e tecnica: Terracotta invetriata
-    misure: diam. 43,5 cm x X (con cornice diam. 58 cm x 3)
+    misure: Diametro 43,5 cm; spessore 3 cm; diametro con cornice 58 cm
     iscrizioni, etichette, cartellini, timbri: Nessuna
     acquisizione: Legato Federico Zeri, 1988
     numero di inventario: Inv. n. 98 ZR 00018
     numeri di inventario precedenti: Sc. 144 (1998-2007); Sc. 129; 1998 AC Sculture 00018 (2011-2012); 98 SC ZR018 (2012-2015)
     collocazione: Non esposto
     figure:
-      - id: "cat-35"
+      - id: "cat-19"
 
   - id: 18b
     autore: Anton Francesco Andreozzi
     dati anagrafici autore: Firenze, 1663-1731
     titolo: Seconda caduta di Cristo sotto la croce
-    datazione: 1685 circa 
+    datazione: 1685
     materia e tecnica: Terracotta invetriata
-    misure: diam. 43,5 cm x X (con cornice diam. 58 cm x 3)
-    iscrizioni, etichette, cartellini, timbri: Sul retro, sul controfondo in legno, iscrizione a gessetto azzurro «GELARDINI / SOTHEBY».
-    acquisizione: Llegato Federico Zeri, 1988
+    misure: Diametro 43,5 cm; spessore 3 cm; diametro con cornice 58 cm
+    iscrizioni, etichette, cartellini, timbri: Iscrizione sul retro a gessetto azzurro «GELARDINI / SOTHEBY»
+    acquisizione: Legato Federico Zeri, 1988
     numero di inventario: Inv. n. 98 ZR 00019
     numeri di inventario precedenti: Sc. 145 (1998-2007); Sc. 130; 1998 AC Sculture 00019 (2011-2012); 98 SC ZR019 (2012-2015)
     collocazione: Non esposto 
     figure:
-      - id: "cat-35"
+      - id: "cat-19"
 
   - id: 19
     autore: Filippo Parodi
     dati anagrafici autore: Genova, 1630-1702
-    titolo: Angeli e cherubini (Bozzetto per il basamento di candeliere della cappella dell’Arca di Sant’Antonio)
+    titolo: Bozzetto per ceroforale della cappella dell’Arca nella Basilica di Sant’Antonio a Padova
     datazione: 1688-1689 circa
     materia e tecnica: Terracotta
-    misure: 22 × 29 × 14 cm 
+    misure: 22,5 × 20 × 14,5 cm (base di marmo 27 x 21,7 x 15,3 cm)
     iscrizioni, etichette, cartellini, timbri: Nessuna
     acquisizione: Legato Federico Zeri, 1988
     numero di inventario: Inv. n. 98 ZR 00020
     numeri di inventario precedenti: Sc. 146 (1998-2007); Sc. 132; Sc. 131; 1998 AC Sculture 00020 (2011-2012); 98 SC ZR020 (2012-2015)
     collocazione: Esposto - Sala 13
     figure:
-      - id: "cat-35"
+      - id: "cat-20"
 
   - id: 20
     autore: Orazio Marinali
@@ -435,9 +435,9 @@ object_list:
 
   - id: 24a
     autore: Jacques Bergé
-    dati anagrafici autore: Bruxelles, 1693 (o 1696) - 16 novembre 1756
+    dati anagrafici autore: Bruxelles, 15 maggio 1693 - 16 novembre 1756
     titolo: David
-    datazione: 1738 circa
+    datazione: 1738 
     materia e tecnica: Legno di quercia
     misure: 157 × 57 × 37 cm
     iscrizioni, etichette, cartellini, timbri: Sul retro, cartellino incollato con iscrizione a penna «[S C] 502 / fiamminga / 500». Sopra altro cartellino incollato del medesimo tipo, privo di iscrizioni. Sul lembo del mantello, vicino al piede sinistro, inciso nel legno, un marchio o una lettera, forse una «[G]»
@@ -446,13 +446,13 @@ object_list:
     numeri di inventario precedenti: Sc. 154 (1998-2007); Sc. 155; Sc. 140; 1998 AC Sculture 00028 (2011-2012); 98 SC ZR028 (2012-2015)
     collocazione: Non esposto
     figure:
-      - id: "cat-35"
+      - id: "cat-25"
 
   - id: 24b
     autore: Jacques Bergé
-    dati anagrafici autore: Bruxelles, 1693 (o 1696) - 16 novembre 1756
-    titolo: Sibilla / Betsabea
-    datazione: 1738 circa
+    dati anagrafici autore: Bruxelles, 15 maggio 1693 - 16 novembre 1756
+    titolo: Betsabea o Sibilla
+    datazione: 1738 
     materia e tecnica: Legno di quercia
     misure: 160 × 60 × 40 cm
     iscrizioni, etichette, cartellini, timbri: Sul cartiglio che la figura tiene nella mano sinistra, inciso nel legno, iscrizione in lettere capitali «DELICTUM / MEUM / COGNITUM / TIBI FECI». Sul retro, a destra, in basso, cartellino incollato con iscrizione a penna «[VC] 6503 / Sc. fiamminga / 1500». Sempre sul retro, in alto a sinistra, altro cartellino incollato del medesimo tipo, con una iscrizione a penna non facilmente leggibile «185 / […]»
@@ -461,7 +461,7 @@ object_list:
     numeri di inventario precedenti: Sc. 155 (1998-2007); Sc. 156; Sc. 141; 1998 AC Sculture 00029 (2011-2012); 98 SC ZR029 (2012-2015)
     collocazione: Non esposto
     figure:
-      - id: "cat-35"
+      - id: "cat-25"
 
   - id: 25
     autore: Innocenzo Spinazzi
@@ -569,19 +569,19 @@ object_list:
       - id: "cat-35"
 
   - id: 28
-    autore: Filippo Tagliolini?
-    dati anagrafici autore: Cascia, 1745 - Napoli, 1808
+    autore: Filippo Tagliolini
+    dati anagrafici autore: Fogliano di Cascia, 29 dicembre 1745 - Napoli, 1808
     titolo: Ercole nel giardino delle Esperidi
     datazione: 1780-1800 circa
     materia e tecnica: Biscuit
     misure: 48 × 46 × 40 cm
-    iscrizioni, etichette, cartellini, timbri: Sul retro, all’interno di un ovale retto da una figura maschile, iscrizione incisa in lettere capitali «Ercoles ad experides / perventus / Dragone custode inte= / rempto / aureaq. poma eduxit».
+    iscrizioni, etichette, cartellini, timbri: Sul retro, all’interno di un ovale retto da una figura maschile, iscrizione incisa in lettere capitali «ERCOLES AD EXPERIDES / PERVENTUS / DRAGONE CUSTODE INTE/REMPTO / AUREAQ(UE). POMA EDUXIT».
     acquisizione: Legato Federico Zeri, 1988
     numero di inventario: Inv. n. 98 ZR 00037
     numeri di inventario precedenti: Sc. 163 (1998-2007); Sc. 168; Sc. 153; 1998 AC Sculture 00037 (2011-2012); 98 SC ZR037 (2012-2015).
     collocazione: Non esposto
     figure:
-      - id: "cat-35"
+      - id: "cat-29"
 
   - id: 29
     autore: Bartolomeo Cavaceppi
@@ -644,10 +644,10 @@ object_list:
       - id: "cat-35"
 
   - id: 33
-    autore: Scultore italiano della prima metà dell’Ottocento 
-    dati anagrafici autore: 
+    autore: Scultore italiano di primo Ottocento
+    dati anagrafici autore: Lombardia (?), prima metà del XIX secolo
     titolo: Busto di donna con pelliccia
-    datazione: 1800-1820 circa
+    datazione: 1800-1830 circa
     materia e tecnica: Terracotta
     misure: 70 × 77 × 36 cm (busto); 18,5 x 25 x 23 (base)
     iscrizioni, etichette, cartellini, timbri: Nessuna
@@ -656,7 +656,7 @@ object_list:
     numeri di inventario precedenti: Sc. 169 (1998-2007); Sc. 171; Sc. 156; 1998 AC Sculture 00043 (2011-2012); 98 SC ZR043 (2012-2015)
     collocazione: Non esposto
     figure:
-      - id: "cat-35"
+      - id: "cat-34"
 
   - id: 35
     autore: Tito Sarrocchi, nella bottega di Giovanni Dupré
