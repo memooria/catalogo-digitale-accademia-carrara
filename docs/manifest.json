@@ -243,6 +243,10 @@
     "file": "_assets/4.jpg",
     "src": "_assets/images/figures/4.jpg"
   },
+  "_assets/images/figures/5.jpg": {
+    "file": "_assets/5.jpg",
+    "src": "_assets/images/figures/5.jpg"
+  },
   "_assets/images/figures/6.jpg": {
     "file": "_assets/6.jpg",
     "src": "_assets/images/figures/6.jpg"
