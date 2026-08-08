@@ -399,6 +399,13 @@ figure_list:
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/17ea26b4-8ed6-4820-8c46-50116d1d57a6/canvas/78fb6bb5-28f3-446f-833f-74a465d2b989
     zoom: true
 
+  - id: "cat-5"
+    src: figures/5.jpg
+    caption: "Scultore attivo a Roma, *Busto di gentiluomo*, terzo quarto del XVI secolo"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5a1be6c1-3c4a-4212-8f83-de752b578593/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5a1be6c1-3c4a-4212-8f83-de752b578593/canvas/9eb56d07-ced6-49a1-961e-f6a7e0ba3518
+    zoom: true
+
   - id: "cat-6"
     src: figures/6.jpg
     caption: "Scultore senese dell’ultimo quarto del XVI secolo (Domenico Cafaggi?), *Prudenza*, Collezione Zeri, Accademia Carrara, Bergamo"
@@ -1006,8 +1013,15 @@ figure_list:
     caption: "François du Quesnoy detto il Fiammingo, *Putto con ghirlanda*, 1626-1627 circa, Collezione Zeri, Accademia Carrara, Bergamo"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/e5caf143-558c-44c4-80e6-3f429ba271f8/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/e5caf143-558c-44c4-80e6-3f429ba271f8/canvas/3c6692be-d68f-46d1-b079-aa17f4edef47
-    zoom: true 
-  
+    zoom: true
+
+  - id: "cat-13"
+    src: figures/13.jpg
+    caption: "Scultore attivo a Roma nella prima metà del XVII secolo, *Santa Martina*, 1634-1650 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/19eaa3ba-a7f6-4222-b9ce-845070a01ee3/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/19eaa3ba-a7f6-4222-b9ce-845070a01ee3/canvas/f1da8757-8070-48ca-8a26-c75fb7dcb2ba
+    zoom: true
+
   - id: "cat-14"
     src: figures/14.jpg
     caption: "Scultore attivo a Roma, *Testa di Socrate*, prima metà XVII sec, Collezione Zeri, Accademia Carrara, Bergamo"
@@ -1309,6 +1323,13 @@ figure_list:
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4e667e53-9a93-4101-9147-ff8707dbb53e/canvas/85550f4d-8eac-4dce-a78d-91ef4a6d65be
     zoom: true
 
+  - id: "cat-17"
+    src: figures/17.jpg
+    caption: "Giovanni Francesco Arrighi, *Statua reliquiario di Santa Palazia*"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/93e44007-02d0-4b1d-909d-8690235d908f/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/93e44007-02d0-4b1d-909d-8690235d908f/canvas/698d0a82-2a5b-4eb2-a904-67c14eb07ae6
+    zoom: true
+
   - id: "cat-18"
     src: figures/18.jpg
     caption: "Girolamo Ticciati, *San Paolo*, Collezione Zeri, Accademia Carrara, Bergamo"
@@ -1442,6 +1463,27 @@ figure_list:
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/51a46e6c-d6b7-408d-a804-b5751af10cd1/canvas/2bc8e1a4-bfd9-4687-aac3-149c0c1a0dc8
     zoom: true
 
+  - id: "cat-19"
+    src: figures/19.jpg
+    caption: "Anton Francesco Andreozzi, *Incontro di Cristo con le donne di Gerusalemme*"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f37e48e1-47bd-48c3-964a-d21ac8805efe/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f37e48e1-47bd-48c3-964a-d21ac8805efe/canvas/aaf746c0-358d-4eb3-bf0e-71032dabf288
+    zoom: true
+
+  - id: "cat-20"
+    src: figures/20.jpg
+    caption: "Filippo Parodi, *Bozzetto per ceroforale della cappella dell’Arca nella Basilica di Sant’Antonio a Padova*"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/23d68e67-36d5-47be-84f3-d152d3df4ac7/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/23d68e67-36d5-47be-84f3-d152d3df4ac7/canvas/651cac3c-2588-45c7-b0a5-5b9a92f923c7
+    zoom: true
+
+  - id: "cat-25"
+    src: figures/25.jpg
+    caption: "Jacques Bergé, *David*"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2bb206fc-e622-4249-a67f-5259af0c4093/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2bb206fc-e622-4249-a67f-5259af0c4093/canvas/58259df5-07b8-4b62-8da5-89a555840212
+    zoom: true
+
   - id: "cat-26"
     src: figures/26.jpg
     caption: "Fig. 1 – Innocenzo Spinazzi, *Ritratto di George Nassau Clevering III Earl of Cowper*, 1787"
@@ -1505,13 +1547,27 @@ figure_list:
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/97728f30-cd9e-4b19-abc4-d7ec56afbd42/canvas/d251d4e7-bf15-4a24-a7d2-5cebcaf0e967
     zoom: true
 
+  - id: "cat-29"
+    src: figures/29.jpg
+    caption: "Filippo Tagliolini, *Ercole nel giardino delle Esperidi*"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0f0c41d6-57d6-4027-a1f6-03a0fe9fe0b5/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0f0c41d6-57d6-4027-a1f6-03a0fe9fe0b5/canvas/95fdd793-a090-4dcd-99b1-37019b32d4bf
+    zoom: true  
+
   - id: "cat-30"
     src: figures/30.jpg
     caption: "Bartolomeo Cavaceppi, *Venere di Roma*, 1756-1769"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/a0c84b6a-e30f-4a3e-8bde-6712b392a5f4/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/a0c84b6a-e30f-4a3e-8bde-6712b392a5f4/canvas/a9df0744-8bfb-4568-a755-24dc5bba7746
     zoom: true
-    
+
+  - id: "cat-34"
+    src: figures/34.jpg
+    caption: "Scultore italiano di primo Ottocento, *Busto di donna con pelliccia*"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7a15ad38-35ed-4d3a-8e55-4bab2007b7f1/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7a15ad38-35ed-4d3a-8e55-4bab2007b7f1/canvas/1f22b4bb-9d34-4474-81b2-a674b102776e
+    zoom: true
+
   - id: "cat-35"
     src: figures/35.jpg
     caption: "Tito Sarrocchi nella bottega di Giovanni Dupré, *Ritratto di Luigi Tonti*"
@@ -1567,3 +1623,4 @@ figure_list:
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e34fcde0-a432-4253-8729-ed8e4d5b3cf6/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e34fcde0-a432-4253-8729-ed8e4d5b3cf6/canvas/ed987646-01e7-487b-940a-3f04bf38ff8a
     zoom: true
+
