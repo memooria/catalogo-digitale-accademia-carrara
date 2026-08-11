@@ -218,7 +218,7 @@ figure_list:
     zoom: true
     
   - id: "cat-3_1"
-    src: figures/3.jpg
+    src: figures/3_1.jpg
     caption: "Fig. 1 - Scultore attivo a Roma, *Parasta*, ultimo quarto del XV secolo"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e84d2fe4-cdfb-43e8-a0fb-b76fc4b9f625/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e84d2fe4-cdfb-43e8-a0fb-b76fc4b9f625/canvas/84085de9-8248-4b51-93d4-cfd3fc95d5ff
@@ -387,7 +387,7 @@ figure_list:
 
   - id: "cat-4_7"
     src: figures/4_7.jpg
-    caption: "Fig. 7 - Scultore lucano, fine del XV o inizio del XVI secolo, Madonna con il Bambino in trono, Abriola, Santa Maria Maggiore.tif"
+    caption: "Fig. 7 - Scultore lucano, fine del XV o inizio del XVI secolo, Madonna con il Bambino in trono, Abriola, Santa Maria Maggiore"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cac316a8-64ba-40d6-89b8-3ef965749a89/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cac316a8-64ba-40d6-89b8-3ef965749a89/canvas/c96a1dd1-6f94-42df-b73b-c24a47151a03
     zoom: true
@@ -653,7 +653,7 @@ figure_list:
 
   - id: "cat-7_12"
     src: figures/7_12.jpg
-    caption: "Fig. 12 – Alessandro Vittoria, *Giulio Contarini*, 1570-1576 circa, Ottawa, National Gallery of Canada.tif"
+    caption: "Fig. 12 – Alessandro Vittoria, *Giulio Contarini*, 1570-1576 circa, Ottawa, National Gallery of Canada"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e9056791-2c22-4242-8e1b-8ec50e49e584/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e9056791-2c22-4242-8e1b-8ec50e49e584/canvas/129edb97-1de9-4af2-bcff-62fd66527b69
     zoom: true
@@ -695,7 +695,7 @@ figure_list:
 
   - id: "cat-7_19"
     src: figures/7_19.jpg
-    caption: "Fig. 19 - Alessandro Vittoria (da), *Ritratto di Apollonio Massa*, 1884 circa, Londra, Victoria and Albert Museum.jpg"
+    caption: "Fig. 19 - Alessandro Vittoria (da), *Ritratto di Apollonio Massa*, 1884 circa, Londra, Victoria and Albert Museum"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/19a28dec-875b-4487-a998-0168ddfeddf2/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/19a28dec-875b-4487-a998-0168ddfeddf2/canvas/9565e2b6-9d58-4701-8636-d3cac8a3892b
     zoom: true
@@ -1190,11 +1190,221 @@ figure_list:
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/e5caf143-558c-44c4-80e6-3f429ba271f8/canvas/3c6692be-d68f-46d1-b079-aa17f4edef47
     zoom: true
 
+  - id: "cat-12_1"
+    src: figures/12_1.jpg
+    caption: "Fig. 1 - François du Quesnoy detto il Fiammingo, *Putto con ghirlanda*, 1626-1627 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7c01d2ed-3638-4957-a688-03c1e3df6b3e/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7c01d2ed-3638-4957-a688-03c1e3df6b3e/canvas/f78fd2c1-21f3-471c-9653-916447021242
+    zoom: true
+
+  - id: "cat-12_2"
+    src: figures/12_2.jpg
+    caption: "Fig. 2 - DA SOSTITUIRE_scheda12"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/50e2f092-7229-4d84-aa3b-2e54715a20da/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/50e2f092-7229-4d84-aa3b-2e54715a20da/canvas/4b1e5e9e-cad2-4de2-b962-5e05bac98939
+    zoom: true
+
+  - id: "cat-12_3"
+    src: figures/12_3.jpg
+    caption: "Fig. 3 - DA SOSTITUIRE_scheda12"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/43fdb7bb-2152-4813-8591-8f07d6dd9cac/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/43fdb7bb-2152-4813-8591-8f07d6dd9cac/canvas/defc2844-b5f0-4376-adbc-42337017bb09
+    zoom: true
+
+  - id: "cat-12_4"
+    src: figures/12_4.jpg
+    caption: "Fig. 4 - DA SOSTITUIRE_scheda12"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4506cc29-13c5-49f3-9fd3-afe3f77fa457/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4506cc29-13c5-49f3-9fd3-afe3f77fa457/canvas/ab226e13-97bf-4c06-861c-c4245f6facde
+    zoom: true
+
+  - id: "cat-12_5"
+    src: figures/12_5.jpg
+    caption: "Fig. 5 – Tiziano Vecellio, *Offerta a Venere*, 1518, Madrid, Museo del Prado"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8f8947ae-b289-457d-bc19-cc80f28a42a2/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8f8947ae-b289-457d-bc19-cc80f28a42a2/canvas/e3865318-c602-4bbc-a930-dff708309a91
+    zoom: true
+
+  - id: "cat-12_6"
+    src: figures/12_6.jpg
+    caption: "Fig. 6 - DA SOSTITUIRE_scheda12"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5135db93-4983-4dde-87fb-ec44964cba88/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5135db93-4983-4dde-87fb-ec44964cba88/canvas/839b940d-e734-4c16-ac69-938270ad989c
+    zoom: true
+
+  - id: "cat-12_7"
+    src: figures/12_7.jpg
+    caption: "Fig. 7 - DA SOSTITUIRE_scheda12"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/664dd091-2afd-418a-b472-3313d28f9509/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/664dd091-2afd-418a-b472-3313d28f9509/canvas/eeb05494-d57a-4b37-981c-725d75117314
+    zoom: true
+
+  - id: "cat-12_8"
+    src: figures/12_8.jpg
+    caption: "Fig. 8 - DA SOSTITUIRE_scheda12"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/95cc348d-40b8-4669-979b-1461eca43710/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/95cc348d-40b8-4669-979b-1461eca43710/canvas/d03eb2a4-d4e3-472a-83e3-0d3531997171
+    zoom: true
+
+  - id: "cat-12_9"
+    src: figures/12_9.jpg
+    caption: "Fig. 9 - DA SOSTITUIRE_scheda12"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/aaa1420d-197f-4b1c-a470-549267cf9ab4/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/aaa1420d-197f-4b1c-a470-549267cf9ab4/canvas/cdf72d82-2f56-43b8-8b17-5d7606e59703
+    zoom: true
+
+  - id: "cat-12_10"
+    src: figures/12_10.jpg
+    caption: "Fig. 10 - DA SOSTITUIRE_scheda12"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d8c155b1-db61-49d6-ad43-c69039cf1007/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d8c155b1-db61-49d6-ad43-c69039cf1007/canvas/e02b1342-6aba-4d4b-8ee6-b32f000c9571
+    zoom: true
+
+  - id: "cat-12_11"
+    src: figures/12_11.jpg
+    caption: "Fig. 11 - DA SOSTITUIRE_scheda12"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2b02ceb0-2660-4ae0-a1cd-d6db7c68026c/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2b02ceb0-2660-4ae0-a1cd-d6db7c68026c/canvas/f47d6ede-9463-4695-a069-ea4942dafbd7
+    zoom: true
+
+  - id: "cat-12_12"
+    src: figures/12_12.jpg
+    caption: "Fig. 12 - DA SOSTITUIRE_scheda12"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/09d581e4-b607-489b-90c2-7b18a78a142b/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/09d581e4-b607-489b-90c2-7b18a78a142b/canvas/396d01f5-8edc-43bd-97bc-73fcfd2450c4
+    zoom: true
+
+  - id: "cat-12_13"
+    src: figures/12_13.jpg
+    caption: "Fig. 13 - DA SOSTITUIRE_scheda12"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2a26f922-bc93-4dd7-b9e4-8cee4e12e959/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2a26f922-bc93-4dd7-b9e4-8cee4e12e959/canvas/48357d41-fa89-49ed-8858-c620f25c7597
+    zoom: true
+
+  - id: "cat-12_14"
+    src: figures/12_14.jpg
+    caption: "Fig. 14 – Tommaso Fedele, *Amor divino che atterra l’Amor profano*, ante 1630, Madrid, Museo del Prado"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0daea4bc-efab-4103-a1dd-0e22fec47ef3/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0daea4bc-efab-4103-a1dd-0e22fec47ef3/canvas/dd2369fb-248f-47e3-81a0-146f6ccda3f5
+    zoom: true
+
+  - id: "cat-12_15"
+    src: figures/12_15.jpg
+    caption: "Fig. 15 - François du Quesnoy detto il Fiammingo, *Putto con ghirlanda*, 1626-1627 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a813d29e-915e-4b5a-bbec-72b9f2571931/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a813d29e-915e-4b5a-bbec-72b9f2571931/canvas/f9efca8c-25ad-474c-bfa9-baa4281f6f67
+    zoom: true
+
+  - id: "cat-12_16"
+    src: figures/12_16.jpg
+    caption: "Fig. 16 - François du Quesnoy detto il Fiammingo, *Putto con ghirlanda*, 1626-1627 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/713a4f9a-f591-448d-9428-bad2854d2559/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/713a4f9a-f591-448d-9428-bad2854d2559/canvas/e37e4778-683d-46e6-beba-2bd5b1446c1a
+    zoom: true
+
+  - id: "cat-12_17"
+    src: figures/12_17.jpg
+    caption: "Fig. 17 - François du Quesnoy detto il Fiammingo, *Putto con ghirlanda*, 1626-1627 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/45c99b8c-7fd0-4268-9cf8-e3a0fb4d9b65/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/45c99b8c-7fd0-4268-9cf8-e3a0fb4d9b65/canvas/5d4736e9-448a-419e-8059-be70c36b8d15
+    zoom: true
+
+  - id: "cat-12_18"
+    src: figures/12_18.jpg
+    caption: "Fig. 18 - François du Quesnoy detto il Fiammingo, *Putto con ghirlanda*, 1626-1627 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2b18a36c-f677-4e7f-8ee2-f5bf71db98e0/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2b18a36c-f677-4e7f-8ee2-f5bf71db98e0/canvas/0994467c-cf1e-4dfe-aaf2-8c86079beabb
+    zoom: true
+
+  - id: "cat-12_19"
+    src: figures/12_19.jpg
+    caption: "Fig. 19 - François du Quesnoy detto il Fiammingo, *Putto con ghirlanda*, 1626-1627 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/15a1867f-1264-44da-94a7-35b643709a51/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/15a1867f-1264-44da-94a7-35b643709a51/canvas/9ecdf8a6-3980-4aae-9a8a-ea70794fa99f
+    zoom: true
+
+  - id: "cat-12_20"
+    src: figures/12_20.jpg
+    caption: "Fig. 20 - François du Quesnoy detto il Fiammingo, *Putto con ghirlanda*, 1626-1627 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/410c24eb-390b-4b47-b39b-7260a55ed4d8/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/410c24eb-390b-4b47-b39b-7260a55ed4d8/canvas/01e0d122-3889-42f8-8d53-089f0126287a
+    zoom: true
+
+  - id: "cat-12_21"
+    src: figures/12_21.jpg
+    caption: "Fig. 21 - François du Quesnoy detto il Fiammingo, *Putto con ghirlanda*, 1626-1627 circa (retro senza cornice)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/fae4c9d5-ee6d-4b9e-b67c-779949cd8b25/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/fae4c9d5-ee6d-4b9e-b67c-779949cd8b25/canvas/277d7662-9f6e-477a-9ac3-4d378d9420aa
+    zoom: true
+
+  - id: "cat-12_22"
+    src: figures/12_22.jpg
+    caption: "Fig. 22 - François du Quesnoy detto il Fiammingo, *Putto con ghirlanda*, 1626-1627 circa (fronte con cornice)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/759c1170-b649-4c7a-b0b4-749b5981cbd3/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/759c1170-b649-4c7a-b0b4-749b5981cbd3/canvas/ba1ce52f-0063-4dd4-9152-8d795ee241b7
+    zoom: true
+
+  - id: "cat-12_23"
+    src: figures/12_23.jpg
+    caption: "Fig. 23 - François du Quesnoy detto il Fiammingo, *Putto con ghirlanda*, 1626-1627 circa (retro con cornice)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7451809b-c822-4151-a2fb-8de3373820fb/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7451809b-c822-4151-a2fb-8de3373820fb/canvas/cf24d34c-591a-4fd5-9f11-3beb55b3445c
+    zoom: true
+
+  - id: "cat-12_24"
+    src: figures/12_24.jpg
+    caption: "Fig. 24 - François du Quesnoy detto il Fiammingo, *Putto con ghirlanda*, 1626-1627 circa (da Antonia Nava Cellini)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b174b402-def1-46f2-870c-f5e0dbfa497f/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b174b402-def1-46f2-870c-f5e0dbfa497f/canvas/6b64be3f-e3a4-4c6f-908d-092e1ca59627
+    zoom: true
+
+  - id: "cat-12_25"
+    src: figures/12_25.jpg
+    caption: "Fig. 25 - François du Quesnoy detto il Fiammingo, *Putto con ghirlanda*, 1626-1627 circa (da A. Bacchi)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0cf5cd9b-91f0-4ee7-b963-e96f42a323a9/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0cf5cd9b-91f0-4ee7-b963-e96f42a323a9/canvas/bdfecb65-4eb4-4ece-b0c2-4c3e0779c53d
+    zoom: true
+
   - id: "cat-13"
     src: figures/13.jpg
     caption: "Scultore attivo a Roma nella prima metà del XVII secolo, *Santa Martina*, 1634-1650 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/19eaa3ba-a7f6-4222-b9ce-845070a01ee3/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/19eaa3ba-a7f6-4222-b9ce-845070a01ee3/canvas/f1da8757-8070-48ca-8a26-c75fb7dcb2ba
+    zoom: true
+
+  - id: "cat-13_1"
+    src: figures/13_1.jpg
+    caption: "Fig. 1 – Scultore attivo a Roma, *Santa Martina (?)*, 1634-1650 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/67676aa3-e09a-406d-b15a-9ae6242e36b6/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/67676aa3-e09a-406d-b15a-9ae6242e36b6/canvas/d2bbc226-89db-4d6a-bf2d-421ae67a24d3
+    zoom: true
+
+  - id: "cat-13_2"
+    src: figures/13_2.jpg
+    caption: "Fig. 2 – Scultore attivo a Roma, *Santa Martina (?)*, 1634-1650 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c7a4f261-0437-4fa9-9c05-4c867e785827/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c7a4f261-0437-4fa9-9c05-4c867e785827/canvas/378227da-acfb-4376-95d1-b8f3a3745000
+    zoom: true
+
+  - id: "cat-13_3"
+    src: figures/13_3.jpg
+    caption: "Fig. 3 – Scultore attivo a Roma, *Santa Martina (?)*, 1634-1650 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ff952722-7b78-4a48-9dc3-60aee1670949/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ff952722-7b78-4a48-9dc3-60aee1670949/canvas/d19f1ae1-61ba-4cf0-869b-4882a6efbe93
+    zoom: true
+
+  - id: "cat-13_4"
+    src: figures/13_4.jpg
+    caption: "Fig.4 - scheda 13 DA SOSTITUIRE.png"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f999b764-ca1e-41ab-8511-245cd2ed0620/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f999b764-ca1e-41ab-8511-245cd2ed0620/canvas/69827435-32c0-4a9f-a813-6a0429adc49e
+    zoom: true
+
+  - id: "cat-13_5"
+    src: figures/13_5.jpg
+    caption: "Fig.5 - scheda 13 DA SOSTITUIRE.jpg"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7595f45e-8ec0-46a6-98c6-6e21230d3614/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7595f45e-8ec0-46a6-98c6-6e21230d3614/canvas/0a43f2e3-bfa8-4ed9-b5c8-5464b9096a38
     zoom: true
 
   - id: "cat-14"
@@ -1505,6 +1715,174 @@ figure_list:
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/93e44007-02d0-4b1d-909d-8690235d908f/canvas/698d0a82-2a5b-4eb2-a904-67c14eb07ae6
     zoom: true
 
+  - id: "cat-17_1"
+    src: figures/17_1.jpg
+    caption: "Fig. 1 – Giovanni Francesco Arrighi, *Statua reliquiario di Santa Palazia*, 1726"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/aec64473-889c-4dfb-a631-a2581dd30359/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/aec64473-889c-4dfb-a631-a2581dd30359/canvas/543e9c49-716b-43af-8e49-c7f395e4c888
+    zoom: true
+
+  - id: "cat-17_2"
+    src: figures/17_2.jpg
+    caption: "Fig. 2 - Giovanni Francesco Arrighi, *Statua reliquiario di Santa Palazia*, 1726"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/60e9f74f-b6f8-4c4d-9c87-4f224bc57ee1/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/60e9f74f-b6f8-4c4d-9c87-4f224bc57ee1/canvas/ad416dd2-be2e-4cfb-bf28-32c7f3aeb5c4
+    zoom: true
+
+  - id: "cat-17_3"
+    src: figures/17_3.jpg
+    caption: "Fig. 3 - Giovanni Francesco Arrighi, *Statua reliquiario di Santa Palazia*, 1726"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1beefcc2-e413-4f9e-aec1-735e31cdc8de/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1beefcc2-e413-4f9e-aec1-735e31cdc8de/canvas/ccb001b4-913a-4b6a-afff-addbf03b5ec1
+    zoom: true
+
+  - id: "cat-17_4"
+    src: figures/17_4.jpg
+    caption: "Fig. 4 - Giovanni Francesco Arrighi, *Statua reliquiario di Santa Palazia*, 1726 (verso)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/93c748cc-b47c-47f9-87ed-c79b15a645b1/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/93c748cc-b47c-47f9-87ed-c79b15a645b1/canvas/19b368ce-b051-4199-b02f-269d2a01025d
+    zoom: true
+
+  - id: "cat-17_5"
+    src: figures/17_5.jpg
+    caption: "Fig. 5 - Giovanni Francesco Arrighi, *Statua reliquiario di Santa Palazia*, 1726 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e914cafc-ccb8-41b2-8651-6b3f3bd0dad5/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e914cafc-ccb8-41b2-8651-6b3f3bd0dad5/canvas/93c24c6a-e338-4a7d-bf6e-2797ef1d8899
+    zoom: true
+
+  - id: "cat-17_6"
+    src: figures/17_6.jpg
+    caption: "Fig. 6 - Giovanni Francesco Arrighi, *Statua reliquiario di Santa Palazia*, 1726 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ae3519dd-a261-4a1a-a994-1e42113c7343/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ae3519dd-a261-4a1a-a994-1e42113c7343/canvas/a40520f6-d278-4381-9fcf-c938b13d832c
+    zoom: true
+
+  - id: "cat-17_7"
+    src: figures/17_7.jpg
+    caption: "Fig. 7 - Giovanni Francesco Arrighi, *Statua reliquiario di Santa Palazia*, 1726 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ae4e50af-0b02-4122-afbf-e856add1ae1e/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ae4e50af-0b02-4122-afbf-e856add1ae1e/canvas/2cb8b928-5b1a-4ff6-b97e-994e2b6ed128
+    zoom: true
+
+  - id: "cat-17_8"
+    src: figures/17_8.jpg
+    caption: "Fig. 8 - Giovanni Francesco Arrighi, *Statua reliquiario di Santa Palazia*, 1726 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/00969aeb-6b71-4a91-9c14-0456fb26efd0/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/00969aeb-6b71-4a91-9c14-0456fb26efd0/canvas/97dfbfd3-60ce-426b-ad9f-c2fd6dcb1655
+    zoom: true
+
+  - id: "cat-17_9"
+    src: figures/17_9.jpg
+    caption: "Fig. 9 - Giovanni Francesco Arrighi, *Statua reliquiario di Santa Palazia*, 1726 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d4d33bd3-9083-4d47-979b-497b69d27830/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d4d33bd3-9083-4d47-979b-497b69d27830/canvas/64456c61-d38a-4402-af34-7d46eda043c1
+    zoom: true
+
+  - id: "cat-17_10"
+    src: figures/17_10.jpg
+    caption: "Fig. 10 - DA SOSTITUIRE sch17.jpg"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/45605ca0-aaf9-497f-898f-508ff01d4c5c/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/45605ca0-aaf9-497f-898f-508ff01d4c5c/canvas/87e4a154-9fa3-4aa1-9dfa-f16df2687fe7
+    zoom: true
+
+  - id: "cat-17_11"
+    src: figures/17_11.jpg
+    caption: "Fig. 11 - DA SOSTITUIRE sch17.jpg"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/39ab5c1a-02c8-459f-9a4f-1dd0d7c105d6/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/39ab5c1a-02c8-459f-9a4f-1dd0d7c105d6/canvas/c6152fa5-96ed-4b4a-8330-8eb5faf0d21c
+    zoom: true
+
+  - id: "cat-17_12"
+    src: figures/17_12.jpg
+    caption: "Fig. 12 - Giovanni Francesco Arrighi, *Statua reliquiario di Santa Palazia*, 1726 (particolare).jpg"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e9b5bd7d-6501-4304-b83a-624eceef10ac/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e9b5bd7d-6501-4304-b83a-624eceef10ac/canvas/4e3b4681-2200-4777-9f71-58a76439b6f2
+    zoom: true
+
+  - id: "cat-17_13"
+    src: figures/17_13.jpg
+    caption: "Fig. 13 - DA SOSTITUIRE sch17.jpg"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e205c678-943e-46c5-af15-765ba2a062e5/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e205c678-943e-46c5-af15-765ba2a062e5/canvas/852dd2d7-6b28-4ad4-a24b-b277e60e7591
+    zoom: true
+
+  - id: "cat-17_14"
+    src: figures/17_14.jpg
+    caption: "Fig. 14 - DA SOSTITUIRE sch17.jpg"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4f412a5d-a02a-4f47-aa02-ddaeb5115a12/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4f412a5d-a02a-4f47-aa02-ddaeb5115a12/canvas/e94c7e66-bb75-4c90-8722-4bc6bc84beda
+    zoom: true
+
+  - id: "cat-17_15"
+    src: figures/17_15.jpg
+    caption: "Fig. 15 - DA SOSTITUIRE sch17.jpg"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ed8ecc1e-ce64-45b0-a132-fd55604b9d92/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ed8ecc1e-ce64-45b0-a132-fd55604b9d92/canvas/c3bf5cb1-ba7a-46c7-a9c5-f7dcd1c1c4ff
+    zoom: true
+
+  - id: "cat-17_16"
+    src: figures/17_16.jpg
+    caption: "Fig. 16 - DA SOSTITUIRE sch17.jpg"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/842d9639-b02a-4433-a7b0-e8188fba1b93/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/842d9639-b02a-4433-a7b0-e8188fba1b93/canvas/e9a5bf7b-6f23-4016-8aa2-010f03322d44
+    zoom: true
+
+  - id: "cat-17_17"
+    src: figures/17_17.jpg
+    caption: "Fig. 17 - DA SOSTITUIRE sch17.jpg"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2b6ccec1-4d1b-422e-a834-07f45135365b/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2b6ccec1-4d1b-422e-a834-07f45135365b/canvas/aa1d5ade-2b41-430b-ac82-3bb03e4caf81
+    zoom: true
+
+  - id: "cat-17_19"
+    src: figures/17_19.jpg
+    caption: "Fig. 19 - DA SOSTITUIRE sch17.jpg"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ea2bfec8-f3c5-42cd-858f-096e6c719a3a/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ea2bfec8-f3c5-42cd-858f-096e6c719a3a/canvas/af1425d9-08ff-484d-ba05-92e484fed995
+    zoom: true
+
+  - id: "cat-17_20"
+    src: figures/17_20.jpg
+    caption: "Fig. 20 - Giovanni Francesco Arrighi, *Statua reliquiario di Santa Palazia*, 1726 (verso, particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ef93e2d4-f645-4ff0-b44e-ac3554ee40ba/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ef93e2d4-f645-4ff0-b44e-ac3554ee40ba/canvas/b7db56a4-237a-461d-b8d6-4f5727964a28
+    zoom: true
+
+  - id: "cat-17_21"
+    src: figures/17_21.jpg
+    caption: "Fig. 21 - Giovanni Francesco Arrighi, *Statua reliquiario di Santa Palazia*, 1726 (verso, particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/22d32d29-fb0f-421c-83a0-5ef0aaf74a36/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/22d32d29-fb0f-421c-83a0-5ef0aaf74a36/canvas/20a29b16-f08a-4c96-93ee-5479bbd4ce05
+    zoom: true
+
+  - id: "cat-17_22"
+    src: figures/17_22.jpg
+    caption: "Fig. 22 - Giovanni Francesco Arrighi, *Statua reliquiario di Santa Palazia*, 1726 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c9202caa-2e26-47f3-8d09-b00c16e33b1e/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c9202caa-2e26-47f3-8d09-b00c16e33b1e/canvas/f15ed1b8-cd39-4881-b92d-29c0b39e6414
+    zoom: true
+
+  - id: "cat-17_23"
+    src: figures/17_23.jpg
+    caption: "Fig. 23 - Giovanni Francesco Arrighi, *Statua reliquiario di Santa Palazia*, 1726 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a98262ad-296e-4ffe-bda1-7fb29cf0f378/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a98262ad-296e-4ffe-bda1-7fb29cf0f378/canvas/232c4b9a-c7a7-4cfc-a100-80e65c009c0b
+    zoom: true
+
+  - id: "cat-17_24"
+    src: figures/17_24.jpg
+    caption: "Fig. 24 - Giovanni Francesco Arrighi, *Statua reliquiario di Santa Palazia*, 1726 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/97330f0d-7458-48be-ae37-f2a4936d5b89/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/97330f0d-7458-48be-ae37-f2a4936d5b89/canvas/a7b5f1b7-03d8-415a-aec0-e0976ed94956
+    zoom: true
+
+  - id: "cat-17_25"
+    src: figures/17_25.jpg
+    caption: "Fig. 25 - Giovanni Francesco Arrighi, *Statua reliquiario di Santa Palazia*, 1726 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d30ee35a-c24d-4daa-957a-d0e40d49a398/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d30ee35a-c24d-4daa-957a-d0e40d49a398/canvas/140fd91b-0041-4083-a540-60c0b1486081
+    zoom: true
+
   - id: "cat-18"
     src: figures/18.jpg
     caption: "Girolamo Ticciati, *San Paolo*, Collezione Zeri, Accademia Carrara, Bergamo"
@@ -1640,11 +2018,221 @@ figure_list:
 
   - id: "cat-19"
     src: figures/19.jpg
-    caption: "Anton Francesco Andreozzi, *Incontro di Cristo con le donne di Gerusalemme*"
+    caption: "Anton Francesco Andreozzi, *Incontro di Cristo con le donne di Gerusalemme*, Collezione Zeri, Accademia Carrara, Bergamo"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f37e48e1-47bd-48c3-964a-d21ac8805efe/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f37e48e1-47bd-48c3-964a-d21ac8805efe/canvas/aaf746c0-358d-4eb3-bf0e-71032dabf288
     zoom: true
 
+  - id: "cat-19_1"
+    src: figures/19_1.jpg
+    caption: "Fig. 1 - Anton Francesco Andreozzi, *Incontro di Cristo con le pie donne di Gerusalemme*, 1685"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/48a1ad21-1f25-4d88-adee-a1e8318504ee/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/48a1ad21-1f25-4d88-adee-a1e8318504ee/canvas/dc454909-2859-4f5b-b5b5-f6891c30f03d
+    zoom: true
+
+  - id: "cat-19_2"
+    src: figures/19_2.jpg
+    caption: "Fig. 2 - Anton Francesco Andreozzi, *Seconda caduta di Cristo sotto la croce*, 1685"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3642895b-062a-4881-8019-51935320ad29/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3642895b-062a-4881-8019-51935320ad29/canvas/b3433b3f-107d-4bf8-b9ba-1c6f7b4a3b4a
+    zoom: true
+
+  - id: "cat-19_3"
+    src: figures/19_3.jpg
+    caption: "Fig. 3 - Alessandro Algardi, *Decollazione di San Paolo*, tondo in bronzo dorato, Bologna, Basilica di San Paolo Maggiore, Altar maggiore"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/747222e7-5845-4e6b-87f0-82e5ec4ca714/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/747222e7-5845-4e6b-87f0-82e5ec4ca714/canvas/a55530e2-2145-4f69-8207-86468f8c8caf
+    zoom: true
+
+  - id: "cat-19_7"
+    src: figures/19_7.jpg
+    caption: "Fig. 7 - Ciro Ferri, *Incontro di Cristo con le pie donne di Gerusalemme*, prima metà del XVII secolo, Londra, Victoria and Albert Museum"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/61ea274f-3c39-4e0d-ba0f-9c1fe7dfcd0e/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/61ea274f-3c39-4e0d-ba0f-9c1fe7dfcd0e/canvas/a29e3969-6025-4580-a953-b6fe03e98899
+    zoom: true
+
+  - id: "cat-19_10"
+    src: figures/19_10.jpg
+    caption: "Fig. 10 – Ciro Ferri, *Flagellazione di Cristo alla colonna*, 1685, modello in cera, Berlino (da Ursula Schlegel, Die italienischen Bildwerke des 17. und 18. Jahrhunderts in Stein, Holz, Ton, Wachs und Bronze mit Ausnahme der Plaketten und Medaillen, Berlin, Mann, 1978, ill. 57)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/42356ba9-374a-47a1-a292-c9aa41f69e3c/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/42356ba9-374a-47a1-a292-c9aa41f69e3c/canvas/79e9d0c5-3d92-44e2-9d0f-faa520469e8f
+    zoom: true
+
+  - id: "cat-19_12"
+    src: figures/19_12.jpg
+    caption: "Fig. 12 – Ciro Ferri, *Incontro di Cristo con la Madre*, 1685 circa, disegno preparatorio, Roma, Istituto Centrale per la Grafica, Fondo Corsini, proprietà Accademia Nazionale dei Lincei"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3267337f-1846-42c3-a9d4-0e636a90c912/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3267337f-1846-42c3-a9d4-0e636a90c912/canvas/eba32d03-50a6-4cde-9346-f5d78ad72fdb
+    zoom: true
+
+  - id: "cat-19_13"
+    src: figures/19_13.jpg
+    caption: "Fig. 13 – Ciro Ferri, *Incontro con le pie donne*, 1685 circa, disegno preparatorio a matita, Roma, Istituto Centrale per la Grafica, Fondo Corsini, proprietà Accademia Nazionale dei Lincei"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/10c4748a-30af-4b7f-9001-108baf27608a/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/10c4748a-30af-4b7f-9001-108baf27608a/canvas/e43509fb-2ba7-435e-8f37-32394f3136b5
+    zoom: true
+
+  - id: "cat-19_14"
+    src: figures/19_14.jpg
+    caption: "Fig. 14 - Anton Francesco Andreozzi, *Incontro di Cristo con le pie donne di Gerusalemme*, 1685 (particolare del bambino)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/83932143-d222-4e48-8892-2897346be53d/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/83932143-d222-4e48-8892-2897346be53d/canvas/73e0c8bc-0d64-492d-892d-d0b7bd1546ff
+    zoom: true
+
+  - id: "cat-19_15"
+    src: figures/19_15.jpg
+    caption: "Fig. 15 – Anton Francesco Andreozzi, *Putti che reggono una tavola con una scritta*, Firenze (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5e37be6f-7672-4c9c-b94d-7777c2535a17/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5e37be6f-7672-4c9c-b94d-7777c2535a17/canvas/6351dd5b-0055-4113-b173-6c898a60c83d
+    zoom: true
+
+  - id: "cat-19_16"
+    src: figures/19_16.jpg
+    caption: "Fig. 16 - Anton Francesco Andreozzi, *Incontro di Cristo con le pie donne di Gerusalemme*, 1685 (particolare del panneggio di Cristo)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8f123beb-d7e5-48b6-9bd9-a0e17ca5e551/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8f123beb-d7e5-48b6-9bd9-a0e17ca5e551/canvas/2086540a-e46e-49da-8e98-29f33c225809
+    zoom: true
+
+  - id: "cat-19_17"
+    src: figures/19_17.jpg
+    caption: "Fig. 17, Anton Francesco Andreozzi, *Sant’Andrea Avellino*, 1690, Firenze, Chiesa dei Santi Michele e Gaetano"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/06c77f1c-bd45-44bf-b5a9-4727ae4c6cfc/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/06c77f1c-bd45-44bf-b5a9-4727ae4c6cfc/canvas/73ca2781-b253-4ed3-8b2f-6d92dc22697e
+    zoom: true
+
+  - id: "cat-19_18"
+    src: figures/19_18.jpg
+    caption: "Fig. 18 – Anton Francesco Andreozzi, *Incontro di Cristo con le pie donne di Gerusalemme*, 1685 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e2391b5e-bce6-4e8a-bfe6-2a735b532b23/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e2391b5e-bce6-4e8a-bfe6-2a735b532b23/canvas/702bee56-c63d-4dff-8b39-2cbb39f67cbe
+    zoom: true
+
+  - id: "cat-19_19"
+    src: figures/19_19.jpg
+    caption: "Fig. 19 – Anton Francesco Andreozzi, *Seconda caduta di Cristo sotto la croce*, 1685 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5c6877dd-e35a-4341-ac80-c29ffba184aa/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5c6877dd-e35a-4341-ac80-c29ffba184aa/canvas/e2cf1c74-3b07-4784-876a-0c27d8ac9e84
+    zoom: true
+  
+  - id: "cat-19_20"
+    src: figures/19_20.jpg
+    caption: "Fig. 20 – Anton Francesco Andreozzi, *Incontro di Cristo con le pie donne di Gerusalemme*, 1685 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/92a6ef0f-22f0-495a-861b-2ba783782da6/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/92a6ef0f-22f0-495a-861b-2ba783782da6/canvas/f5927988-986b-4369-a555-8d3b4dbefe58
+    zoom: true
+  
+  - id: "cat-19_21"
+    src: figures/19_21.jpg
+    caption: "Fig. 21 – Anton Francesco Andreozzi, *Seconda caduta di Cristo sotto la croce*, 1685 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8af2482e-cecd-4342-a498-e41b086132f8/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8af2482e-cecd-4342-a498-e41b086132f8/canvas/949f8ae4-77eb-4793-991e-991149504a55
+    zoom: true
+  
+  - id: "cat-19_22"
+    src: figures/19_22.jpg
+    caption: "Fig. 22 – Anton Francesco Andreozzi, *Incontro di Cristo con le pie donne di Gerusalemme*, 1685 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0e6131f5-65c7-459c-9990-2c3b618a6903/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0e6131f5-65c7-459c-9990-2c3b618a6903/canvas/7106cae6-ad9b-439a-a081-f4b7ba803df1
+    zoom: true
+  
+  - id: "cat-19_23"
+    src: figures/19_23.jpg
+    caption: "Fig. 23 – Anton Francesco Andreozzi, *Incontro di Cristo con le pie donne di Gerusalemme*, 1685 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/359d3454-753b-4a08-a54b-df496cd80d8b/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/359d3454-753b-4a08-a54b-df496cd80d8b/canvas/aa970da1-24c3-4215-b20d-326fd9456abd
+    zoom: true
+  
+  - id: "cat-19_24"
+    src: figures/19_24.jpg
+    caption: "Fig. 24 – Anton Francesco Andreozzi, *Seconda caduta di Cristo sotto la croce*, 1685 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9bdd9504-ac09-4932-b212-7ba9a1d33619/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9bdd9504-ac09-4932-b212-7ba9a1d33619/canvas/1e4e0fe7-fee9-458d-a450-e7f7d7cd5b30
+    zoom: true
+  
+  - id: "cat-19_25"
+    src: figures/19_25.jpg
+    caption: "Fig. 25 – Anton Francesco Andreozzi, *Incontro di Cristo con le pie donne di Gerusalemme*, 1685 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/65a209bd-e668-43b8-a52b-59d5b804f74a/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/65a209bd-e668-43b8-a52b-59d5b804f74a/canvas/85d162a9-dfce-4ae7-a597-aea7b71e7de3
+    zoom: true
+  
+  - id: "cat-19_26"
+    src: figures/19_26.jpg
+    caption: "Fig. 26 – Anton Francesco Andreozzi, *Seconda caduta di Cristo sotto la croce*, 1685 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e1d9cc2a-24e4-4ba1-84d3-99e94f2d94ab/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e1d9cc2a-24e4-4ba1-84d3-99e94f2d94ab/canvas/fe16478a-773a-4a04-b086-04bd790c38a5
+    zoom: true
+  
+  - id: "cat-19_27"
+    src: figures/19_27.jpg
+    caption: "Fig. 27 – Anton Francesco Andreozzi, *Incontro di Cristo con le pie donne di Gerusalemme*, 1685 (da *Il conoscitore d’arte. Sculture dal XV al XIX secolo della collezione di Federico Zeri*, Milano, Museo Poldi Pezzoli, 10 marzo - 14 maggio 1989; Bergamo, Accademia Carrara, 3 giugno - 23 luglio 1989, cat. n. 12a)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4e99ce0f-2d83-460c-92f2-2b83fcca3022/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4e99ce0f-2d83-460c-92f2-2b83fcca3022/canvas/464b0b65-a04e-40c4-bedf-3586660d80af
+    zoom: true
+  
+  - id: "cat-19_28"
+    src: figures/19_28.jpg
+    caption: "Fig. 28 – Anton Francesco Andreozzi, *Seconda caduta di Cristo sotto la croce*, 1685 (da *Il conoscitore d’arte. Sculture dal XV al XIX secolo della collezione di Federico Zeri*, Milano, Museo Poldi Pezzoli, 10 marzo - 14 maggio 1989; Bergamo, Accademia Carrara, 3 giugno - 23 luglio 1989, cat. n. 12b)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a5f6f813-4bd3-4c36-bec5-4fc1c673e420/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a5f6f813-4bd3-4c36-bec5-4fc1c673e420/canvas/0df7339e-0e1a-40ab-a176-97cd7bc1f7c8
+    zoom: true
+  
+  - id: "cat-19_29"
+    src: figures/19_29.jpg
+    caption: "Fig. 29 – Anton Francesco Andreozzi, *Incontro di Cristo con le pie donne di Gerusalemme*, 1685"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1bccd8d9-7ccd-467c-b88d-44d2e655299e/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1bccd8d9-7ccd-467c-b88d-44d2e655299e/canvas/a6e30368-d410-421e-b309-48c7d2d1c619
+    zoom: true
+  
+  - id: "cat-19_30"
+    src: figures/19_30.jpg
+    caption: "Fig. 30 – Anton Francesco Andreozzi, *Seconda caduta di Cristo sotto la croce*, 1685"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cd085bde-88ec-4c68-953d-4f79b89583e8/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cd085bde-88ec-4c68-953d-4f79b89583e8/canvas/aa794aae-3897-49bc-9d52-87630b9bcc67
+    zoom: true
+  
+  - id: "cat-19_31"
+    src: figures/19_31.jpg
+    caption: "Fig. 31 – Anton Francesco Andreozzi, *Seconda caduta di Cristo sotto la croce*, 1685 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/06326b61-bf69-462b-9a46-a25a5f5599a3/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/06326b61-bf69-462b-9a46-a25a5f5599a3/canvas/526b4579-2147-432f-ac46-e29dd9687f2f
+    zoom: true
+  
+  - id: "cat-19_32"
+    src: figures/19_32.jpg
+    caption: "Fig. 32 – Anton Francesco Andreozzi, *Seconda caduta di Cristo sotto la croce*, 1685 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1045b310-d7a4-42bd-9b47-b17656c88c72/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1045b310-d7a4-42bd-9b47-b17656c88c72/canvas/42cd63e4-85f0-467e-a378-4b2b6ebec4cc
+    zoom: true
+  
+  - id: "cat-19_33"
+    src: figures/19_33.jpg
+    caption: "Fig. 33 – Anton Francesco Andreozzi, *Seconda caduta di Cristo sotto la croce*, 1685 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b972c01a-c0cd-41bb-9383-b82df29f580a/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b972c01a-c0cd-41bb-9383-b82df29f580a/canvas/bf1aa9ab-3f9f-4aeb-88da-fb5b0c21846b
+    zoom: true
+  
+  - id: "cat-19_34"
+    src: figures/19_34.jpg
+    caption: "Fig. 34 – Anton Francesco Andreozzi, *Seconda caduta di Cristo sotto la croce*, 1685 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c0db5a58-10e7-4bd7-a7a3-f7627c546651/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c0db5a58-10e7-4bd7-a7a3-f7627c546651/canvas/a734e3da-03bd-417a-a6bd-a8af637c967d
+    zoom: true
+  
+  - id: "cat-19_35"
+    src: figures/19_35.jpg
+    caption: "Fig. 35 – Anton Francesco Andreozzi, *Incontro di Cristo con le pie donne di Gerusalemme*, 1685 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/89578445-9250-4a4c-9ec7-6121915692a1/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/89578445-9250-4a4c-9ec7-6121915692a1/canvas/f1f85d58-9bae-4d37-a55e-f7f4b0feb2fd
+    zoom: true
+  
+  - id: "cat-19_36"
+    src: figures/19_36.jpg
+    caption: "Fig. 36 – Anton Francesco Andreozzi, *Seconda caduta di Cristo sotto la croce*, 1685 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cb8e1495-1aca-4a28-b474-8283dccd2609/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cb8e1495-1aca-4a28-b474-8283dccd2609/canvas/9f7a87f7-a611-4825-a7b2-b531a005ac57
+    zoom: true
+  
   - id: "cat-20"
     src: figures/20.jpg
     caption: "Filippo Parodi, *Bozzetto per ceroforale della cappella dell’Arca nella Basilica di Sant’Antonio a Padova*"
