@@ -406,6 +406,62 @@ figure_list:
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5a1be6c1-3c4a-4212-8f83-de752b578593/canvas/9eb56d07-ced6-49a1-961e-f6a7e0ba3518
     zoom: true
 
+  - id: "cat-5_1"
+    src: figures/5_1.jpg
+    caption: "Fig. 1 - Scultore attivo a Roma, *Busto di gentiluomo*, terzo quarto del XVI secolo"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/62d19b4e-6c95-4e82-a07f-e558930197a7/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/62d19b4e-6c95-4e82-a07f-e558930197a7/canvas/ac25249a-2426-4632-96f3-1cf7a4815ba9
+    zoom: true
+
+  - id: "cat-5_2"
+    src: figures/5_2.jpg
+    caption: "Fig. 2 - Scultore attivo a Roma, *Busto di gentiluomo*, terzo quarto del XVI secolo (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/48ae6215-7071-4d9a-9275-fc152518354d/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/48ae6215-7071-4d9a-9275-fc152518354d/canvas/bc21deeb-6c77-43bd-98dc-6ad8adb85a2c
+    zoom: true
+
+  - id: "cat-5_3"
+    src: figures/5_3.jpg
+    caption: "Fig. 3 - Scultore attivo a Roma, *Busto di gentiluomo*, terzo quarto del XVI secolo"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7abd08b4-78dd-4d07-a837-4b6a1ce8d3f4/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7abd08b4-78dd-4d07-a837-4b6a1ce8d3f4/canvas/d1d2b461-81e3-44dd-8945-1e866dab18f9
+    zoom: true
+
+  - id: "cat-5_4"
+    src: figures/5_4.jpg
+    caption: "Fig. 4 - Vincenzo de’ Rossi, *Tomba di Angelo Cesi*, 1554-1560, Roma, Chiesa di Santa Maria della Pace, Cappella Cesi"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c54a1e5e-e8dc-4e2f-8d24-039879a50d85/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c54a1e5e-e8dc-4e2f-8d24-039879a50d85/canvas/a2cd6a38-1cfe-4c8d-9f0c-3b742feedd7f
+    zoom: true
+
+  - id: "cat-5_5"
+    src: figures/5_5.jpg
+    caption: "Fig. 5 - Vincenzo de’ Rossi, *Tomba di Franceschina Carduli Cesi*, 1554-1560, Roma, Chiesa di Santa Maria della Pace, Cappella Cesi"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/823b517f-17c5-4ccb-a563-d6d6433b5525/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/823b517f-17c5-4ccb-a563-d6d6433b5525/canvas/b75c9499-d55c-4e76-96a7-5f9fdd2f96ad
+    zoom: true
+
+  - id: "cat-5_6"
+    src: figures/5_6.jpg
+    caption: "Fig. 6 - Vincenzo de’ Rossi, *Tomba di Angelo Cesi*, 1554-1560, Roma, Chiesa di Santa Maria della Pace, Cappella Cesi (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/febc7b7c-6512-4dc0-8c32-2cc7fed184ff/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/febc7b7c-6512-4dc0-8c32-2cc7fed184ff/canvas/4bc7e2f9-e03e-458b-ac05-01560baa4603
+    zoom: true
+
+  - id: "cat-5_7"
+    src: figures/5_7.jpg
+    caption: "Fig. 7 - Vincenzo de’ Rossi, *Tomba di Angelo Cesi*, 1554-1560, Roma, Chiesa di Santa Maria della Pace, Cappella Cesi (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d8c8fa99-0099-4128-b4ac-a70f1b674203/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d8c8fa99-0099-4128-b4ac-a70f1b674203/canvas/e1294a9a-3a22-434b-a446-5d88905765fd
+    zoom: true
+
+  - id: "cat-5_8"
+    src: figures/5_8.jpg
+    caption: "Fig. 8 - Vincenzo de’ Rossi, *Tomba di Franceschina Carduli Cesi*, 1554-1560, Roma, Chiesa di Santa Maria della Pace, Cappella Cesi (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a4b159cd-9484-4195-9854-59a45aeb5467/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a4b159cd-9484-4195-9854-59a45aeb5467/canvas/87906d75-b10a-41a7-8d73-04e494ea6f52
+    zoom: true
+
   - id: "cat-6"
     src: figures/6.jpg
     caption: "Scultore senese dell’ultimo quarto del XVI secolo (Domenico Cafaggi?), *Prudenza*, Collezione Zeri, Accademia Carrara, Bergamo"
@@ -518,8 +574,8 @@ figure_list:
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2ef5d977-775d-4755-a310-1264bd989dbc/canvas/78e354f0-ab9b-4a5c-b44b-578aa23050e9
     zoom: true
 
-  - id: "cat-7"
-    src: figures/7.jpg
+  - id: "cat-7_1"
+    src: figures/7_1.jpg
     caption: "Fig. 1 – Alessandro Vittoria, *Ritratto di Apollonio Massa*, 1571-1572 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/be5839d1-f36e-47f3-b3b1-b95a6e6ba5d7/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/be5839d1-f36e-47f3-b3b1-b95a6e6ba5d7/canvas/b895f7a3-b6e6-4370-9f7f-58534f6a6d8d
@@ -590,14 +646,14 @@ figure_list:
 
   - id: "cat-7_11"
     src: figures/7_11.jpg
-    caption: "Fig. 11 – Alessandro Vittoria, *Tommaso Rangone*, 1575 circa, Venezia, Ateneo Veneto"
+    caption: "Fig. 11 – Alessandro Vittoria, *Tommaso Rangone*, 1575 ca., Venezia, Ateneo Veneto"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4b88fae9-1b7c-4d39-9d04-41e732b7a403/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4b88fae9-1b7c-4d39-9d04-41e732b7a403/canvas/57665ef7-6ff9-4af1-96eb-343179acdec1
     zoom: true
 
   - id: "cat-7_12"
     src: figures/7_12.jpg
-    caption: "Fig. 12 - DA SOSTITUIRE"
+    caption: "Fig. 12 – Alessandro Vittoria, *Giulio Contarini*, 1570-1576 circa, Ottawa, National Gallery of Canada.tif"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e9056791-2c22-4242-8e1b-8ec50e49e584/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e9056791-2c22-4242-8e1b-8ec50e49e584/canvas/129edb97-1de9-4af2-bcff-62fd66527b69
     zoom: true
@@ -639,7 +695,7 @@ figure_list:
 
   - id: "cat-7_19"
     src: figures/7_19.jpg
-    caption: "Fig. 19 - DA SOSTITUIRE"
+    caption: "Fig. 19 - Alessandro Vittoria (da), *Ritratto di Apollonio Massa*, 1884 circa, Londra, Victoria and Albert Museum.jpg"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/19a28dec-875b-4487-a998-0168ddfeddf2/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/19a28dec-875b-4487-a998-0168ddfeddf2/canvas/9565e2b6-9d58-4701-8636-d3cac8a3892b
     zoom: true
@@ -1006,6 +1062,125 @@ figure_list:
     caption: "François du Quesnoy detto il Fiammingo, *Angelo con drappo*, 1628-1629 circa, Collezione Zeri, Accademia Carrara, Bergamo"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/4cd33cae-947a-403a-83cc-bcdf373fe22c/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/4cd33cae-947a-403a-83cc-bcdf373fe22c/canvas/bc4b3ee8-d644-4efb-8315-fd3d6ccf8a50
+    zoom: true
+
+  - id: "cat-11_1"
+    src: figures/11_1.jpg
+    caption: "Fig. 1 – François du Quesnoy detto il Fiammingo, *Angelo con drappo*, 1628-1629 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c4ed3db6-e132-479e-b3bf-d8cfb3c507f7/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c4ed3db6-e132-479e-b3bf-d8cfb3c507f7/canvas/d0d5ae46-0114-4852-afd7-25166dabb659
+    zoom: true
+
+  - id: "cat-11_2"
+    src: figures/11_2.jpg
+    caption: "Fig. 2 – François du Quesnoy detto il Fiammingo, *Monumento a Adriano Vryburch*, 1629 circa, Roma, Chiesa di Santa Maria dell’Anima.jpg"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a85faa82-762e-45dd-9ded-39230365c73c/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a85faa82-762e-45dd-9ded-39230365c73c/canvas/6cf3dc1a-2b71-4931-a78c-8d78333ceac0
+    zoom: true
+
+  - id: "cat-11_3"
+    src: figures/11_3.jpg
+    caption: "Fig. 3 – Tiziano Vecellio, *Offerta a Venere*, 1518, Madrid, Museo del Prado"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/39f4c5e3-7301-4d55-9d4f-e2235cffe7f7/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/39f4c5e3-7301-4d55-9d4f-e2235cffe7f7/canvas/255f6f50-f21b-4f6e-8143-a7a31ea22761
+    zoom: true
+
+  - id: "cat-11_4"
+    src: figures/11_4.jpg
+    caption: "Fig. 4 – François du Quesnoy detto il Fiammingo, *Monumento a Adriano Vryburch*, 1629 circa, Roma, Chiesa di Santa Maria dell’Anima (particolare).jpg"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e845f67e-458a-46ab-be30-a6e1e066d7d1/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e845f67e-458a-46ab-be30-a6e1e066d7d1/canvas/fcac1baa-4704-4036-9701-d87a39e212ec
+    zoom: true
+
+  - id: "cat-11_5"
+    src: figures/11_5.jpg
+    caption: "Fig. 5 – François du Quesnoy detto il Fiammingo, *Monumento a Adriano Vryburch*, Roma, Chiesa di Santa Maria dell’Anima (particolare).jpg"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/300048be-2dea-4395-b3a6-5026c880dc3f/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/300048be-2dea-4395-b3a6-5026c880dc3f/canvas/fb088a4b-0415-4a56-88ac-8d783571d9d8
+    zoom: true
+
+  - id: "cat-11_6"
+    src: figures/11_6.jpg
+    caption: "Fig. 6 – François du Quesnoy detto il Fiammingo, *Angelo con drappo*, 1628-1629 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/08cac1bb-7807-4adc-ab8d-f3e1f0c368cd/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/08cac1bb-7807-4adc-ab8d-f3e1f0c368cd/canvas/76f01e0c-560a-473c-85f9-d0c161f5a051
+    zoom: true
+
+  - id: "cat-11_7"
+    src: figures/11_7.jpg
+    caption: "Fig. 7 – François du Quesnoy detto il Fiammingo, *Putto coricato*, prima del 1752, Sèvres, Manufacture et musée nationaux.jpg"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/875cd70a-42f1-4433-8b84-8e2ad2904e95/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/875cd70a-42f1-4433-8b84-8e2ad2904e95/canvas/f0ca3c55-db24-40aa-9ead-859b6f9ae87e
+    zoom: true
+
+  - id: "cat-11_8"
+    src: figures/11_8.jpg
+    caption: "Fig. 8 – François du Quesnoy detto il Fiammingo, *Angelo con drappo*, 1628-1629 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/335dcea4-df94-404f-a916-fb7449ac5e82/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/335dcea4-df94-404f-a916-fb7449ac5e82/canvas/6c6cc086-2aba-4d1c-a4fc-85e2aef4319b
+    zoom: true
+
+  - id: "cat-11_9"
+    src: figures/11_9.jpg
+    caption: "Fig. 9 – François du Quesnoy detto il Fiammingo, *Angelo con drappo*, 1628-1629 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c02bbe3b-ca3b-4722-be05-d294fa67ba5d/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c02bbe3b-ca3b-4722-be05-d294fa67ba5d/canvas/db3d8ac3-5f7a-4136-89b8-e17d7181977b
+    zoom: true
+
+  - id: "cat-11_10"
+    src: figures/11_10.jpg
+    caption: "Fig. 10 – François du Quesnoy detto il Fiammingo, *Angelo con drappo*, 1628-1629 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/516c3d9a-41e4-41f7-b446-d76e71614f1d/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/516c3d9a-41e4-41f7-b446-d76e71614f1d/canvas/e1a4f08c-d1c3-4e79-8660-b9e7227c5a32
+    zoom: true
+
+  - id: "cat-11_11"
+    src: figures/11_11.jpg
+    caption: "Fig. 11 – François du Quesnoy detto il Fiammingo, *Angelo con drappo*, 1628-1629 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d3775eaa-b816-4ec3-8668-ad7a198b3b3c/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d3775eaa-b816-4ec3-8668-ad7a198b3b3c/canvas/bd47c3c8-ac92-41ec-af7d-45f70a8344ea
+    zoom: true
+
+  - id: "cat-11_12"
+    src: figures/11_12.jpg
+    caption: "Fig. 12 – François du Quesnoy detto il Fiammingo, *Angelo con drappo*, 1628-1629 circa (fronte senza cornice)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ba4b14ee-9db9-497c-b58e-fd40ebe21ed7/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ba4b14ee-9db9-497c-b58e-fd40ebe21ed7/canvas/faca4686-d900-4f31-8fc5-9a2c2d744488
+    zoom: true
+
+  - id: "cat-11_13"
+    src: figures/11_13.jpg
+    caption: "Fig. 13 – François du Quesnoy detto il Fiammingo, *Angelo con drappo*, 1628-1629 circa (retro senza cornice)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5b45fa1c-b803-4880-ae8b-f37fbe008927/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5b45fa1c-b803-4880-ae8b-f37fbe008927/canvas/0d2e7784-b60b-40da-9ca6-9f69b7d42ef7
+    zoom: true
+
+  - id: "cat-11_14"
+    src: figures/11_14.jpg
+    caption: "Fig. 14 – François du Quesnoy detto il Fiammingo, *Angelo con drappo*, 1628-1629 circa (fronte con cornice)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c550159b-ee4f-4e46-a551-aca48c29a6f8/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c550159b-ee4f-4e46-a551-aca48c29a6f8/canvas/b2f51685-1ba7-4a34-bd42-4abce2ba5f3c
+    zoom: true
+
+  - id: "cat-11_15"
+    src: figures/11_15.jpg
+    caption: "Fig. 15 – François du Quesnoy detto il Fiammingo, *Angelo con drappo*, 1628-1629 circa (retro con cornice)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a003aa12-3154-4dd8-8340-c2b81bc8003c/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a003aa12-3154-4dd8-8340-c2b81bc8003c/canvas/91a4420a-c37a-496d-b1ff-f9c4d7bd1e6b
+    zoom: true
+
+  - id: "cat-11_16"
+    src: figures/11_16.jpg
+    caption: "Fig. 16 - François du Quesnoy detto il Fiammingo, *Angelo con drappo*, 1628-1629 circa (da Antonia Nava Cellini, *Duquesnoy e Poussin: nuovi contributi*, in “Paragone”, XVII, 195, 1966, tav. 29)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2ebae4fb-71a8-4739-8fb6-8b926e470549/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2ebae4fb-71a8-4739-8fb6-8b926e470549/canvas/79ac52df-c101-49c3-b4cf-3c1859bef9b7
+    zoom: true
+
+  - id: "cat-11_17"
+    src: figures/11_17.jpg
+    caption: "Fig. 17 - François du Quesnoy detto il Fiammingo, *Angelo con drappo*, 1628-1629 circa (da A. Bacchi, in *Il conoscitore d’arte: Sculture dal XV al XIX secolo della collezione di Federico Zeri*, catalogo della mostra, Milano, Electa, 1989, p. 35 cat. n. 10b)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2b5b3db9-2e08-4a35-94c3-caba78ad875b/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2b5b3db9-2e08-4a35-94c3-caba78ad875b/canvas/4422ef6a-0a97-494b-a96e-f072a9055b0d
     zoom: true
 
   - id: "cat-12"
