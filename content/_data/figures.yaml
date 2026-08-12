@@ -2247,6 +2247,160 @@ figure_list:
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0bf3d234-370e-4e29-9eea-752990c452c3/canvas/25971b61-2722-41c7-b83e-fa66781427b0
     zoom: true
 
+  - id: "cat-20_2"
+    src: figures/20_2.jpg
+    caption: "Fig. 2 – Filippo Parodi, *Bozzetto per ceroforale della cappella dell’Arca nella Basilica di Sant’Antonio a Padova*, 1688-1689 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4876eea5-dd72-467e-a517-d11b4efb8878/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4876eea5-dd72-467e-a517-d11b4efb8878/canvas/3617440a-db1c-4d93-9225-e0df90430458
+    zoom: true
+
+  - id: "cat-20_3"
+    src: figures/20_3.jpg
+    caption: "Fig. 3 – Filippo Parodi, *Bozzetto per ceroforale della cappella dell’Arca nella Basilica di Sant’Antonio a Padova*, 1688-1689 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/39cfde90-fda2-4b49-a0c5-1f9e6340bd8d/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/39cfde90-fda2-4b49-a0c5-1f9e6340bd8d/canvas/ebc5bc9d-20d1-4a95-bca4-fa2b5c4f2583
+    zoom: true
+
+  - id: "cat-20_4"
+    src: figures/20_4.jpg
+    caption: "Fig. 4 – Filippo Parodi, *Bozzetto per ceroforale della cappella dell’Arca nella Basilica di Sant’Antonio a Padova*, 1688-1689 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/da3d6e68-9321-465a-9314-53f96e5f667d/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/da3d6e68-9321-465a-9314-53f96e5f667d/canvas/c8645039-21af-4539-a619-9b93a18d75ca
+    zoom: true
+
+  - id: "cat-20_5"
+    src: figures/20_5.jpg
+    caption: "Fig. 5 – Filippo Parodi, *Bozzetto per ceroforale della cappella dell’Arca nella Basilica di Sant’Antonio a Padova*, 1688-1689 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/36f5407b-db6d-4b63-b39a-7b1920294d70/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/36f5407b-db6d-4b63-b39a-7b1920294d70/canvas/28ea9bb8-5095-42b0-8803-55744abca540
+    zoom: true
+
+  - id: "cat-20_6"
+    src: figures/20_6.jpg
+    caption: "Fig. 6 – Filippo Parodi, *Bozzetto per ceroforale della cappella dell’Arca nella Basilica di Sant’Antonio a Padova*, 1688-1689 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ae372f1d-c984-4090-afed-1be2d56f5f93/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ae372f1d-c984-4090-afed-1be2d56f5f93/canvas/41d8e893-a06d-4107-b2cf-c9495ab150cb
+    zoom: true
+
+  - id: "cat-20_7"
+    src: figures/20_7.jpg
+    caption: "Fig. 7 – Filippo Parodi, *Bozzetto per ceroforale della cappella dell’Arca nella Basilica di Sant’Antonio a Padova*, 1688-1689 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5fdb307b-958c-4bcf-af9f-0da3dcaf13cb/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5fdb307b-958c-4bcf-af9f-0da3dcaf13cb/canvas/3a4682bd-e4de-4357-b2cf-6a706bb1d044
+    zoom: true
+
+  - id: "cat-20_8"
+    src: figures/20_8.jpg
+    caption: "Fig. 8 – Filippo Parodi, *Ceroforale della Cappella dell’Arca*, 1689, Padova, Basilica di Sant’Antonio (recto)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/304e4934-6f66-46b5-8a8b-ddbdadb937b1/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/304e4934-6f66-46b5-8a8b-ddbdadb937b1/canvas/59e11825-ea6c-45f6-9f93-f7507940e87c
+    zoom: true
+
+  - id: "cat-20_9"
+    src: figures/20_9.jpg
+    caption: "Fig. 9 – Filippo Parodi, *Ceroforale della Cappella dell’Arca*, 1689, Padova, Basilica di Sant’Antonio (verso)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/809689d8-a8f5-4dd9-a249-414ec6ccbccd/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/809689d8-a8f5-4dd9-a249-414ec6ccbccd/canvas/aa5a6afa-a894-45cf-9f80-e7b47b3c94ab
+    zoom: true
+
+  - id: "cat-20_10"
+    src: figures/20_10.jpg
+    caption: "Fig. 10 – Filippo Parodi, *Monumento a Orazio Secco*, 1686, Padova, Basilica di Sant’Antonio (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bd3f5bfb-636f-4a07-8e5d-66adcad260dd/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bd3f5bfb-636f-4a07-8e5d-66adcad260dd/canvas/ace6980a-53b5-4284-9b0c-19e5efcedd94
+    zoom: true
+
+  - id: "cat-20_11"
+    src: figures/20_11.jpg
+    caption: "Fig. 11 – Filippo Parodi, *Bozzetto per ceroforale della cappella dell’Arca nella Basilica di Sant’Antonio a Padova*, 1688-1689 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/dd57bd21-28df-49a6-9230-8701827823d6/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/dd57bd21-28df-49a6-9230-8701827823d6/canvas/0e3fdb1a-2d8b-458d-8cbe-ef1f1575cd54
+    zoom: true
+
+  - id: "cat-20_12"
+    src: figures/20_12.jpg
+    caption: "Fig. 12 – Filippo Parodi, *Bozzetto per ceroforale della cappella dell’Arca nella Basilica di Sant’Antonio a Padova*, 1688-1689 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e06aa4a6-ce0e-4d4e-8810-aaf1e1bf2961/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e06aa4a6-ce0e-4d4e-8810-aaf1e1bf2961/canvas/4a9e468e-4d29-417e-8eaf-cd69a28af285
+    zoom: true
+
+  - id: "cat-20_15"
+    src: figures/20_15.jpg
+    caption: "Fig. 15 – Filippo Parodi, *Bozzetto per ceroforale della cappella dell’Arca nella Basilica di Sant’Antonio a Padova*, 1688-1689 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/09bdac2e-19cd-410a-a792-26943b056291/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/09bdac2e-19cd-410a-a792-26943b056291/canvas/3a49a89c-10b8-41d6-bae6-53421c979fba
+    zoom: true
+
+  - id: "cat-20_16"
+    src: figures/20_16.jpg
+    caption: "Fig. 16 – Filippo Parodi, *Ceroforale della Cappella dell’Arca*, 1689, Padova, Basilica di Sant’Antonio (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c1cefcb1-b52b-4792-9162-af72e8d62816/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c1cefcb1-b52b-4792-9162-af72e8d62816/canvas/86300243-5f79-4370-96c1-cc982ff58e88
+    zoom: true
+
+  - id: "cat-20_18"
+    src: figures/20_18.jpg
+    caption: "Fig. 18 – Filippo Parodi, *Compianto sul corpo di Cristo*, 1686 circa, Chicago, Art Institute of Chicago"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3ea57d81-df56-4e4b-83f0-0dc0c9ddf74e/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3ea57d81-df56-4e4b-83f0-0dc0c9ddf74e/canvas/7402f7d9-2d6a-4c5b-b363-abd5bf949ef5
+    zoom: true
+
+  - id: "cat-20_19"
+    src: figures/20_19.jpg
+    caption: "Fig. 19 – Filippo Parodi, *Immacolata*, 1694, Genova, Chiesa di San Luca"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/984be641-dbcd-4a90-963d-b3ddf2b971d7/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/984be641-dbcd-4a90-963d-b3ddf2b971d7/canvas/cd7b74da-3457-40af-81e4-5b75519a96ef
+    zoom: true
+
+  - id: "cat-20_20"
+    src: figures/20_20.jpg
+    caption: "Fig. 20 – Filippo Parodi, *Santa Marta in gloria*, 1694, Genova, Chiesa di Santa Marta"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/523ea6ad-72ee-4ff0-a75b-69f8308a9168/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/523ea6ad-72ee-4ff0-a75b-69f8308a9168/canvas/294c30a7-cfe7-4f57-b449-9031876a74c2
+    zoom: true
+
+  - id: "cat-20_21"
+    src: figures/20_21.jpg
+    caption: "Fig. 21 – Filippo Parodi, *Bozzetto per ceroforale della cappella dell’Arca nella Basilica di Sant’Antonio a Padova*, 1688-1689 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/05ea5da3-871a-42f1-a909-273e941e2a5a/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/05ea5da3-871a-42f1-a909-273e941e2a5a/canvas/fd78ee87-9c18-4151-9394-9a1f8d2cd196
+    zoom: true
+
+  - id: "cat-20_22"
+    src: figures/20_22.jpg
+    caption: "Fig. 22 – Filippo Parodi, *Bozzetto per ceroforale della cappella dell’Arca nella Basilica di Sant’Antonio a Padova*, 1688-1689 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cbd9fb58-e21b-4b1a-8a6d-201ce47d7d7d/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cbd9fb58-e21b-4b1a-8a6d-201ce47d7d7d/canvas/40bd060c-9db7-4ec6-b80b-928298bb61f7
+    zoom: true
+
+  - id: "cat-20_23"
+    src: figures/20_23.jpg
+    caption: "Fig. 23 – Filippo Parodi, *Bozzetto per ceroforale della cappella dell’Arca nella Basilica di Sant’Antonio a Padova*, 1688-1689 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c9c1a1d4-7835-439c-be6a-2ad4d060802f/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c9c1a1d4-7835-439c-be6a-2ad4d060802f/canvas/db927860-f4c7-4f11-8b98-e373211fccab
+    zoom: true
+
+  - id: "cat-20_24"
+    src: figures/20_24.jpg
+    caption: "Fig. 24 – Filippo Parodi, *Bozzetto per ceroforale della cappella dell’Arca nella Basilica di Sant’Antonio a Padova*, 1688-1689 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ffc8530f-fcc9-4a68-a8e5-494e92b86565/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ffc8530f-fcc9-4a68-a8e5-494e92b86565/canvas/f93740b5-0129-45e5-b9cb-0eaa6ddb60cc
+    zoom: true
+
+  - id: "cat-20_25"
+    src: figures/20_25.jpg
+    caption: "Fig. 25 – Filippo Parodi, *Bozzetto per ceroforale della cappella dell’Arca nella Basilica di Sant’Antonio a Padova*, 1688-1689 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/645e83fe-d71b-4ff5-b029-a670ae58d784/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/645e83fe-d71b-4ff5-b029-a670ae58d784/canvas/4e5b201a-5b0b-4d7d-b427-d7b5f6df67a8
+    zoom: true
+
+  - id: "cat-20_26"
+    src: figures/20_26.jpg
+    caption: "Fig. 26 – Filippo Parodi, *Bozzetto per ceroforale della cappella dell’Arca nella Basilica di Sant’Antonio a Padova*, 1688-1689 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9c40f78d-7114-46a7-a0c8-b0caf2503701/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9c40f78d-7114-46a7-a0c8-b0caf2503701/canvas/d54cfe2a-e230-4a47-8e05-d53460ac90c7
+    zoom: true
+
   - id: "cat-25"
     src: figures/25.jpg
     caption: "Jacques Bergé, *David*"
@@ -2254,9 +2408,86 @@ figure_list:
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2bb206fc-e622-4249-a67f-5259af0c4093/canvas/58259df5-07b8-4b62-8da5-89a555840212
     zoom: true
 
+  - id: "cat-25_1"
+    src: figures/25_1.jpg
+    caption: "Fig. 1 – Jacques Bergé, *Davide*, 1738 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e0a4a886-d4b8-47e9-8e39-1400623ceb59/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e0a4a886-d4b8-47e9-8e39-1400623ceb59/canvas/d0e677ab-fee2-4177-868a-71621f958ced
+    zoom: true
+
+  - id: "cat-25_2"
+    src: figures/25_2.jpg
+    caption: "Fig. 2 – Jacques Bergé, *Davide*, 1738 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2c05ccb2-dbbd-4d62-bdab-e4c4d1936d62/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2c05ccb2-dbbd-4d62-bdab-e4c4d1936d62/canvas/6ce4ba7f-f70a-46bb-98bd-b55b1de67317
+    zoom: true
+
+  - id: "cat-25_3"
+    src: figures/25_3.jpg
+    caption: "Fig. 3 – Jacques Bergé, *Davide*, 1738 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/291b2c40-9bff-48bc-996d-b8b36387c2f7/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/291b2c40-9bff-48bc-996d-b8b36387c2f7/canvas/c1d54d5b-423d-4de9-9600-c15b898f3e14
+    zoom: true
+
+  - id: "cat-25_4"
+    src: figures/25_4.jpg
+    caption: "Fig. 4 – Jacques Bergé, *Betsabea o Sibilla*, 1738 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d8fe9290-b140-4a6f-84de-f7ed8b68a8b2/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d8fe9290-b140-4a6f-84de-f7ed8b68a8b2/canvas/3a09d5be-43d5-464c-8f47-6bef37b66822
+    zoom: true
+
+  - id: "cat-25_5"
+    src: figures/25_5.jpg
+    caption: "Fig. 5 – Jacques Bergé, *Betsabea o Sibilla*, 1738 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6d639b5f-2a25-466a-b134-e8a9596dcd8c/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6d639b5f-2a25-466a-b134-e8a9596dcd8c/canvas/a26cd5ab-7a93-43c0-af24-ee26e64545d8
+    zoom: true
+
+  - id: "cat-25_6"
+    src: figures/25_6.jpg
+    caption: "Fig. 6 – Jacques Bergé, *Davide*, 1738, terracotta (da *Baroque paintings, sketches and sculptures for the collector: autumn exhibition 6 November-23 December 1968*, Heim Gallery, London, n. 84)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0dbb7ade-6e82-40b9-a92f-0fcfa906154c/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0dbb7ade-6e82-40b9-a92f-0fcfa906154c/canvas/aefbb99c-8bce-4092-9dd3-9f8fd71e0072
+    zoom: true
+
+  - id: "cat-25_7"
+    src: figures/25_7.jpg
+    caption: "Fig. 7 – Jacques Bergé, *Davide*, 1738, terracotta, Atlanta (USA), Collezione privata"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7f5b95e0-54ec-49a9-a9c1-1c958cd83790/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7f5b95e0-54ec-49a9-a9c1-1c958cd83790/canvas/76fffaec-f029-41ae-88d3-e2c1d71edd79
+    zoom: true
+
+  - id: "cat-25_8"
+    src: figures/25_8.jpg
+    caption: "Fig. 8 – Jacques Bergé, *Davide*, 1738, terracotta, Atlanta (USA), Collezione privata"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8a8e1546-1f9c-40c2-a42f-c456d1891dec/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8a8e1546-1f9c-40c2-a42f-c456d1891dec/canvas/a7e1372e-b94a-4077-a4ec-85e0d001a4eb
+    zoom: true
+
+  - id: "cat-25_9"
+    src: figures/25_9.jpg
+    caption: "Fig. 9 – Jacques Bergé, *Davide*, 1738, terracotta, Atlanta (USA), Collezione privata (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5d67b918-c8c5-40ff-9ccf-b2bb390a8b1a/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5d67b918-c8c5-40ff-9ccf-b2bb390a8b1a/canvas/abde6bab-0a01-47d3-84ae-2d7fdddb65b4
+    zoom: true
+
+  - id: "cat-25_10"
+    src: figures/25_10.jpg
+    caption: "Fig. 10 – Jacques Bergé, *Davide*, 1738, terracotta, Atlanta (USA), Collezione privata"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/12817784-9dbd-425a-a376-25825892ca09/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/12817784-9dbd-425a-a376-25825892ca09/canvas/4db8378a-f873-4bba-8480-2728a0e4f16c
+    zoom: true
+
   - id: "cat-26"
     src: figures/26.jpg
     caption: "Fig. 1 – Innocenzo Spinazzi, *Ritratto di George Nassau Clevering III Earl of Cowper*, 1787"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/30506231-34e9-4c11-9045-f5ef275bb441/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/30506231-34e9-4c11-9045-f5ef275bb441/canvas/7c7831b2-ee90-4bc3-95ad-43b3d28461f2
+    zoom: true
+
+  - id: "cat-26_1"
+    src: figures/26_1.jpg
+    caption: "Fig. 1 – Innocenzo Spinazzi, Ritratto di George Nassau Clevering III Earl of Cowper, 1787"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/30506231-34e9-4c11-9045-f5ef275bb441/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/30506231-34e9-4c11-9045-f5ef275bb441/canvas/7c7831b2-ee90-4bc3-95ad-43b3d28461f2
     zoom: true
@@ -2324,6 +2555,132 @@ figure_list:
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0f0c41d6-57d6-4027-a1f6-03a0fe9fe0b5/canvas/95fdd793-a090-4dcd-99b1-37019b32d4bf
     zoom: true  
 
+  - id: "cat-29_1"
+    src: figures/29_1.jpg
+    caption: "Fig. 1 – Filippo Tagliolini, *Ercole nel giardino delle Esperidi*, 1780-1800 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c80fe9c9-9c3e-4f7f-8031-6aa098c9a11b/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c80fe9c9-9c3e-4f7f-8031-6aa098c9a11b/canvas/9395cea8-3be3-4cf6-916d-90b1dad235c4
+    zoom: true
+
+  - id: "cat-29_2"
+    src: figures/29_2.jpg
+    caption: "Fig. 2 – Filippo Tagliolini, *Giudizio di Paride*, 1780-1807, Napoli, Museo Nazionale di Capodimonte (fronte)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/efe5824d-d358-4356-b190-f905680f9056/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/efe5824d-d358-4356-b190-f905680f9056/canvas/1e644f3b-1bb7-47de-8cf0-b446d7ea6b39
+    zoom: true
+
+  - id: "cat-29_3"
+    src: figures/29_3.jpg
+    caption: "Fig. 3 – Filippo Tagliolini, *Giudizio di Paride*, 1780-1807, Napoli, Museo Nazionale di Capodimonte (retro)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/19a6b9eb-8c33-4cb4-a4e8-896a8ea4a6cd/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/19a6b9eb-8c33-4cb4-a4e8-896a8ea4a6cd/canvas/1396c4ba-4915-432a-be96-883f729ff3df
+    zoom: true
+
+  - id: "cat-29_4"
+    src: figures/29_4.jpg
+    caption: "Fig. 4 – Filippo Tagliolini, *Ercole nel giardino delle Esperidi*, 1780-1800 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8e95b31c-deaf-4f6a-84f2-cfe666e8d501/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8e95b31c-deaf-4f6a-84f2-cfe666e8d501/canvas/799059a0-830b-4a2e-8b80-17c3f6a41f8f
+    zoom: true
+
+  - id: "cat-29_5"
+    src: figures/29_5.jpg
+    caption: "Fig. 5 – Filippo Tagliolini, *Giudizio di Paride*, 1780-1807, Napoli, Museo Nazionale di Capodimonte (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e402c9ed-1fda-4287-aefa-31e9a202c244/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e402c9ed-1fda-4287-aefa-31e9a202c244/canvas/56df5368-9d56-4db0-8518-c38d736bd649
+    zoom: true
+
+  - id: "cat-29_6"
+    src: figures/29_6.jpg
+    caption: "Fig. 6 – Filippo Tagliolini, *Ercole nel giardino delle Esperidi*, 1780-1800 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5c1b95b1-66ea-4dde-8067-67ceb25825a5/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5c1b95b1-66ea-4dde-8067-67ceb25825a5/canvas/01fff450-a9e8-4637-8b3c-c0c2021d9fc3
+    zoom: true
+
+  - id: "cat-29_7"
+    src: figures/29_7.jpg
+    caption: "Fig. 7 – Filippo Tagliolini, *Giudizio di Paride*, 1780-1807, Napoli, Museo Nazionale di Capodimonte (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c12b82fa-b70f-4626-873b-4985511ae0b8/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c12b82fa-b70f-4626-873b-4985511ae0b8/canvas/75dd5f23-d87f-4c2d-a54d-f70375925f4e
+    zoom: true
+
+  - id: "cat-29_8"
+    src: figures/29_8.jpg
+    caption: "Fig. 8 – Filippo Tagliolini, *Ercole nel giardino delle Esperidi*, 1780-1800 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a98ef5e9-b594-46d3-ba97-9f62353f7d29/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a98ef5e9-b594-46d3-ba97-9f62353f7d29/canvas/b33907f2-5457-42d7-bf6f-5c43c341bd55
+    zoom: true
+
+  - id: "cat-29_9"
+    src: figures/29_9.jpg
+    caption: "Fig. 9 – Filippo Tagliolini, *Lucio Vero*, 1780-1807, Napoli, Museo Nazionale di Capodimonte (retro)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6edf6ccd-00d8-49a4-85d4-7fd8bbeb5611/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6edf6ccd-00d8-49a4-85d4-7fd8bbeb5611/canvas/8afa62d1-d3ca-4ef3-838c-6fc837e43371
+    zoom: true
+
+  - id: "cat-29_10"
+    src: figures/29_10.jpg
+    caption: "Fig. 10 – Filippo Tagliolini, *Ercole nel giardino delle Esperidi*, 1780-1800 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1704b482-b6f5-42ed-b2c2-0badbb65f769/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1704b482-b6f5-42ed-b2c2-0badbb65f769/canvas/dc876716-863c-495d-9fa5-17bdbe5689c3
+    zoom: true
+
+  - id: "cat-29_11"
+    src: figures/29_11.jpg
+    caption: "Fig. 11 – Filippo Tagliolini, *Giudizio di Paride*, 1780-1807, Napoli, Museo Nazionale di Capodimonte (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/30e68c9e-c327-42ba-b524-8c7664a1200f/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/30e68c9e-c327-42ba-b524-8c7664a1200f/canvas/423bfa02-328c-457f-8346-61b0260d9872
+    zoom: true
+
+  - id: "cat-29_12"
+    src: figures/29_12.jpg
+    caption: "Fig. 12 – Filippo Tagliolini, *Melpomene*, 1780-1807, Napoli, Museo Nazionale di Capodimonte (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3f5f9f3c-04f1-452e-829f-bfd76beb6f1a/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3f5f9f3c-04f1-452e-829f-bfd76beb6f1a/canvas/fb40004d-7bf3-4b69-8b15-865035265afb
+    zoom: true
+
+  - id: "cat-29_13"
+    src: figures/29_13.jpg
+    caption: "Fig. 13 – Filippo Tagliolini, *Trionfo di Venere*, 1780-1807, Napoli, Museo e Real Bosco di Capodimonte (fronte)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bbba4917-7aaa-4661-a446-1fc3ae8f6a14/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bbba4917-7aaa-4661-a446-1fc3ae8f6a14/canvas/1921e634-25df-476e-9d73-73908a59889a
+    zoom: true
+
+  - id: "cat-29_14"
+    src: figures/29_14.jpg
+    caption: "Fig. 14 – Filippo Tagliolini, *Trionfo di Venere*, 1780-1807, Napoli, Museo e Real Bosco di Capodimonte (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/160a4124-8653-4099-b936-7c61bb2a14ce/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/160a4124-8653-4099-b936-7c61bb2a14ce/canvas/f859c339-e7a9-4397-bf60-1f18cbd98b2f
+    zoom: true
+
+  - id: "cat-29_15"
+    src: figures/29_15.jpg
+    caption: "Fig. 15 – Filippo Tagliolini, *Ercole nel giardino delle Esperidi*, 1780-1800 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ef3db140-4b47-437f-85c8-e498f0db84ad/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ef3db140-4b47-437f-85c8-e498f0db84ad/canvas/11c4b182-1075-4261-ab43-f27e56297a87
+    zoom: true
+
+  - id: "cat-29_16"
+    src: figures/29_16.jpg
+    caption: "Fig. 16 – Filippo Tagliolini, *Ercole e Deianira*, 1780-1807, Napoli, Certosa e Museo di San Martino (fronte)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ad749aea-eaf2-4dc5-a0e0-d1d7f3e3c008/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ad749aea-eaf2-4dc5-a0e0-d1d7f3e3c008/canvas/ddc1716a-3723-4f1e-ab8a-0877b643b866
+    zoom: true
+
+  - id: "cat-29_17"
+    src: figures/29_17.jpg
+    caption: "Fig. 17 – Filippo Tagliolini, *Ercole nel giardino delle Esperidi*, 1780-1800 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/54d73a42-3345-4c8c-b768-c0c36c0cab31/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/54d73a42-3345-4c8c-b768-c0c36c0cab31/canvas/6e8e6780-220f-4781-b96d-059d9f8297bf
+    zoom: true
+
+  - id: "cat-29_18"
+    src: figures/29_18.jpg
+    caption: "Fig. 18 – Filippo Tagliolini, *Ercole e Deianira*, 1780-1807, Napoli, Certosa e Museo di San Martino (particolare della testa di Ercole)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/eb9ccf02-55ac-41cd-a1e4-53fef375be75/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/eb9ccf02-55ac-41cd-a1e4-53fef375be75/canvas/8d735dbe-cea8-4771-aa71-63867e593c9c
+    zoom: true
+
   - id: "cat-30"
     src: figures/30.jpg
     caption: "Bartolomeo Cavaceppi, *Venere di Roma*, 1756-1769"
@@ -2331,11 +2688,137 @@ figure_list:
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/a0c84b6a-e30f-4a3e-8bde-6712b392a5f4/canvas/a9df0744-8bfb-4568-a755-24dc5bba7746
     zoom: true
 
+  - id: "cat-30_1"
+    src: figures/30_1.jpg
+    caption: "Fig. 1 – Bartolomeo Cavaceppi, *Venere di Roma*, 1756-1769"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0b032897-6a8a-4493-847f-ea750a280e3f/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0b032897-6a8a-4493-847f-ea750a280e3f/canvas/b4f79421-acae-4ff4-bf3f-ea5ae7c8a4ab
+    zoom: true
+
+  - id: "cat-30_2"
+    src: figures/30_2.jpg
+    caption: "Fig. 2 - Bartolomeo Cavaceppi, *Venere di Roma*, 1756-1769 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2dab2492-7d1f-4cc4-a62a-be60bc77db25/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2dab2492-7d1f-4cc4-a62a-be60bc77db25/canvas/36e3b123-f8b4-4fca-97bf-270666acc035
+    zoom: true
+
+  - id: "cat-30_3"
+    src: figures/30_3.jpg
+    caption: "Fig. 3 - Bartolomeo Cavaceppi, *Venere di Roma*, 1756-1769 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/703b0da1-5b1b-4dd7-bbca-d64184fd23cf/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/703b0da1-5b1b-4dd7-bbca-d64184fd23cf/canvas/adb0060e-5537-4c4a-b4fa-57423eea5eae
+    zoom: true
+
+  - id: "cat-30_4"
+    src: figures/30_4.jpg
+    caption: "Fig. 4 – Scultore romano (da Prassitele), *Venere Capitolina*, Roma, Musei Capitolini"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7d98439e-17cd-4b8c-9e68-f282ac31f09f/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7d98439e-17cd-4b8c-9e68-f282ac31f09f/canvas/4fba7bd2-1de5-4570-95ea-e1d415d434f5
+    zoom: true
+
+  - id: "cat-30_5"
+    src: figures/30_5.jpg
+    caption: "Fig. 5 – Bartolomeo Cavaceppi, *Venere di Roma*, 1756-1769, (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1b135b1f-4926-417e-b392-7af96693539e/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1b135b1f-4926-417e-b392-7af96693539e/canvas/7e527e55-2dc2-4442-a9de-0c015f9d6980
+    zoom: true
+
+  - id: "cat-30_6"
+    src: figures/30_6.jpg
+    caption: "Fig. 6 – Joseph Chinard, *Madame Récamier*, 1799, Parigi, Petit Palais, musée des Beaux-arts de la Ville de Paris (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/94d6aca2-f9b8-4584-be69-a348e89b0671/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/94d6aca2-f9b8-4584-be69-a348e89b0671/canvas/cec80a3d-1803-4817-872f-0150c776d3ae
+    zoom: true
+
+  - id: "cat-30_7"
+    src: figures/30_7.jpg
+    caption: "Fig. 7 – Bartolomeo Cavaceppi (da, con varianti), *Venere di Roma*, ultimo quarto del XVIII secolo, porcellana, Sesto Fiorentino, Museo Ginori"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f964f3ab-1aa7-46ec-95d2-bc8e5258a402/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f964f3ab-1aa7-46ec-95d2-bc8e5258a402/canvas/2c5b28eb-42c5-4db8-91b7-331472b3dbde
+    zoom: true
+
+  - id: "cat-30_8"
+    src: figures/30_8.jpg
+    caption: "Fig. 8 – Anton von Maron (da un disegno di), *Ritratto di Bartolomeo Cavaceppi con Venere di Roma*, incisione, 1769 da *Raccolta d’antiche statue, busti, teste cognite ed altre sculture antiche scelte restaurate da Bartolomeo Cavaceppi scultore romano*, Roma, per Generoso Salomoni, 1769, vol. II, antiporta"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/994b9766-8016-4b71-9bc4-dad2d4a449c0/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/994b9766-8016-4b71-9bc4-dad2d4a449c0/canvas/bb88ebcb-c254-4b97-bfee-36b4df3e0d35
+    zoom: true
+
+  - id: "cat-30_9"
+    src: figures/30_9.jpg
+    caption: "Fig. 9 – *Venere Iennings*, incisione, 1768, da *Raccolta d’antiche statue, busti, teste cognite ed altre sculture antiche scelte restaurate da Bartolomeo Cavaceppi scultore romano*, Roma, per Generoso Salomoni, 1768, vol. I, tav. 7."
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4ea1a6ba-10e4-4164-a9b6-8fed62eaea30/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4ea1a6ba-10e4-4164-a9b6-8fed62eaea30/canvas/5de74cb2-fa4a-4d56-8327-0562eef1620b
+    zoom: true
+
+  - id: "cat-30_10"
+    src: figures/30_10.jpg
+    caption: "Fig. 10 – Bartolomeo Cavaceppi, *Venere o Musa*, ante 1765, Roma, VIVE – Vittoriano e Palazzo Venezia"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8f146ef5-6d08-4ae0-9398-db265e623514/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8f146ef5-6d08-4ae0-9398-db265e623514/canvas/55e0720d-8636-4516-86b3-929e0660ff6f
+    zoom: true
+
+  - id: "cat-30_11"
+    src: figures/30_11.jpg
+    caption: "Fig. 11- Bartolomeo Cavaceppi (da), *Venere di Roma*, anni Ottanta del XVIII secolo, gesso trattato, Sesto Fiorentino, Museo Ginori"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/442a15e9-e86b-4dac-9a5d-69f41e0ed2f2/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/442a15e9-e86b-4dac-9a5d-69f41e0ed2f2/canvas/d3b06aea-bd2e-4352-8910-b647b1c99cb9
+    zoom: true
+
   - id: "cat-34"
     src: figures/34.jpg
     caption: "Scultore italiano di primo Ottocento, *Busto di donna con pelliccia*"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7a15ad38-35ed-4d3a-8e55-4bab2007b7f1/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7a15ad38-35ed-4d3a-8e55-4bab2007b7f1/canvas/1f22b4bb-9d34-4474-81b2-a674b102776e
+    zoom: true
+
+  - id: "cat-34_1"
+    src: figures/34_1.jpg
+    caption: "Fig. 1 – Scultore italiano di primo Ottocento, *Busto di donna con pelliccia*, 1800-1830 circa (particolare dell’acconciatura)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1ff2fb71-4ca0-4302-8985-e27b4de49a21/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1ff2fb71-4ca0-4302-8985-e27b4de49a21/canvas/74b73264-bd70-4e67-998c-7516753df87d
+    zoom: true
+
+  - id: "cat-34_2"
+    src: figures/34_2.jpg
+    caption: "Fig. 2 – Catherine Caroline Cogniet (da Pierre-Paul Prud’hon), *Dorothée de Sagan*, pastello, secondo decennio del XIX secolo, Versailles, Chateau de Versailles et de Trianon"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/633a7c43-3be4-43fe-a9a4-343ceefe6a9a/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/633a7c43-3be4-43fe-a9a4-343ceefe6a9a/canvas/c47306de-a46f-4875-a650-0897b9357a61
+    zoom: true
+
+  - id: "cat-34_3"
+    src: figures/34_3.jpg
+    caption: "Fig. 3 – Giuseppe Bezzuoli, *Ritratto di Elisabetta Ricasoli*, olio su tela, 1825-30, Milano, Collezione privata"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1749b6ba-7763-41ef-9c53-92db6acca4fc/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1749b6ba-7763-41ef-9c53-92db6acca4fc/canvas/02794067-aec5-45a1-9d00-7effa6ec340c
+    zoom: true
+
+  - id: "cat-34_4"
+    src: figures/34_4.jpg
+    caption: "Fig. 4 – Andrea Appiani, *Anna Maria Porro Lambertenghi*, olio su tela, 1811-1813, Milano, Galleria d’Arte Moderna"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2832d988-1fb6-4076-82c6-425b36a28da5/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2832d988-1fb6-4076-82c6-425b36a28da5/canvas/4b1678c9-52b5-4b35-b787-70cc6298b388
+    zoom: true
+
+  - id: "cat-34_5"
+    src: figures/34_5.jpg
+    caption: "Fig. 5 – Giovanni Antonio Santarelli, *Ritratto femminile*, rilievo in cera, inizio XIX secolo, Londra, Victoria & Albert Museum"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5ade8395-215c-4d86-87ec-e9ae1f9f8917/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5ade8395-215c-4d86-87ec-e9ae1f9f8917/canvas/a4b592e4-97d6-4bce-997e-7b5c0265208b
+    zoom: true
+
+  - id: "cat-34_6"
+    src: figures/34_6.jpg
+    caption: "Fig. 6 – Joseph Chinard, *Ritratto di Jeanne de L’Orme*, terracotta, 1802, Lione, Museo di Belle Arti"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/35d67333-8b58-4b54-81cd-6d96bccc5a8a/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/35d67333-8b58-4b54-81cd-6d96bccc5a8a/canvas/faf169b0-db40-41f6-b20a-1b0728410e29
+    zoom: true
+
+  - id: "cat-34_7"
+    src: figures/34_7.jpg
+    caption: "Fig. 7 – Antonio Begarelli, *Compianto sul Cristo morto*, terracotta, 1524-1526, Modena, Chiesa di Sant’Agostino (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/038a08c2-5717-4879-9030-e3dad3518f8e/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/038a08c2-5717-4879-9030-e3dad3518f8e/canvas/13afb8a7-1bc1-4d2f-920e-475c36e93a52
     zoom: true
 
   - id: "cat-35"
@@ -2347,49 +2830,57 @@ figure_list:
 
   - id: "cat-35_1"
     src: figures/35_1.jpg
-    caption: "Fig. 1 - Tito Sarrocchi nella bottega di Giovanni Dupré, *Ritratto di Luigi Tonti* (recto con cornice e iscrizione)."
+    caption: "Fig. 1 - Tito Sarrocchi nella bottega di Giovanni Dupré, *Ritratto di Luigi Tonti* (*verso* con cornice e iscrizione)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b04bc18f-2909-4c48-94a1-0b5edba73f66/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b04bc18f-2909-4c48-94a1-0b5edba73f66/canvas/d3c3c2a7-c9d3-4830-a3ae-3126ddc17b2c
     zoom: true
 
   - id: "cat-35_2"
     src: figures/35_2.jpg
-    caption: "Fig. 2 - Tito Sarrocchi nella bottega di Giovanni Dupré, *Ritratto di Luigi Tonti* (recto, particolare)."
+    caption: "Fig. 2 - Tito Sarrocchi nella bottega di Giovanni Dupré, *Ritratto di Luigi Tonti* (*recto*, particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b0a135e3-d010-49b8-9249-a6a3822b0d5b/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b0a135e3-d010-49b8-9249-a6a3822b0d5b/canvas/9665630c-062e-42bd-b94a-8409767c15e8
     zoom: true
 
   - id: "cat-35_3"
     src: figures/35_3.jpg
-    caption: "Fig. 3 - Giovanni Dupré, *Giotto*, Firenze, Loggiato degli Uffizi (particolare)."
+    caption: "Fig. 3 - Giovanni Dupré, *Giotto*, Firenze, Loggiato degli Uffizi (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/665a46d2-2248-4b9b-a4f5-00da49cf16d5/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/665a46d2-2248-4b9b-a4f5-00da49cf16d5/canvas/01fc413a-4122-433f-ac2d-06ebf8b319b1
     zoom: true
 
   - id: "cat-35_4"
     src: figures/35_4.jpg
-    caption: "Fig. 4 - Giovanni Dupré, *Sonno dell’Innocenza*, Siena, Museo dell’Opera del Duomo (particolare)."
+    caption: "Fig. 4 - Giovanni Dupré, *Sonno dell’Innocenza*, Siena, Museo dell’Opera del Duomo (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3631860d-f0b1-43f2-87cb-84a0f0471835/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3631860d-f0b1-43f2-87cb-84a0f0471835/canvas/b216ab1c-3e5c-40d5-8637-15434351e5a2
     zoom: true
 
+  - id: "cat-35_5"
+    src: figures/35_5.jpg
+    caption: "Fig. 5 - Galleria dei lavori di commesso in pietre dure, *Sepolcro della granduchessa Maria Anna Carolina di Sassonia*, Firenze, San Lorenzo, Cappella del Sacramento"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/27b738e2-2216-4e39-8af1-5264c01261c2/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/27b738e2-2216-4e39-8af1-5264c01261c2/canvas/2322eedb-5246-4787-854b-f90e7d71072f
+    zoom: true
+
   - id: "cat-35_6"
     src: figures/35_6.jpg
-    caption: "Fig. 6 - Francesco Ferrucci detto del Tadda, *Ritratto di Cosimo I*, Londra, Victoria and Albert Museum."
+    caption: "Fig. 6 - Francesco Ferrucci detto del Tadda, *Ritratto di Cosimo I*, Londra, Victoria and Albert Museum"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bd5eda0c-9978-481e-9abf-02865f20fcf0/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bd5eda0c-9978-481e-9abf-02865f20fcf0/canvas/f0642e0a-3f40-46c5-9823-96266fb9dba9
     zoom: true
 
   - id: "cat-35_7"
     src: figures/35_7.jpg
-    caption: "Fig. 7 - Tito Sarrocchi nella bottega di Giovanni Dupré, *Ritratto di Luigi Tonti* (recto senza cornice)."
+    caption: "Fig. 7 - Tito Sarrocchi nella bottega di Giovanni Dupré, *Ritratto di Luigi Tonti* (*recto* senza cornice)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/28f56217-ae69-445a-afef-563aa3f7ca83/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/28f56217-ae69-445a-afef-563aa3f7ca83/canvas/dcc03725-6480-4bb2-8dd4-830c5b662de3
     zoom: true
 
   - id: "cat-35_8"
     src: figures/35_8.jpg
-    caption: "Fig. 8 - Tito Sarrocchi nella bottega di Giovanni Dupré, *Ritratto di Luigi Tonti* (verso senza cornice)."
+    caption: "Fig. 8 - Tito Sarrocchi nella bottega di Giovanni Dupré, *Ritratto di Luigi Tonti* (*verso* senza cornice)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e34fcde0-a432-4253-8729-ed8e4d5b3cf6/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e34fcde0-a432-4253-8729-ed8e4d5b3cf6/canvas/ed987646-01e7-487b-940a-3f04bf38ff8a
     zoom: true
+    
