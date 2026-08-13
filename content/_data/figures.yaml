@@ -94,120 +94,120 @@ figure_list:
   - id: "cat-2_1"
     src: figures/2_1.jpg
     caption: "Fig. 1 - Scultore toscano (?), *Ritratto di gentiluomo*, ultimo quarto del XV secolo, Tulsa, Philbrook Museum of Art, Gift of the Samuel H. Kress Foundation"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/58d73465-e428-4dc4-b369-06bbfdb74dc6/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/18125cd2-a989-4311-b589-e9198d9108c9/canvas/58d73465-e428-4dc4-b369-06bbfdb74dc6
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/18125cd2-a989-4311-b589-e9198d9108c9/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/18125cd2-a989-4311-b589-e9198d9108c9/canvas/e1d8fa2e-b7e2-45f1-bc05-ec99d138dac5
     zoom: true
-    
+
   - id: "cat-2_2"
     src: figures/2_2.jpg
-    caption: "Fig. 2 - Pittore emiliano, *Ritratto di giovane ventiduenne (Percivalle Riario?)*, 1475-1480 circa, Bergamo, Accademia Carrara"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/d6c44424-565c-46fe-a55c-0180fc59b10d/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/792b666f-2b04-4a7f-958b-8a65c54b8740/canvas/d6c44424-565c-46fe-a55c-0180fc59b10d
+    caption: "Fig. 2 - Pittore emiliano, *Ritratto di giovane ventiduenne* (*Percivalle Riario?*), 1475-1480 circa, Bergamo, Accademia Carrara"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/792b666f-2b04-4a7f-958b-8a65c54b8740/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/792b666f-2b04-4a7f-958b-8a65c54b8740/canvas/5ca00a60-7523-4216-b3ff-eb47c5941f2c
     zoom: true
-    
+
   - id: "cat-2_3"
     src: figures/2_3.jpg
-    caption: "Fig. 3 - Scultore emiliano (?), *Ritratto di Giovanni II Bentivoglio (?)*, post 1497, Bergamo, Accademia Carrara"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/c79cfd5c-0585-4ca3-9868-4ac9cead56c9/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/63d2abc6-b952-4f83-b465-e376be36db34/canvas/c79cfd5c-0585-4ca3-9868-4ac9cead56c9
+    caption: "Fig. 3 - Scultore emiliano (?), *Ritratto di Giovanni II Bentivoglio (?)*, *post* 1497, Bergamo, Accademia Carrara"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/63d2abc6-b952-4f83-b465-e376be36db34/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/63d2abc6-b952-4f83-b465-e376be36db34/canvas/b71ff54e-d94e-436a-b18f-55a831fcb10d
     zoom: true
 
   - id: "cat-2_4"
     src: figures/2_4.jpg
-    caption: "Fig. 4 - Antonio della Porta detto Tamagnino, *Ritratto di Acellino Salvago*, 1500 circa, Berlino, Bode-Museum (ante 1945"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/e7612aaf-c7e9-41c0-83ff-8191ceb6f65c/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/63012757-0645-4115-b08f-9571dcc319b0/canvas/e7612aaf-c7e9-41c0-83ff-8191ceb6f65c
+    caption: "Fig. 4 - Antonio della Porta detto Tamagnino, *Ritratto di Acellino Salvago*, 1500 circa, Berlino, Bode-Museum (*ante* 1945)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/63012757-0645-4115-b08f-9571dcc319b0/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/63012757-0645-4115-b08f-9571dcc319b0/canvas/e4e99304-fc40-4513-9fc8-7dd3769b83c3
     zoom: true
-    
+
   - id: "cat-2_5"
     src: figures/2_5.jpg
     caption: "Fig. 5 - Scultore lombardo (o veneto?), *Ritratto di Marco di Andrea Pantaleone Barbo*, ultimo quarto del XV secolo Venezia, Seminario Patriarcale"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/4a301e61-efc8-45c6-af21-d99ba34f9353/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1019dc3a-b427-4832-8eef-175f4a60ba4f/canvas/4a301e61-efc8-45c6-af21-d99ba34f9353
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1019dc3a-b427-4832-8eef-175f4a60ba4f/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1019dc3a-b427-4832-8eef-175f4a60ba4f/canvas/770408d1-a262-4757-81e2-2fabf7fc08eb
     zoom: true
-    
+
   - id: "cat-2_6"
     src: figures/2_6.jpg
     caption: "Fig. 6 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?)"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/1d436946-c022-486a-ba0e-157575de8b11/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ae2d5669-0f41-493e-8888-81da7ce26ed1/canvas/1d436946-c022-486a-ba0e-157575de8b11
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ae2d5669-0f41-493e-8888-81da7ce26ed1/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ae2d5669-0f41-493e-8888-81da7ce26ed1/canvas/b5becf6e-2129-49b1-9aa0-6ba89e99fe4e
     zoom: true
 
   - id: "cat-2_7"
     src: figures/2_7.jpg
     caption: "Fig. 7 - Lazzaro Bastiani, *Ritratto del doge Francesco Foscari*, 1455-1465 circa, Venezia, Museo Civico Correr"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/0c146334-0e55-42e1-bdfb-ba8b3aa036fd/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/fcd64828-d031-4d1f-99db-73c5d3dc4d0f/canvas/0c146334-0e55-42e1-bdfb-ba8b3aa036fd
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/fcd64828-d031-4d1f-99db-73c5d3dc4d0f/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/fcd64828-d031-4d1f-99db-73c5d3dc4d0f/canvas/31424953-f2f1-42d3-bbb2-aec2c59812d0
     zoom: true
-    
+
   - id: "cat-2_8"
     src: figures/2_8.jpg
     caption: "Fig. 8 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/a6d76f05-c8ca-4bde-81e1-b35d5df19bc1/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0bf5dc75-5057-4a6a-92e3-bbc56f1a07f3/canvas/a6d76f05-c8ca-4bde-81e1-b35d5df19bc1
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0bf5dc75-5057-4a6a-92e3-bbc56f1a07f3/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0bf5dc75-5057-4a6a-92e3-bbc56f1a07f3/canvas/1539ed1c-9d3b-4f4e-a99b-917ba6b0fdec
     zoom: true
 
   - id: "cat-2_9"
     src: figures/2_9.jpg
     caption: "Fig. 9 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/ec999a85-ced4-4ec5-902c-278fb32844f1/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5053851b-0589-43dd-b741-523a9afdbbf1/canvas/ec999a85-ced4-4ec5-902c-278fb32844f1
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5053851b-0589-43dd-b741-523a9afdbbf1/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5053851b-0589-43dd-b741-523a9afdbbf1/canvas/2282d28a-ec12-4523-a31a-cd5fa2499e81
     zoom: true
 
   - id: "cat-2_10"
     src: figures/2_10.jpg
     caption: "Fig. 10 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/11ea7c74-8958-417a-8887-94fbccbf447d/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bb3d5c22-d773-405c-83ca-e2720115a24a/canvas/11ea7c74-8958-417a-8887-94fbccbf447d
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bb3d5c22-d773-405c-83ca-e2720115a24a/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bb3d5c22-d773-405c-83ca-e2720115a24a/canvas/448b2787-d891-4c1f-b806-53a2f8dd00fe
     zoom: true
 
   - id: "cat-2_11"
     src: figures/2_11.jpg
     caption: "Fig. 11 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/b82f2984-3e6f-4cae-ba33-9a189cc37e64/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/53bd6603-5c42-441c-adf0-4c5e16ec79bd/canvas/b82f2984-3e6f-4cae-ba33-9a189cc37e64
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/53bd6603-5c42-441c-adf0-4c5e16ec79bd/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/53bd6603-5c42-441c-adf0-4c5e16ec79bd/canvas/38b42e69-d345-4db4-8dcb-e68d8144a3e1
     zoom: true
 
   - id: "cat-2_12"
     src: figures/2_12.jpg
     caption: "Fig. 12 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/52ff3a74-d17b-4f7a-a000-897b76424c34/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4a722dc8-938c-453d-94f1-14cbd5b5517d/canvas/52ff3a74-d17b-4f7a-a000-897b76424c34
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4a722dc8-938c-453d-94f1-14cbd5b5517d/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4a722dc8-938c-453d-94f1-14cbd5b5517d/canvas/f4059597-6890-4385-a6b1-4f43dd3db2b3
     zoom: true
 
   - id: "cat-2_13"
     src: figures/2_13.jpg
     caption: "Fig. 13 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/21ab5526-5a74-4e2a-b92d-e9ae3e51725a/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b0be0500-856d-4023-9d53-4ba011d3488a/canvas/21ab5526-5a74-4e2a-b92d-e9ae3e51725a
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b0be0500-856d-4023-9d53-4ba011d3488a/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b0be0500-856d-4023-9d53-4ba011d3488a/canvas/f33f4140-21aa-4951-a52b-128cae88645a
     zoom: true
 
   - id: "cat-2_14"
     src: figures/2_14.jpg
     caption: "Fig. 14 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/bbeeb4be-a599-4115-bd9f-02c5ecf9f2e8/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3cef4e82-866b-4533-9a69-1917b405b240/canvas/bbeeb4be-a599-4115-bd9f-02c5ecf9f2e8
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3cef4e82-866b-4533-9a69-1917b405b240/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3cef4e82-866b-4533-9a69-1917b405b240/canvas/73583efc-d213-4616-a697-bd35e943d9b8
     zoom: true
 
   - id: "cat-2_15"
     src: figures/2_15.jpg
     caption: "Fig. 15 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/4c3e5047-19f3-4177-b4a4-970662f2f7cf/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/954057ab-5868-4709-b1d4-0358faa03964/canvas/4c3e5047-19f3-4177-b4a4-970662f2f7cf
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/954057ab-5868-4709-b1d4-0358faa03964/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/954057ab-5868-4709-b1d4-0358faa03964/canvas/c230bb93-a216-4565-96fa-7e909c74fac1
     zoom: true
 
   - id: "cat-2_16"
     src: figures/2_16.jpg
     caption: "Fig. 16 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/38dbf564-45d5-40d0-a36f-4b78d2fa2e8e/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c265d824-83a7-442c-8a59-b09b0884c7be/canvas/38dbf564-45d5-40d0-a36f-4b78d2fa2e8e
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c265d824-83a7-442c-8a59-b09b0884c7be/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c265d824-83a7-442c-8a59-b09b0884c7be/canvas/56df4d51-67bb-4e28-88ae-40f77b3da18a
     zoom: true
 
   - id: "cat-2_17"
     src: figures/2_17.jpg
     caption: "Fig. 17 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (verso)"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/47e26719-1e95-400a-8684-939eb1e511b1/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f015c26b-5b14-4a31-8068-f141bc93ee22/canvas/47e26719-1e95-400a-8684-939eb1e511b1
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f015c26b-5b14-4a31-8068-f141bc93ee22/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f015c26b-5b14-4a31-8068-f141bc93ee22/canvas/74dd2288-e518-4704-993f-f047bfc3701f
     zoom: true
 
   - id: "cat-3"
@@ -347,58 +347,191 @@ figure_list:
     src: figures/4_1.jpg
     caption: "Fig. 1 - Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/53420c0b-f385-4a31-85ed-f12cfe3bc5e7/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/53420c0b-f385-4a31-85ed-f12cfe3bc5e7/canvas/73d4c840-8cd8-46db-96d3-8674f7373142
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/53420c0b-f385-4a31-85ed-f12cfe3bc5e7/canvas/837ae701-cd25-42b3-bfaa-6711d122db77
     zoom: true
 
   - id: "cat-4_2"
     src: figures/4_2.jpg
-    caption: "Fig. 2 - - Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo"
+    caption: "Fig. 2 - Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/44f6718e-6b49-49ec-83e5-513c689dbb6d/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/44f6718e-6b49-49ec-83e5-513c689dbb6d/canvas/44a81c06-9da3-4742-b5d4-a0215d304e8d
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/44f6718e-6b49-49ec-83e5-513c689dbb6d/canvas/b0914b43-a9dd-4c54-8f95-aac024f22c36
     zoom: true
 
   - id: "cat-4_3"
     src: figures/4_3.jpg
     caption: "Fig. 3 - Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/46f7d877-2903-4c78-aba5-3be4b5f1bca6/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/46f7d877-2903-4c78-aba5-3be4b5f1bca6/canvas/d2c36da2-fc90-4127-a6cf-a80e9036f3f4
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/46f7d877-2903-4c78-aba5-3be4b5f1bca6/canvas/a281560d-0496-451d-a683-f3feaaca2195
     zoom: true
 
   - id: "cat-4_4"
     src: figures/4_4.jpg
     caption: "Fig. 4 - Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/aaf57bad-feec-4a8c-a4dd-5516fa6f81cd/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/aaf57bad-feec-4a8c-a4dd-5516fa6f81cd/canvas/41f0d78e-0a0e-4068-8b43-df2545e1310e
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/aaf57bad-feec-4a8c-a4dd-5516fa6f81cd/canvas/7eedd815-4929-49be-9dd0-1f471e871329
     zoom: true
 
   - id: "cat-4_5"
     src: figures/4_5.jpg
-    caption: "Fig. 5 - Francesco Laurana, *Madonna con il Bambino*, Napoli, Museo Civico di Castel Nuovo"
+    caption: "Fig. 5 - Francesco Laurana, *Madonna con il Bambino*, 1453-1458 circa, Napoli, Museo Civico di Castel Nuovo"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9e3a3768-d68f-440c-ac28-3e39d704cd09/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9e3a3768-d68f-440c-ac28-3e39d704cd09/canvas/5b62cbea-75b3-413d-bd91-33418f84eef7
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9e3a3768-d68f-440c-ac28-3e39d704cd09/canvas/eb1bca62-a84b-4468-b422-d15a97eeb45c
     zoom: true
 
   - id: "cat-4_6"
     src: figures/4_6.jpg
-    caption: "Fig. 6 - Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo, Abriola, Santa Maria Maggiore"
+    caption: "Fig. 6 - Scultore lucano, *Madonna con il Bambino in trono*, Abriola, Santa Maria Maggiore"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/beb8ebb2-e91c-4478-a887-6759f24bb480/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/beb8ebb2-e91c-4478-a887-6759f24bb480/canvas/4a26ce2a-0a40-4a10-8cd2-cb467df88b46
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/beb8ebb2-e91c-4478-a887-6759f24bb480/canvas/33aecdc9-e9db-4c06-bffa-981a3fe2fa28
     zoom: true
 
   - id: "cat-4_7"
     src: figures/4_7.jpg
-    caption: "Fig. 7 - Scultore lucano, fine del XV o inizio del XVI secolo, Madonna con il Bambino in trono, Abriola, Santa Maria Maggiore"
+    caption: "Fig. 7 - Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo, Abriola, Santa Maria Maggiore"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cac316a8-64ba-40d6-89b8-3ef965749a89/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cac316a8-64ba-40d6-89b8-3ef965749a89/canvas/c96a1dd1-6f94-42df-b73b-c24a47151a03
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cac316a8-64ba-40d6-89b8-3ef965749a89/canvas/f81bf3ec-b91d-4486-9ee9-369ad856040f
     zoom: true
 
   - id: "cat-4_8"
     src: figures/4_8.jpg
     caption: "Fig. 8 - Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/17ea26b4-8ed6-4820-8c46-50116d1d57a6/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/17ea26b4-8ed6-4820-8c46-50116d1d57a6/canvas/78fb6bb5-28f3-446f-833f-74a465d2b989
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/17ea26b4-8ed6-4820-8c46-50116d1d57a6/canvas/6a847cbf-2854-4e59-bfb8-4d14bbf3b645
     zoom: true
 
+  - id: "cat-4_9"
+    src: figures/4_9.jpg
+    caption: "Fig. 9 - Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo, Abriola, Santa Maria Maggiore"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ccb33388-4cd7-4ab1-8d01-665a405f05d6/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ccb33388-4cd7-4ab1-8d01-665a405f05d6/canvas/a14fe002-3c60-4a63-bb00-98cf5c925686
+    zoom: true
+
+  - id: "cat-4_10"
+    src: figures/4_10.jpg
+    caption: "Fig. 10 - Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a72f26b3-6308-4b10-9f6e-98afbbd26973/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a72f26b3-6308-4b10-9f6e-98afbbd26973/canvas/a8406755-e767-43fe-a147-8ad6cedfc3c4
+    zoom: true
+
+  - id: "cat-4_11"
+    src: figures/4_11.jpg
+    caption: "Fig. 11 - Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo, Abriola, Santa Maria Maggiore (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9f1d8299-e9b1-430e-bf6a-929835f38f72/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9f1d8299-e9b1-430e-bf6a-929835f38f72/canvas/de655a0a-30a6-4b15-bf8e-75666b644e30
+    zoom: true
+
+  - id: "cat-4_12"
+    src: figures/4_12.jpg
+    caption: "Fig. 12 - Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/72cbb0cc-f361-4cb6-a9c4-641ebcc1e503/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/72cbb0cc-f361-4cb6-a9c4-641ebcc1e503/canvas/f1c65323-dfff-45af-aef7-0d0f62d0c773
+    zoom: true
+
+  - id: "cat-4_13"
+    src: figures/4_13.jpg
+    caption: "Fig. 13 - Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo, Abriola, Santa Maria Maggiore (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/71034f0d-5585-4a79-a88a-0cc288266236/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/71034f0d-5585-4a79-a88a-0cc288266236/canvas/abcde399-9205-4b68-a8c9-98bfafceb453
+    zoom: true
+
+  - id: "cat-4_14"
+    src: figures/4_14.jpg
+    caption: "Fig. 14 - Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/01c93d2b-51ef-4c3c-b52a-52ae0f0d0252/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/01c93d2b-51ef-4c3c-b52a-52ae0f0d0252/canvas/458229e7-7a18-44e9-999c-8f49673bbeba
+    zoom: true
+
+  - id: "cat-4_15"
+    src: figures/4_15.jpg
+    caption: "Fig. 15 - Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo, Abriola, Santa Maria Maggiore (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f6dfe050-8053-4ea2-aa4a-d16bba4a5062/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f6dfe050-8053-4ea2-aa4a-d16bba4a5062/canvas/b6c9b34b-2153-4c82-866a-7af364bbd3ed
+    zoom: true
+
+  - id: "cat-4_16"
+    src: figures/4_16.jpg
+    caption: "Fig. 16 - Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/42d12d81-764d-43cb-9398-f72517bd8103/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/42d12d81-764d-43cb-9398-f72517bd8103/canvas/b7cdb965-0a1e-4ced-b252-e074bd6cbe45
+    zoom: true
+
+  - id: "cat-4_17"
+    src: figures/4_17.jpg
+    caption: "Fig. 17 – Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c462dd0b-2e9d-4401-8431-96fe3303567a/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c462dd0b-2e9d-4401-8431-96fe3303567a/canvas/79edcc50-8eb5-4a29-aa02-94071200201b
+    zoom: true
+
+  - id: "cat-4_18"
+    src: figures/4_18.jpg
+    caption: "Fig. 18 – Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8585d85b-0c8a-4300-9d58-ee79077df331/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8585d85b-0c8a-4300-9d58-ee79077df331/canvas/62d50697-c37a-4761-be60-c8e3500652bb
+    zoom: true
+
+  - id: "cat-4_19"
+    src: figures/4_19.jpg
+    caption: "Fig. 19 – Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/164f3c33-283c-4207-975b-9035779c1d1a/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/164f3c33-283c-4207-975b-9035779c1d1a/canvas/3e74163b-e674-4f06-8989-825f90328914
+    zoom: true
+
+  - id: "cat-4_20"
+    src: figures/4_20.jpg
+    caption: "Fig. 20 – Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/717c16c1-112a-4981-a5ee-e2b42aae0bd8/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/717c16c1-112a-4981-a5ee-e2b42aae0bd8/canvas/698aeb23-c324-4633-a6a7-5ac7dc745474
+    zoom: true
+
+  - id: "cat-4_21"
+    src: figures/4_21.jpg
+    caption: "Fig. 21 – Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d5afd9f8-125a-4581-8ccc-0f43fcf64513/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d5afd9f8-125a-4581-8ccc-0f43fcf64513/canvas/1605d6d1-15c5-46a1-b658-ee50b070b208
+    zoom: true
+
+  - id: "cat-4_22"
+    src: figures/4_22.jpg
+    caption: "Fig. 22 – Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7c030671-ca0c-4a10-8ee8-7ab557d6cfd6/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7c030671-ca0c-4a10-8ee8-7ab557d6cfd6/canvas/3c616b6b-4615-4a30-92d2-f391d14e9e38
+    zoom: true
+
+  - id: "cat-4_23"
+    src: figures/4_23.jpg
+    caption: "Fig. 23 – Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a09f2b68-9b8b-465e-81ce-48dc3b05d680/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a09f2b68-9b8b-465e-81ce-48dc3b05d680/canvas/e908dce5-76b4-4251-855f-5416e29b8535
+    zoom: true
+
+  - id: "cat-4_24"
+    src: figures/4_24.jpg
+    caption: "Fig. 24 - Scultore lucano, fine del XV o inizio del XVI secolo, *Madonna con il Bambino in trono* (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/67d0f566-0d12-4d96-ba31-dc1d72cebd55/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/67d0f566-0d12-4d96-ba31-dc1d72cebd55/canvas/f13bbd9c-d835-4eee-a4cd-3cfd89e5e209
+    zoom: true
+
+  - id: "cat-4_25"
+    src: figures/4_25.jpg
+    caption: "Fig. 25 – Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e1226c1c-20cd-4233-a0f7-ae04608b2203/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e1226c1c-20cd-4233-a0f7-ae04608b2203/canvas/30d01ecd-394f-41ae-b3c7-ef9f08e4596d
+    zoom: true
+
+  - id: "cat-4_26"
+    src: figures/4_26.jpg
+    caption: "Fig. 26 – Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/46598c43-c1b5-411e-8d3c-8e39d7e01e1b/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/46598c43-c1b5-411e-8d3c-8e39d7e01e1b/canvas/bcbb078c-de44-41df-af58-17e301b2329f
+    zoom: true
+
+  - id: "cat-4_27"
+    src: figures/4_27.jpg
+    caption: "Fig. 27 – Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/41f2bc1c-f7d1-42c2-9fe6-ae950c63a6e4/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/41f2bc1c-f7d1-42c2-9fe6-ae950c63a6e4/canvas/dc3e1e07-ce7a-450c-9853-bdf97f4bb6d4
+    zoom: true
+  
   - id: "cat-5"
     src: figures/5.jpg
     caption: "Scultore attivo a Roma, *Busto di gentiluomo*, terzo quarto del XVI secolo"
