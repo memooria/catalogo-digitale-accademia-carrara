@@ -2898,6 +2898,13 @@ figure_list:
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/442a15e9-e86b-4dac-9a5d-69f41e0ed2f2/canvas/d3b06aea-bd2e-4352-8910-b647b1c99cb9
     zoom: true
 
+  - id: "cat-32"
+    src: figures/32.jpg
+    caption: "Giovanni Volpato (manifattura), *Erma doppia con i ritratti di Anton Raphael Mengs e José Nicolás de Azara*, dopo il 1785"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/85adfc2e-179a-43aa-b724-dd09713968b4/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/85adfc2e-179a-43aa-b724-dd09713968b4/canvas/f6105922-5b3b-49b2-8f7e-667eedffbaed
+    zoom: true
+
   - id: "cat-34"
     src: figures/34.jpg
     caption: "Scultore italiano di primo Ottocento, *Busto di donna con pelliccia*"
@@ -3015,5 +3022,12 @@ figure_list:
     caption: "Fig. 8 - Tito Sarrocchi nella bottega di Giovanni Dupré, *Ritratto di Luigi Tonti* (*verso* senza cornice)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e34fcde0-a432-4253-8729-ed8e4d5b3cf6/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e34fcde0-a432-4253-8729-ed8e4d5b3cf6/canvas/ed987646-01e7-487b-940a-3f04bf38ff8a
+    zoom: true
+
+  - id: "cat-36"
+    src: figures/36.jpg
+    caption: "Randolph Rogers, *Indian Hunter Boy, Indian Fisher Girl*, 1865-1870 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/2f0f40e9-6592-4dc7-b2c6-8f30070bbe57/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/2f0f40e9-6592-4dc7-b2c6-8f30070bbe57/canvas/b84747e8-4765-45bb-a360-ae326ae9b5f7
     zoom: true
     
