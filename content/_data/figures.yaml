@@ -2905,6 +2905,90 @@ figure_list:
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/85adfc2e-179a-43aa-b724-dd09713968b4/canvas/f6105922-5b3b-49b2-8f7e-667eedffbaed
     zoom: true
 
+  - id: "cat-32_1"
+    src: figures/32_1.jpg
+    caption: "Fig. 1 – Giovanni Volpato (manifattura), *Erma doppia con i ritratti di Anton Raphael Mengs e José Nicolás de Azara*, dopo il 1785"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/c79e0301-d258-447a-9082-bcbf8a3bd19d/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/c79e0301-d258-447a-9082-bcbf8a3bd19d/canvas/d4268c80-6a2d-4f1c-a8b0-73daa7d3d81f
+    zoom: true
+
+  - id: "cat-32_2"
+    src: figures/32_2.jpg
+    caption: "Fig. 2 – Giovanni Volpato (manifattura), *Erma doppia con i ritratti di Anton Raphael Mengs e José Nicolás de Azara*, dopo il 1785"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/60014e63-96a1-40bf-98bf-de29d4480baf/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/60014e63-96a1-40bf-98bf-de29d4480baf/canvas/84d3a450-ce9f-4d7d-b4f2-fc015065f077
+    zoom: true
+
+  - id: "cat-32_3"
+    src: figures/32_3.jpg
+    caption: "Fig. 3 – Giovanni Volpato (manifattura), *Erma doppia con i ritratti di Anton Raphael Mengs e José Nicolás de Azara*, dopo il 1785"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/f0a99d90-790c-4519-9b15-5839584b0a6e/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/f0a99d90-790c-4519-9b15-5839584b0a6e/canvas/7fa63a9e-c61f-41fc-82ea-6648fbffa7f0
+    zoom: true
+
+  - id: "cat-32_4"
+    src: figures/32_4.jpg
+    caption: "Fig. 4 – Christopher Hewetson, *Anton Raphael Mengs*, 1779, Parigi, Bibliothèque Mazarine"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/acd68d40-3171-40b0-b6d8-5087b747ef4c/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/acd68d40-3171-40b0-b6d8-5087b747ef4c/canvas/3c092682-e45a-438e-8675-4ee037a5af3f
+    zoom: true
+
+  - id: "cat-32_5"
+    src: figures/32_5.jpg
+    caption: "Fig. 5 – Christopher Hewetson, *José Nicolás de Azara*, 1779, Parigi, Bibliothèque Mazarine"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/506c38ed-9807-488b-9a67-de2617f67696/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/506c38ed-9807-488b-9a67-de2617f67696/canvas/da769283-ea55-4ccf-bd0a-2263465bd076
+    zoom: true
+
+  - id: "cat-32_6"
+    src: figures/32_6.jpg
+    caption: "Fig. 6 – Giovanni Volpato (manifattura), *Erma doppia con i ritratti di Anton Raphael Mengs e José Nicolás de Azara*, dopo il 1785 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/d7fb90ce-c10f-4f60-b1b5-f085ea4d2ce9/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/d7fb90ce-c10f-4f60-b1b5-f085ea4d2ce9/canvas/43007f69-05b8-47e9-9387-362655728f3d
+    zoom: true
+
+  - id: "cat-32_7"
+    src: figures/32_7.jpg
+    caption: "Fig. 7 – Giovanni Volpato (manifattura), *Erma doppia con i ritratti di Anton Raphael Mengs e José Nicolás de Azara*, dopo il 1785 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/79e53f9d-0374-4158-9f0a-27522e73b52f/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/79e53f9d-0374-4158-9f0a-27522e73b52f/canvas/0eebcded-6f9c-428c-a37e-b7fcdebb4969
+    zoom: true
+
+  - id: "cat-32_8"
+    src: figures/32_8.jpg
+    caption: "Fig. 8 – Giovanni Volpato (manifattura), *Erma doppia con i ritratti di Anton Raphael Mengs e José Nicolás de Azara*, dopo il 1785 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/20bd73ed-543a-4500-b91e-c52aaac4ad6b/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/20bd73ed-543a-4500-b91e-c52aaac4ad6b/canvas/020d234b-fab2-4932-8c43-de2d89b5599a
+    zoom: true
+
+  - id: "cat-32_9"
+    src: figures/32_9.jpg
+    caption: "Fig. 9 – Giovanni Volpato (manifattura), *Erma doppia con i ritratti di Anton Raphael Mengs e José Nicolás de Azara*, dopo il 1785 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/dc9d04a9-1188-4c78-a38c-0618b0a79d11/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/dc9d04a9-1188-4c78-a38c-0618b0a79d11/canvas/3f06787f-9b7d-4458-91a0-fa935272b35a
+    zoom: true
+
+  - id: "cat-32_10"
+    src: figures/32_10.jpg
+    caption: "Fig. 10 – Giovanni Volpato (manifattura), *Erma doppia con i ritratti di Anton Raphael Mengs e José Nicolás de Azara*, dopo il 1785 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/2a924306-3d56-430a-bf34-2fe3680c6998/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/2a924306-3d56-430a-bf34-2fe3680c6998/canvas/0b4ea531-32b4-4f93-8b2c-ebcccfd933c2
+    zoom: true
+
+  - id: "cat-32_11"
+    src: figures/32_11.jpg
+    caption: "Fig. 11 – Giovanni Volpato (manifattura), *Erma doppia con i ritratti di Anton Raphael Mengs e José Nicolás de Azara*, dopo il 1785 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/d2cc6371-0003-4950-a9a0-cf08b1a32a22/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/d2cc6371-0003-4950-a9a0-cf08b1a32a22/canvas/113cdc76-e7a4-45b7-8db3-d17c0f8f11a5
+    zoom: true
+
+  - id: "cat-32_12"
+    src: figures/32_12.jpg
+    caption: "Fig. 12 – Giovanni Volpato (manifattura), *Erma doppia con i ritratti di Anton Raphael Mengs e José Nicolás de Azara*, dopo il 1785"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/39a7fdd2-a75a-4517-87a0-a430b8d1927a/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/39a7fdd2-a75a-4517-87a0-a430b8d1927a/canvas/76de89dd-4370-408c-a98b-b64e28d5e149
+    zoom: true
+
   - id: "cat-34"
     src: figures/34.jpg
     caption: "Scultore italiano di primo Ottocento, *Busto di donna con pelliccia*"
@@ -3030,4 +3114,192 @@ figure_list:
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/2f0f40e9-6592-4dc7-b2c6-8f30070bbe57/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/2f0f40e9-6592-4dc7-b2c6-8f30070bbe57/canvas/b84747e8-4765-45bb-a360-ae326ae9b5f7
     zoom: true
-    
+
+  - id: "cat-36_1"
+    src: figures/36_1.jpg
+    caption: "Fig. 1 – Randolph Rogers, *Indian Hunter Boy*, 1865-1870 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/e165a7bf-b954-4450-b74f-f211716608f1/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/e165a7bf-b954-4450-b74f-f211716608f1/canvas/e4fa13f8-2abc-4bce-871a-b344c3ae9bcf
+    zoom: true
+
+  - id: "cat-36_2"
+    src: figures/36_2.jpg
+    caption: "Fig. 2 – Randolph Rogers, *Indian Hunter Boy*, 1865-1870 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/b8b6d402-3d65-463b-8d0c-fb2637367dd3/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/b8b6d402-3d65-463b-8d0c-fb2637367dd3/canvas/1056b806-e0c2-4f22-8e23-109d9667d59a
+    zoom: true
+
+  - id: "cat-36_3"
+    src: figures/36_3.jpg
+    caption: "Fig. 3 – Randolph Rogers, *Indian Hunter Boy*, 1865-1870 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/46f18419-0999-4b4e-ab2f-5a3cd6612df1/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/46f18419-0999-4b4e-ab2f-5a3cd6612df1/canvas/6a4f0a23-7a08-4efb-b5a5-7104beab40ee
+    zoom: true
+
+  - id: "cat-36_4"
+    src: figures/36_4.jpg
+    caption: "Fig. 4 – Randolph Rogers, *Indian Hunter Boy*, 1865-1870 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/63fdf038-d3ac-4a73-859b-0e267b3e8ce5/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/63fdf038-d3ac-4a73-859b-0e267b3e8ce5/canvas/f8bd0239-17dc-44e4-9505-887603921cc1
+    zoom: true
+
+  - id: "cat-36_5"
+    src: figures/36_5.jpg
+    caption: "Fig. 5 – Randolph Rogers, *Indian Hunter Boy*, 1865-1870 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/d8d6d16a-3800-4030-931e-eeb4da33efdc/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/d8d6d16a-3800-4030-931e-eeb4da33efdc/canvas/0a3e8517-0c99-4faf-a64a-b71f72213423
+    zoom: true
+
+  - id: "cat-36_6"
+    src: figures/36_6.jpg
+    caption: "Fig. 6 – Randolph Rogers, *Indian Fisher Girl*, 1865-1870 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/356db1c0-2a33-44ce-a74a-c30673bc46b0/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/356db1c0-2a33-44ce-a74a-c30673bc46b0/canvas/82bbfd37-0b24-42ca-b10f-ef9588a7ed0d
+    zoom: true
+
+  - id: "cat-36_7"
+    src: figures/36_7.jpg
+    caption: "Fig. 7 – Randolph Rogers, *Indian Fisher Girl*, 1865-1870 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/bd2577c0-ff94-440b-ae03-85fbae4af8ae/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/bd2577c0-ff94-440b-ae03-85fbae4af8ae/canvas/274097e0-feb7-4a3d-be6c-3ddc912bd312
+    zoom: true
+
+  - id: "cat-36_8"
+    src: figures/36_8.jpg
+    caption: "Fig. 8 – Randolph Rogers, *Indian Fisher Girl*, 1865-1870 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/43bd357e-6c71-4423-a0eb-0eabd41df153/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/43bd357e-6c71-4423-a0eb-0eabd41df153/canvas/d4a8a406-816d-4ded-8a0b-e09da2731100
+    zoom: true
+
+  - id: "cat-36_9"
+    src: figures/36_9.jpg
+    caption: "Fig. 9 – Randolph Rogers, *Indian Fisher Girl*, 1865-1870 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/3148b540-d56c-4f9e-837a-2f9d61c44f94/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/3148b540-d56c-4f9e-837a-2f9d61c44f94/canvas/aab78006-c84c-4111-a6d4-9d5a97c87cc8
+    zoom: true
+
+  - id: "cat-36_10"
+    src: figures/36_10.jpg
+    caption: "Fig. 10 – Randolph Rogers, *Indian Fisher Girl*, 1865-1870 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/b2e1e9d3-d59e-47fd-9381-96a34a659ee0/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/b2e1e9d3-d59e-47fd-9381-96a34a659ee0/canvas/c693b445-c51f-419a-af73-a08019a305a7
+    zoom: true
+
+  - id: "cat-36_11"
+    src: figures/36_11.jpg
+    caption: "Fig. 11 – *Art Gallery on 3rd floor General Library, Randolph Rogers' statuary, (incl. Lewis Cass, Nydia, etc.) & plaster casts of various antique sculptures; HS11775*. In the digital collection Bentley Historical Library Bentley Image Bank. (https://quod.lib.umich.edu/b/bhl/x-hs11775/hs11775). University of Michigan Library Digital Collections. Accessed August 07, 2026."
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/d46db4f8-e63f-4234-b803-ce525ac417cf/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/d46db4f8-e63f-4234-b803-ce525ac417cf/canvas/c8188b7e-a507-4a84-be8c-da73b8e37b78
+    zoom: true
+
+  - id: "cat-36_12"
+    src: figures/36_12.jpg
+    caption: "Fig. 12 – Randolph Rogers, *Indian Hunter Boy*, 1866-1867, Madison (Wisconsin), Chazen Museum of Art, inv. 1972.13"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/cd68c8e4-db1f-4315-a610-73207f8af999/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/cd68c8e4-db1f-4315-a610-73207f8af999/canvas/be00c788-5e0b-4949-91ac-f61c18e3e806
+    zoom: true
+
+  - id: "cat-36_13"
+    src: figures/36_13.jpg
+    caption: "Fig. 13 – Randolph Rogers, *Indian Hunter Boy*, *Indian Fisher Girl*, 1866, Grand Rapids (Michigan), Frederik Meijer Gardens & Sculpture Park"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/7d98b015-f87e-4447-815d-44e179135ff1/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/7d98b015-f87e-4447-815d-44e179135ff1/canvas/a72689d0-5445-438a-8b2b-086aa226ca3f
+    zoom: true
+
+  - id: "cat-36_14"
+    src: figures/36_14.jpg
+    caption: "Fig. 14 – Henry Kirke Brown, *The Choosing of the Arrow*, 1849, New York, The Metropolitan Museum"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/d58722bc-e546-451d-8f1e-1ddb51a1a7b2/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/d58722bc-e546-451d-8f1e-1ddb51a1a7b2/canvas/2e1a557d-381b-469d-aaba-3a310a21c813
+    zoom: true
+
+  - id: "cat-36_15"
+    src: figures/36_15.jpg
+    caption: "Fig. 15 – Hiram Powers, *Fisher Boy*, 1841-1844, New York, The Metropolitan Museum"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/6480efd8-2249-43d5-9347-b41dc9fe7081/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/6480efd8-2249-43d5-9347-b41dc9fe7081/canvas/9a69f63d-1bee-4d19-ba8c-2ff88191064a
+    zoom: true
+
+  - id: "cat-36_16"
+    src: figures/36_16.jpg
+    caption: "Fig. 16 – Randolph Rogers, *Indian Hunter Boy*, 1865-1870 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/b12bcbfb-89d1-476c-bb80-bb10d4d917bb/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/b12bcbfb-89d1-476c-bb80-bb10d4d917bb/canvas/11b82ffb-9d20-4b95-ad01-715ba858c7c0
+    zoom: true
+
+  - id: "cat-36_17"
+    src: figures/36_17.jpg
+    caption: "Fig. 17 – Randolph Rogers, *Indian Fisher Girl*, 1865-1870 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/e5b8bee4-cdac-4dcf-935c-64e9b428fd47/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/e5b8bee4-cdac-4dcf-935c-64e9b428fd47/canvas/f89bac3f-5e54-4a7d-a8a6-7a49544750da
+    zoom: true
+
+  - id: "cat-36_18"
+    src: figures/36_18.jpg
+    caption: "Fig. 18 – Randolph Rogers, *Indian Hunter Boy*, 1865-1870 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/91cc1456-710d-416f-8161-fc3f7290e073/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/91cc1456-710d-416f-8161-fc3f7290e073/canvas/7197698e-8d2d-4985-aa30-8b699fca8900
+    zoom: true
+
+  - id: "cat-36_19"
+    src: figures/36_19.jpg
+    caption: "Fig. 19 – Randolph Rogers, *Indian Hunter Boy*, 1865-1870 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/16581212-8bce-47f0-af01-e0c3b20dfaa8/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/16581212-8bce-47f0-af01-e0c3b20dfaa8/canvas/4e226dbc-8a51-4907-93d7-67c0e1921372
+    zoom: true
+
+  - id: "cat-36_20"
+    src: figures/36_20.jpg
+    caption: "Fig. 20 – Randolph Rogers, *Indian Hunter Boy*, 1865-1870 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/71c8299e-a2c4-4b35-87f4-ecc612af3416/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/71c8299e-a2c4-4b35-87f4-ecc612af3416/canvas/e21cdf22-f918-4a10-992f-be70877099de
+    zoom: true
+
+  - id: "cat-36_21"
+    src: figures/36_21.jpg
+    caption: "Fig. 21 – Randolph Rogers, *Indian Hunter Boy*, 1865-1870 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/eb37378a-c242-47d6-91d0-a36d98c7b153/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/eb37378a-c242-47d6-91d0-a36d98c7b153/canvas/c59b2ef5-af10-4c94-b766-a49fae0e86a3
+    zoom: true
+
+  - id: "cat-36_22"
+    src: figures/36_22.jpg
+    caption: "Fig. 22 – Randolph Rogers, *Indian Fisher Girl*, 1865-1870 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/f2e2f7bb-fd4b-4e33-859d-fe0c4cdf9fba/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/f2e2f7bb-fd4b-4e33-859d-fe0c4cdf9fba/canvas/f93589fc-5d97-46f5-bde4-f280de8276ed
+    zoom: true
+
+  - id: "cat-36_23"
+    src: figures/36_23.jpg
+    caption: "Fig. 23 – Randolph Rogers, *Indian Fisher Girl*, 1865-1870 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/c65f14d7-6ec4-4b76-ac9e-404f262e8e12/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/c65f14d7-6ec4-4b76-ac9e-404f262e8e12/canvas/94a0d295-49ff-4af1-aea9-f84184073c37
+    zoom: true
+
+  - id: "cat-36_24"
+    src: figures/36_24.jpg
+    caption: "Fig. 24 – Randolph Rogers, *Indian Fisher Girl*, 1865-1870 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/90745621-0265-42dc-b252-3f49a694a909/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/90745621-0265-42dc-b252-3f49a694a909/canvas/c4377961-6fb8-4513-86bf-8ef7182298dc
+    zoom: true
+
+  - id: "cat-36_25"
+    src: figures/36_25.jpg
+    caption: "Fig. 25 – Randolph Rogers, *Indian Fisher Girl*, 1865-1870 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/b5b725ff-c441-4942-9b18-f2c5cd6e6b4c/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/b5b725ff-c441-4942-9b18-f2c5cd6e6b4c/canvas/81b0a653-60c4-4a52-b44e-076b0c3f86ff
+    zoom: true
+
+  - id: "cat-36_26"
+    src: figures/36_26.jpg
+    caption: "Fig. 26 – Randolph Rogers, *Indian Fisher Girl*, 1865-1870 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/e955c080-393e-4ae7-9d9d-13989499613e/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/e955c080-393e-4ae7-9d9d-13989499613e/canvas/f69e2dce-e6a0-4027-ab57-dd549f64b47a
+    zoom: true
+
+  - id: "cat-36_27"
+    src: figures/36_27.jpg
+    caption: "Fig. 27 – Randolph Rogers, *Indian Fisher Girl*, 1865-1870 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/d968aae6-e1c2-4837-ab61-4f4e1dbaec28/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/d968aae6-e1c2-4837-ab61-4f4e1dbaec28/canvas/16f27d28-49df-4cd2-b745-a046f49efd91
+    zoom: true
