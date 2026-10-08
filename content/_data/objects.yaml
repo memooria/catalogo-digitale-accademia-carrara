@@ -626,7 +626,7 @@ object_list:
     numeri di inventario precedenti: Sc. 167 (1998-2007); Sc. 166; Sc. 151; 1998 AC Sculture 00041 (2011-2012); 98 SC ZR041 (2012-2014)
     collocazione: Esposto - Sala 6 (teca all’ingresso)
     figure:
-      - id: "cat-35"
+      - id: "cat-32"
 
   - id: 32
     autore: Bartolomeo Cavaceppi
@@ -693,7 +693,7 @@ object_list:
     numeri di inventario precedenti: Sc. 171 (1998-2007); Sc. 173; Sc. 158; 1998 AC Sculture 00045 (2011-2012); 98 SC ZR045 (2012-2015)
     collocazione: Esposto - Scala nobile
     figure:
-      - id: "cat-35"
+      - id: "cat-36"
 
   - id: 35b
     autore: Randolph Rogers
@@ -708,5 +708,5 @@ object_list:
     numeri di inventario precedenti: Sc. 172 (1998-2007); Sc. 174; Sc. 159; 1998 AC Sculture 00046 (2011-2012); 98 SC ZR046 (2012-2015)
     collocazione: Esposto - Scala nobile
     figure:
-      - id: "cat-35"
+      - id: "cat-36"
   
