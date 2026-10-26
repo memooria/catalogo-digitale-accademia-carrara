@@ -163,13 +163,21 @@
     "file": "_assets/notoserif-regular.woff2",
     "src": "_assets/fonts/noto-serif/notoserif-regular.woff2"
   },
-  "_assets/images/Collezione_Zeri.jpeg": {
-    "file": "_assets/Collezione_Zeri.jpeg",
-    "src": "_assets/images/Collezione_Zeri.jpeg"
+  "_assets/fonts/twk-lausanne/TWKLausanne-350.ttf": {
+    "file": "_assets/TWKLausanne-350.ttf",
+    "src": "_assets/fonts/twk-lausanne/TWKLausanne-350.ttf"
   },
-  "_assets/images/Cover_Accademia_Carrara.jpg": {
-    "file": "_assets/Cover_Accademia_Carrara.jpg",
-    "src": "_assets/images/Cover_Accademia_Carrara.jpg"
+  "_assets/fonts/twk-lausanne/TWKLausanne-350Italic.otf": {
+    "file": "_assets/TWKLausanne-350Italic.otf",
+    "src": "_assets/fonts/twk-lausanne/TWKLausanne-350Italic.otf"
+  },
+  "_assets/fonts/twk-lausanne/TWKLausanne-700.otf": {
+    "file": "_assets/TWKLausanne-700.otf",
+    "src": "_assets/fonts/twk-lausanne/TWKLausanne-700.otf"
+  },
+  "_assets/fonts/twk-lausanne/TWKLausanne-700Italic.otf": {
+    "file": "_assets/TWKLausanne-700Italic.otf",
+    "src": "_assets/fonts/twk-lausanne/TWKLausanne-700Italic.otf"
   },
   "_assets/images/contributors/martinabagnoli.jpg": {
     "file": "_assets/martinabagnoli.jpg",
@@ -178,6 +186,10 @@
   "_assets/images/contributors/paoloplebani.jpg": {
     "file": "_assets/paoloplebani.jpg",
     "src": "_assets/images/contributors/paoloplebani.jpg"
+  },
+  "_assets/images/cover-accademia-carrara-2026.jpg": {
+    "file": "_assets/cover-accademia-carrara-2026.jpg",
+    "src": "_assets/images/cover-accademia-carrara-2026.jpg"
   },
   "_assets/images/figures/1.jpg": {
     "file": "_assets/1.jpg",
@@ -291,11 +303,19 @@
     "file": "_assets/9.jpg",
     "src": "_assets/images/figures/9.jpg"
   },
-  "_assets/images/logo-accademia-carrara.png": {
-    "file": "_assets/logo-accademia-carrara.png",
-    "src": "_assets/images/logo-accademia-carrara.png"
+  "_assets/images/introduzione-sculture-zeri-2026.jpg": {
+    "file": "_assets/introduzione-sculture-zeri-2026.jpg",
+    "src": "_assets/images/introduzione-sculture-zeri-2026.jpg"
   },
-  "_index-849a910f.js": {
+  "_assets/images/logo-fondazione-bpb-white.svg": {
+    "file": "_assets/logo-fondazione-bpb-white.svg",
+    "src": "_assets/images/logo-fondazione-bpb-white.svg"
+  },
+  "_assets/images/logo-museo-accademia-carrara-white.svg": {
+    "file": "_assets/logo-museo-accademia-carrara-white.svg",
+    "src": "_assets/images/logo-museo-accademia-carrara-white.svg"
+  },
+  "_index-c9f1c9ad.js": {
     "assets": [
       "_assets/ibmplexsanscondensed-regular.eot",
       "_assets/ibmplexsanscondensed-regular.woff2",
@@ -337,12 +357,16 @@
       "_assets/FiraSans-Italic.ttf",
       "_assets/FiraSans-SemiBold.ttf",
       "_assets/FiraSans-SemiBoldItalic.ttf",
-      "_assets/BebasNeue-Regular.ttf"
+      "_assets/BebasNeue-Regular.ttf",
+      "_assets/TWKLausanne-350.ttf",
+      "_assets/TWKLausanne-350Italic.otf",
+      "_assets/TWKLausanne-700.otf",
+      "_assets/TWKLausanne-700Italic.otf"
     ],
     "css": [
       "_assets/index.css"
     ],
-    "file": "_assets/index-849a910f.js"
+    "file": "_assets/index-c9f1c9ad.js"
   },
   "index.css": {
     "file": "_assets/index.css",
