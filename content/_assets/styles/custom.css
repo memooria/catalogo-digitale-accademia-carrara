@@ -1,6 +1,27 @@
 
-h1, h2 {
-    font-size: 2.5rem !important;
+/* memooria 2026: scala tipografica TWK Lausanne (Figma "visual identity NEW")
+   prima: h1, h2 { font-size: 2.5rem !important } con Bebas Neue */
+h1 {
+    font-size: 50px !important;
+    line-height: 55px !important;
+    font-weight: 700 !important;
+}
+
+/* H1 titolo pagina: maiuscolo (Figma "TITOLO PAGINA") */
+.quire-page__header__title {
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 34px !important;
+    line-height: 45px !important;
+    font-weight: 700 !important;
+}
+
+h3 {
+    font-size: 23px !important;
+    line-height: 32px !important;
+    font-weight: 700 !important;
 }
 
 h4 {
@@ -8,7 +29,14 @@ h4 {
 }
 
 #logo-container {
-    width: 11rem;
+    width: 167px; /* memooria 2026 da 11rem a 167px (logo Figma) */
+    padding-left: 16px;
+}
+
+#logo-container img {
+    display: block;
+    height: 35px;
+    width: auto;
 }
 
 .cb-d-flex {
@@ -22,7 +50,7 @@ h4 {
 }
 
 .quire-entry .quire-page__content .content p {
-    line-height: 1.75;
+    line-height: 26px; /* memooria 2026 da 1.75 a 26px (Body 18/26) */
 }
 
 @media only screen and (max-width: 800px) {
@@ -53,7 +81,7 @@ h4 {
     & h4,
     & h5,
     & h6 {
-        font-family: 'Fira Sans', sans-serif;
+        font-family: 'TWK Lausanne', 'Helvetica Neue', Arial, sans-serif; /* memooria 2026 da Fira Sans */
     }
 }
 
@@ -69,16 +97,195 @@ h4 {
     height: 5rem;
 }
 
+/* memooria 2026: logo bianco (menu scuro); nero su carta per il PDF */
+@media print {
+    .quire-copyright .copyright__publisher-logo {
+        filter: invert(1);
+    }
+}
+
 
 @media screen and (min-width: 960px) {
     .side-by-side .quire-entry__lightbox {
         position: fixed;
-        top: 6rem;
+        top: 58px; /* memooria 2026 da 6rem: header 56px + 2px */
         width: calc(56% - 8px);
-        height: calc(100vh - 6rem);
+        height: calc(100vh - 58px);
     }
     .quire-entry div.side-by-side div.quire-entry__content {
         height: calc(100vh - 3rem);
 
     }
+}
+
+
+/*******************************/
+/* MEMOORIA 2026               */
+/* Visual identity NEW (Figma) */
+/*******************************/
+:root {
+    --carrara-red: #E6371E;
+    --carrara-text: #171717;
+    --carrara-cream: #F4F1EA;
+}
+
+body,
+.quire-page {
+    color: var(--carrara-text);
+}
+
+.content p,
+.content li {
+    font-size: 18px;
+    line-height: 26px;
+}
+
+figcaption,
+.q-figure__caption,
+.q-figure__caption-content,
+.quire-entry__tombstone {
+    font-size: 13px;
+    line-height: 16px;
+}
+
+/* Header: rosso, icone bianche, 56px + 2px progress bar */
+.quire-navbar,
+.quire-navbar svg {
+    color: #fff;
+    fill: #fff;
+}
+
+.quire-navbar .quire-navbar-page-controls__item a,
+.quire-navbar .quire-navbar-page-controls__item span.nav-label {
+    color: #fff;
+}
+
+.quire-navbar-controls__left {
+    flex-basis: auto;
+}
+
+.quire-progress-bar {
+    background-color: var(--carrara-red);
+}
+
+.quire-progress-bar div {
+    background-color: #fff;
+}
+
+/* Copertina */
+.quire-cover__hero .title {
+    font-size: 50px;
+    line-height: 55px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+/* riquadro titolo: 833px, #171717 al 50%, 38px dal fondo (Figma) */
+.quire-cover__hero .hero-body .container.is-fluid {
+    width: 833px;
+    max-width: 100%;
+    padding: 20px 32px;
+    bottom: 38px;
+    background-color: rgba(23, 23, 23, .5);
+}
+
+.quire-cover__logo {
+    position: absolute;
+    right: 0;
+    bottom: 58px;
+    width: 205px;
+    height: auto;
+    z-index: 1;
+}
+
+@media only screen and (max-width: 800px) {
+    h1,
+    .quire-cover__hero .title {
+        font-size: 32px !important;
+        line-height: 36px !important;
+    }
+
+    h2 {
+        font-size: 26px !important;
+        line-height: 34px !important;
+    }
+
+    .quire-contents-list .table-of-contents-list li.level-0 > a {
+        font-size: 26px;
+        line-height: 34px;
+    }
+
+    .quire-entry .quire-page__header__title {
+        font-size: 26px !important;
+        line-height: 34px !important;
+    }
+
+    /* su mobile il logo va in alto a destra per non coprire il titolo */
+    .quire-cover__logo {
+        width: 120px;
+        top: 24px;
+        right: 16px;
+        bottom: auto;
+    }
+}
+
+/* Testo: Body 18/26, niente capolettera (Figma) */
+.quire-page .quire-page__content .content p,
+.quire-page .quire-page__content .content li {
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.quire-page .quire-page__content .container .content > p:first-child::first-letter {
+    font-size: inherit;
+    float: none;
+    margin: 0;
+    padding: 0;
+    line-height: inherit;
+}
+
+/* Indice: sezioni H2 34/45 bold, voci Body 18/26 */
+.quire-contents-list .table-of-contents-list li.level-0 > a {
+    font-size: 34px;
+    line-height: 45px;
+    font-weight: 700;
+    color: var(--carrara-text);
+}
+
+.quire-contents-list .table-of-contents-list li.level-1 > a {
+    font-size: 18px;
+    line-height: 26px;
+    font-weight: 350;
+    color: var(--carrara-text);
+    border-bottom: none;
+}
+
+.quire-contents-list .table-of-contents-list li.level-1 > a:hover {
+    color: var(--carrara-red);
+}
+
+/* Scheda di catalogo: titolo 34/45 bold, maiuscolo/minuscolo (Figma) */
+.quire-entry .quire-page__header__title {
+    font-size: 34px !important;
+    line-height: 45px !important;
+    text-transform: none;
+}
+
+/* Font hardcoded nei componenti Quire (lightbox, metadati figure) */
+q-lightbox,
+.q-figure .multimedia-metadata h5.header {
+    font-family: 'TWK Lausanne', 'Helvetica Neue', Arial, sans-serif;
+}
+
+/* Lightbox scheda: sfondo #171717 (Figma) */
+.quire-entry__lightbox,
+q-lightbox {
+    background-color: var(--carrara-text);
+}
+
+/* Pulsanti Indietro / Avanti */
+.quire-nav-button a,
+.quire-page__content .quire-nav-button a {
+    font-size: 16px;
+    line-height: 23px;
 }

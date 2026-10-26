@@ -21,7 +21,7 @@ export class CustomBox {
     //language=html
     const html = `
         <div id="logo-container" class="cb-d-flex ">
-            <img src="/_assets/images/logo-accademia-carrara.png" alt="logo Accademia Carrara">
+            <img src="/_assets/images/logo-museo-accademia-carrara-white.svg" alt="Museo Accademia Carrara Bergamo">
         </div>
     `;
 
@@ -32,8 +32,8 @@ export class CustomBox {
 
 
     const img = document.createElement('img');
-    img.src = '/_assets/images/logo-accademia-carrara.png';
-    img.alt = 'logo Accademia Carrara';
+    img.src = '/_assets/images/logo-museo-accademia-carrara-white.svg';
+    img.alt = 'Museo Accademia Carrara Bergamo';
     logoContainer.appendChild(img);
 
   }

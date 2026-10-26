@@ -19,7 +19,7 @@ layout: base.11ty.js
   <div class="quire-cover__hero-body hero-body">
     <div class="container is-fluid">
       <h1 class="title" id="page-header-{{ page.filePathStem }}">
-        {{ publication.title | markdownify }}
+        {% if cover_title %}{{ cover_title | markdownify }}{% else %}{{ publication.title | markdownify }}{% endif %}
         {% if publication.subtitle %}
           <span class="visually-hidden">: </span>
           <span class="subtitle">{{ publication.subtitle | markdownify }}</span>
@@ -36,6 +36,13 @@ layout: base.11ty.js
       </div>
     </div>
   </div>
+  {% if cover_logo %}
+    <img
+      class="quire-cover__logo"
+      src="{{ config.figures.imageDir | append: '/' | append: cover_logo }}"
+      alt="{{ cover_logo_alt }}"
+    />
+  {% endif %}
 </section>
 
 {% if content != blank %}

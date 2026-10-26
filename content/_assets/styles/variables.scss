@@ -15,7 +15,7 @@ $secondary-background-color: null; // only for modern theme
 $theme: modern;
 
 // Declare the navbar color style: normal/accent
-$navbar: normal;
+$navbar: accent; // memooria 2026 da normal a accent (header rosso)
 
 
 
@@ -29,10 +29,11 @@ $noto-serif: 'Noto Serif', serif;
 $times-serif: Times, serif;
 $fira-sans: 'Fira Sans', sans-serif; // memooria add
 $bebas-neue: 'Bebas Neue', sans-serif; // memooria add
+$twk-lausanne: 'TWK Lausanne', 'Helvetica Neue', Arial, sans-serif; // memooria 2026
 
 // Page typography
 // -----------------------------------------------------------------------------
-$quire-base-font-size: 16px;
+$quire-base-font-size: 16px; // memooria 2026: lasciato 16px (definisce anche i rem); Body 18px in custom.css
 $quire-page-paragraph-style: line-space; // or use indent
 
 // Cover typography
@@ -97,24 +98,24 @@ $quire-navigation-font: null; // navbar and next/prev buttons
   $secondary-background-color: $content-background-color;
 } @else {
   // Modern Theme (default)
-  $quire-primary-font: $fira-sans !default; // memooria da $noto-sans a $fira-sans
-  $quire-headings-font: $bebas-neue !default; // memooria da $ibm-sans a $bebas-neue
-  $quire-footnotes-font: $fira-sans !default; // memooria da $noto-serif a $fira-sans
-  $quire-navigation-font: $fira-sans !default; // memooria da $noto-sans a $fira-sans
+  $quire-primary-font: $twk-lausanne !default; // memooria 2026 da $fira-sans a $twk-lausanne
+  $quire-headings-font: $twk-lausanne !default; // memooria 2026 da $bebas-neue a $twk-lausanne
+  $quire-footnotes-font: $twk-lausanne !default; // memooria 2026 da $fira-sans a $twk-lausanne
+  $quire-navigation-font: $twk-lausanne !default; // memooria 2026 da $fira-sans a $twk-lausanne
   $accent-color: $primary !default; // memooria da $red a $primary
   $content-background-color: $white !default;
-  $secondary-background-color: $off-white !default;
+  $secondary-background-color: $carrara-cream !default; // memooria 2026 da $off-white a $carrara-cream
 }
 
 // Navbar
 // -----------------------------------------------------------------------------
-$navbar-height: 6.25rem; // memooria da 3rem a 6.25rem
+$navbar-height: 3.5rem; // memooria 2026 da 6.25rem a 3.5rem = 56px (+2px progress bar = 58px Figma)
 $quire-progress-bar-height: 2px;
 
 // Declare navbar colors
-$quire-navbar-color: $dark; //memooria da null a $dark
-$quire-navbar-hover-color: $white; //memooria da null a $white
-$quire-navbar-text-color: $primary; //memooria da null a primary
+$quire-navbar-color: null; //memooria 2026 da $dark a null (accent: $primary)
+$quire-navbar-hover-color: null; //memooria 2026 da $white a null
+$quire-navbar-text-color: null; //memooria 2026 da $primary a null (accent: $white)
 
 @if $navbar == accent {
   // Accent Navbar

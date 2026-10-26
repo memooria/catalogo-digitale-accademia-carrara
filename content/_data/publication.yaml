@@ -37,7 +37,7 @@ publisher:
   - name: Haltadefinizione
     location: Modena
     url: https://www.haltadefinizione.com/
-    logo: logo-accademia-carrara.png
+    logo: logo-museo-accademia-carrara-white.svg
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -129,4 +129,4 @@ repository_url:
 # Promo Image
 # ------------------------------------------------------------------------------
 
-promo_image: Cover_Accademia_Carrara.jpg
+promo_image: cover-accademia-carrara-2026.jpg

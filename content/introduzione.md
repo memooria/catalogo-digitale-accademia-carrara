@@ -3,7 +3,7 @@ title: Introduzione
 subtitle: Le sculture della collezione Zeri 
 layout: splash
 order: 10
-image: Collezione_Zeri.jpeg
+image: introduzione-sculture-zeri-2026.jpg
 ---
 
 Federico Zeri nasce a Roma nel 1922. Avviato dal padre, medico ed esperto di semeiotica, a studi di botanica e chimica, li abbandona per seguire le lezioni di storia dell’arte di Pietro Toesca con cui si laurea nel 1944. Possiamo immaginare che l’esempio paterno nella diagnostica medica e i suoi stessi esordi disciplinari gli saranno tornati utili per affinare il mestiere di conocitore ed imparare ad archiviare mentalmente i segni indicativi di ogni artista, per poter comporre quel “quadro clinico” su cui si basa qualsiasi capacità attributiva. Entrato nei ranghi del ministero come ispettore delle Belle Arti, Zeri abbandona la pubblica amministrazione alla fine degi anni cinquanta per dedicarsi allo studio e alla scrittura diventando presto uno dei conoscitori più stimati in Italia e all’estero. Fu apprezzato soprattutto negli Stati Uniti dove collaborò per anni con i più importanti musei american, come il Getty Art Museum. Il Metropolitan Museum of Art di New York e il Waters Art Museum di Baltimora gli affidarono l’arduo compito di catalogare le collezioni di dipinti Italiani. La sua attività di catalogazione che fu proficua anche in italia in collezini pubbliche e private, basti pensare ai suoi cataloghi per l’Accademia Carrara, le raccolte Pallavicini, Cini,  Amedeo Lia, è stata importantissima perchè permise allo studioso di costruire e approfondire corpora di autori meno noti o del tutto sconosciuti contribuendo in maniera determinante alla conoscenza della pittura italiana. 
