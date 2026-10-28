@@ -328,6 +328,11 @@ q-lightbox,
     }
 }
 
+/* Pulsanti Indietro / Avanti: allineati tra loro (erano inline-block sulla baseline, sfalsati di 4px) */
+.quire-contents-buttons li.quire-nav-button {
+    vertical-align: top;
+}
+
 /* Pulsanti Indietro / Avanti: testo e freccia centrati nel pulsante */
 .quire-contents-buttons li.quire-nav-button a,
 .quire-contents-buttons li.quire-nav-button.prev a,
@@ -349,6 +354,16 @@ q-lightbox,
 .quire-contents-buttons li.quire-nav-button svg,
 .quire-contents-buttons li.quire-nav-button.prev svg {
     margin: 0;
+}
+
+/* le frecce sono disegnate spostate a destra nel loro riquadro: si compensa perché
+   testo e freccia risultino centrati e alla stessa distanza in entrambi i pulsanti */
+.quire-contents-buttons li.quire-nav-button.next svg {
+    margin-left: -10px;
+}
+
+.quire-contents-buttons li.quire-nav-button.prev svg {
+    margin-left: -12px;
 }
 
 /* Scheda: tabella dati tecnici Caption 13/16, hover grigio neutro */
