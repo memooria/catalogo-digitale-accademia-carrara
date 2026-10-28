@@ -665,7 +665,7 @@ table th {
 .box {
   background-color: #ffffff;
   border-radius: 6px;
-  box-shadow: 0 2px 3px rgba(51, 51, 51, 0.1), 0 0 0;
+  box-shadow: 0 2px 3px rgba(23, 23, 23, 0.1), 0 0 0;
   color: hsl(0, 0%, 29%);
   display: block;
   padding: 1.25rem;
@@ -8940,7 +8940,7 @@ html {
   }
 }
 .quire__secondary {
-  background-color: #333333;
+  background-color: #171717;
   padding: 1.25em;
 }
 .quire__secondary * {
@@ -8956,7 +8956,7 @@ html {
 .quire__secondary a,
 .quire__secondary button,
 .quire__secondary .button {
-  background-color: #333333;
+  background-color: #171717;
   color: #ffffff !important;
 }
 .quire__secondary a {
@@ -8991,7 +8991,7 @@ html {
 }
 .quire:not(.no-js) .quire__primary main {
   /* margin-top: $navbar-height; */
-  color: #333333;
+  color: #171717;
   flex: 1 1 auto;
   -webkit-overflow-scrolling: touch;
   /* overflow-y: scroll; */
@@ -9667,14 +9667,14 @@ html {
 .quire-menu h6 {
   font-family: "TWK Lausanne", "Helvetica Neue", Arial, sans-serif;
   letter-spacing: 0.25px;
-  color: #333333;
+  color: #171717;
   font-size: 0.875rem;
   line-height: 1.28;
   font-weight: 700;
   text-transform: uppercase;
   margin-top: 20px;
   padding-bottom: 6px;
-  border-bottom: 1px solid #333333;
+  border-bottom: 1px solid #171717;
 }
 .quire-menu__formats {
   margin-top: 2rem;
@@ -9682,8 +9682,8 @@ html {
 .quire-menu__formats h6 {
   color: #999999;
   border-color: #999999;
-  color: #999999;
-  border-color: #999999;
+  color: #7d7d7d;
+  border-color: #7d7d7d;
 }
 .quire-menu__formats .menu-list {
   margin-top: 0.75em;
@@ -9693,7 +9693,7 @@ html {
   border-radius: 0;
 }
 .quire-menu__header a:hover, .quire-menu__list a:hover, .quire-menu__formats a:hover {
-  background-color: #333333;
+  background-color: #171717;
   text-decoration: underline;
   border-left-width: 0;
 }
@@ -9806,7 +9806,7 @@ html {
   overflow-y: scroll;
 }
 .quire-search * {
-  color: #333333;
+  color: #171717;
 }
 .quire-search.is-active {
   display: block;
@@ -9831,7 +9831,7 @@ html {
   width: 95%;
   border: none;
   box-shadow: none;
-  border-bottom: 1px solid #333333;
+  border-bottom: 1px solid #171717;
   border-radius: 0;
 }
 .quire-search__inner__list-item {
@@ -9879,7 +9879,7 @@ html {
 .quire-search__close-button svg {
   height: calc(3.5rem * 0.55);
   width: calc(3.5rem * 0.55);
-  fill: #333333;
+  fill: #171717;
 }
 .quire-search__close-button svg img {
   max-height: 1.15rem;
@@ -9938,7 +9938,7 @@ html div {
 .quire-page h5,
 .quire-page h6 {
   margin-bottom: 1rem;
-  color: #333333;
+  color: #171717;
   font-family: "TWK Lausanne", "Helvetica Neue", Arial, sans-serif;
 }
 @media print {
@@ -10023,7 +10023,7 @@ html div {
   padding-top: 0;
   padding-bottom: 0;
   position: relative;
-  color: #333333;
+  color: #171717;
   font-size: 1em;
   font-weight: 400;
   line-height: 1.6;
@@ -10106,7 +10106,7 @@ html div {
 }
 .quire-page__content .container .content table td,
 .quire-page__content .container .content table th {
-  color: #333333;
+  color: #171717;
   border-width: 0 0 1px;
 }
 @media print {
@@ -10207,13 +10207,13 @@ html div {
 .quire-page__content .container .content .backmatter h4 {
   font-family: "TWK Lausanne", "Helvetica Neue", Arial, sans-serif;
   letter-spacing: 0.25px;
-  color: #333333;
+  color: #171717;
   font-size: 1em;
   line-height: 1.28em;
   text-transform: uppercase;
   margin-top: 20px;
   padding-bottom: 6px;
-  border-bottom: 1px solid #333333;
+  border-bottom: 1px solid #171717;
 }
 @media print {
   .quire-page__content .container .content .backmatter h2,
@@ -10245,7 +10245,7 @@ html div {
   letter-spacing: 0;
 }
 .quire-page__content .container .content .backmatter .title {
-  color: #333333;
+  color: #171717;
 }
 @media print {
   .quire-page__content .container .content .backmatter .title {
@@ -10351,7 +10351,7 @@ html div {
 
 .quire-page__header {
   background-color: #F4F1EA;
-  color: #333333;
+  color: #171717;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: cover;
@@ -10393,7 +10393,7 @@ html div {
   display: table;
   width: fit-content;
   font-size: 1.2rem;
-  color: #333333;
+  color: #171717;
   border-top: 2px solid #E6371E;
   border-bottom: 2px solid #E6371E;
   padding: 0.2rem 0.3rem;
@@ -10463,19 +10463,19 @@ html div {
   flex-grow: 0.7;
 }
 .quire-splash .quire-page__header .hero-body .quire-page__header__title {
-  color: #333333;
+  color: #171717;
 }
 @media print {
   .quire-splash .quire-page__header .hero-body .quire-page__header__title {
-    color: #333333;
+    color: #171717;
   }
 }
 .quire-splash .quire-page__header .hero-body .label {
-  color: #333333;
+  color: #171717;
 }
 @media print {
   .quire-splash .quire-page__header .hero-body .label {
-    color: #333333;
+    color: #171717;
   }
 }
 .quire-splash .quire-page__content .container .content {
@@ -10520,7 +10520,7 @@ html div {
 }
 .quire-page__content .content a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):focus {
   background-color: #E6371E;
-  color: #333333 !important;
+  color: #171717 !important;
 }
 .quire-page__content .content figure > a:hover {
   border-bottom-width: 0 !important;
@@ -10566,7 +10566,7 @@ html div {
 }
 .quire-page__content .content tbody tr:hover {
   background-color: #E6371E;
-  color: #333333 !important;
+  color: #171717 !important;
 }
 .quire-page__content .content ol,
 .quire-page__content .content dl {
@@ -10602,7 +10602,7 @@ html div {
   margin-top: -0.35em;
 }
 .quire-page__content .content .footnotes hr {
-  background-color: #333333;
+  background-color: #171717;
   height: 1px;
 }
 .quire-page__content .content .footnotes ol {
@@ -10646,7 +10646,7 @@ html div {
   }
 }
 .quire-page__content .content .leaflet-control a {
-  color: #333333;
+  color: #171717;
 }
 @media print {
   .quire-page__content .content h2 {
@@ -10848,7 +10848,7 @@ html div {
 }
 .quire-cover .quire-page__content .container.is-fluid .content {
   padding-top: 2em !important;
-  color: #333333;
+  color: #171717;
   background-color: #F4F1EA;
 }
 .quire-cover .quire-page__content .container.is-fluid .content p {
@@ -10952,7 +10952,7 @@ html div {
   padding-bottom: 0;
   border-radius: 0;
   display: inline-block;
-  border-bottom: 1px dotted #333333;
+  border-bottom: 1px dotted #171717;
 }
 .quire-contents-list ol.arrow .section-indent a:hover {
   border-bottom: 1px solid #a52512;
@@ -11000,7 +11000,7 @@ html div {
   }
 }
 .quire-contents-list .menu-list .section-item ol a {
-  border-bottom: 1px dotted #333333;
+  border-bottom: 1px dotted #171717;
   width: fit-content;
   display: initial;
   padding: 0;
@@ -11023,7 +11023,7 @@ html div {
 .quire-contents-list .menu-list .section-item.no-landing {
   font-size: 1.375em;
   font-family: "TWK Lausanne", "Helvetica Neue", Arial, sans-serif;
-  color: #333333;
+  color: #171717;
 }
 @media print {
   .quire-contents-list .menu-list .page-item.no-landing,
@@ -11040,7 +11040,7 @@ html div {
   font-size: 0.75em;
 }
 .quire-contents-list .menu-list a {
-  color: #333333;
+  color: #171717;
   position: relative;
   padding-left: 0;
   padding-right: 0;
@@ -11057,7 +11057,7 @@ html div {
 .quire-contents-list .menu-list a .arrow {
   margin-left: 4px;
   position: absolute;
-  fill: #333333;
+  fill: #171717;
   transition: all 0.25s ease;
 }
 .quire-contents-list .menu-list a:hover {
@@ -11128,7 +11128,7 @@ html div {
   margin-bottom: 1rem;
   font-size: 1rem;
   line-height: 1.4;
-  color: #333333;
+  color: #171717;
 }
 @media print {
   .quire-contents-list.abstract .abstract-text {
@@ -11424,7 +11424,7 @@ html div {
   font-size: 1.75rem;
   font-weight: 400;
   text-align: center;
-  color: #333333;
+  color: #171717;
 }
 @media print {
   .quire-contents-list.grid ol li.section-item.no-landing .list-header {
@@ -11437,7 +11437,7 @@ html div {
   background-color: inherit;
   min-height: 0;
   margin-bottom: 0;
-  color: #333333;
+  color: #171717;
 }
 @media print {
   .quire-contents-list.grid ol li.section-item > a > .card {
@@ -11458,7 +11458,7 @@ html div {
   }
 }
 .quire-contents-list.grid ol li.section-item > a > .card .title .arrow {
-  fill: #333333;
+  fill: #171717;
 }
 .quire-contents-list.grid ol li.section-item.no-landing-page > a > .card {
   min-height: 300px;
@@ -11639,7 +11639,7 @@ html div {
   margin-top: 0.5rem;
   font-style: normal;
   text-align: left;
-  color: #333333;
+  color: #171717;
   user-select: text;
 }
 @media print {
@@ -12297,7 +12297,7 @@ q-modal[data-modal-active=true] {
 .quire-entry h5,
 .quire-entry h6 {
   margin-bottom: 1rem;
-  color: #333333;
+  color: #171717;
 }
 @media print {
   .quire-entry h1,
@@ -12705,10 +12705,10 @@ q-modal[data-modal-active=true] {
   width: 90.5%;
   margin: 0 auto;
   padding-bottom: 1em;
-  border-top: 1px solid #333333;
-  border-bottom: 1px solid #333333;
+  border-top: 1px solid #171717;
+  border-bottom: 1px solid #171717;
   background-color: #ffffff;
-  color: #333333;
+  color: #171717;
   font-size: 0.875em;
 }
 @media print {
@@ -12754,7 +12754,7 @@ q-modal[data-modal-active=true] {
 }
 .quire-entry__tombstone tr:hover {
   background-color: #E6371E;
-  color: #333333;
+  color: #171717;
 }
 .quire-entry__content {
   position: relative;
@@ -13046,7 +13046,7 @@ q-modal[data-modal-active=true] {
   font-style: normal;
   line-height: 1.5;
   background-color: #ffffff;
-  color: #333333;
+  color: #171717;
   padding: 1rem;
   position: absolute;
   width: 400px;
@@ -13090,7 +13090,7 @@ q-modal[data-modal-active=true] {
   margin-left: 0.4em;
 }
 .quire-copyright__icon__link svg {
-  color: #333333;
+  color: #171717;
 }
 .quire-copyright__icon__link svg:hover {
   fill: #a52512;
@@ -13119,7 +13119,7 @@ q-modal[data-modal-active=true] {
 }
 .quire-contributors-list .title,
 .content ul.quire-contributors-list .title {
-  color: #333333;
+  color: #171717;
 }
 @media print {
   .quire-contributors-list .title,
@@ -13251,7 +13251,7 @@ q-modal[data-modal-active=true] {
   margin: 2.5em 3.25em 0em 2.5em;
   overflow: auto;
   background: #ffffff;
-  color: #333333;
+  color: #171717;
   font-family: "TWK Lausanne", "Helvetica Neue", Arial, sans-serif;
 }
 .quire-deepzoom .leaflet-table table {
@@ -13272,25 +13272,25 @@ q-modal[data-modal-active=true] {
 .quire-deepzoom .leaflet-table table tbody tr:hover,
 .quire-deepzoom .leaflet-table table tbody th:hover {
   background-color: #E6371E;
-  color: #333333 !important;
+  color: #171717 !important;
 }
 .quire-deepzoom .leaflet-control-zoom .leaflet-bar a {
-  color: #333333;
+  color: #171717;
 }
 .quire-deepzoom .leaflet-control-zoom .leaflet-bar .leaflet-control-layers-toggle {
   background-image: url(https://i.stack.imgur.com/3keSg.png) !important;
-  background-color: #333333;
+  background-color: #171717;
   background-size: 20px 20px;
 }
 
 .leaflet-touch .leaflet-control-layers-toggle {
   background-image: url(https://i.stack.imgur.com/3keSg.png) !important;
-  background-color: #333333;
+  background-color: #171717;
 }
 
 .leaflet-control-layers-expanded {
   color: #ffffff;
-  background-color: #333333;
+  background-color: #171717;
 }
 
 div.leaflet-container {
@@ -13884,13 +13884,6 @@ body > div.mfp-bg.mfp-ready {
     max-width: 4.725in;
     margin: 0 auto;
   }
-  .quire-essay .quire-page__content, .quire-entry .quire-page__content {
-    column-count: 2;
-    column-fill: balance;
-    column-gap: 0.1875in;
-    max-width: 100%;
-    margin: 0;
-  }
   .quire-essay .quire-page__content .q-figure.is-pulled-left,
   .quire-essay .quire-page__content .q-figure.is-pulled-right, .quire-entry .quire-page__content .q-figure.is-pulled-left,
   .quire-entry .quire-page__content .q-figure.is-pulled-right {
@@ -14088,7 +14081,8 @@ body > div.mfp-bg.mfp-ready {
   .copyright-page .quire-page__content .container .content .copyright__publisher-logo {
     display: none;
   }
-}/* memooria 2026: scala tipografica TWK Lausanne (Figma "visual identity NEW")
+}@charset "UTF-8";
+/* memooria 2026: scala tipografica TWK Lausanne (Figma "visual identity NEW")
    prima: h1, h2 { font-size: 2.5rem !important } con Bebas Neue */
 h1 {
   font-size: 50px !important;
@@ -14134,7 +14128,7 @@ h4 {
 }
 
 .quire-contents-list.grid ol li .card.image .card-content {
-  color: black;
+  color: var(--carrara-text, #171717); /* memooria 2026 da black */
   font-weight: 400;
 }
 
@@ -14308,11 +14302,13 @@ figcaption,
     bottom: auto;
   }
 }
-/* Testo: Body 18/26, niente capolettera (Figma) */
+/* Testo: Body 18/26 peso 350, niente capolettera (Figma) */
 .quire-page .quire-page__content .content p,
-.quire-page .quire-page__content .content li {
+.quire-page .quire-page__content .content li,
+.quire-cover .quire-page__content .container.is-fluid .content p {
   font-size: 18px;
   line-height: 26px;
+  font-weight: 350;
 }
 
 .quire-page .quire-page__content .container .content > p:first-child::first-letter {
@@ -14339,6 +14335,21 @@ figcaption,
   border-bottom: none;
 }
 
+/* Indice come Figma: voci del catalogo fitte (una riga ogni 26px), rientro 40px, niente freccia */
+.quire-contents-list .table-of-contents-list li.level-1 {
+  margin: 0;
+  line-height: 26px;
+}
+
+.quire-contents-list .table-of-contents-list li.level-0 > ol,
+.quire-contents-list .table-of-contents-list li.level-0 > ul {
+  margin-left: 40px;
+}
+
+.quire-contents-list .table-of-contents-list li.level-0 > a .arrow {
+  display: none;
+}
+
 .quire-contents-list .table-of-contents-list li.level-1 > a:hover {
   color: var(--carrara-red);
 }
@@ -14356,15 +14367,130 @@ q-lightbox,
   font-family: "TWK Lausanne", "Helvetica Neue", Arial, sans-serif;
 }
 
-/* Lightbox scheda: sfondo #171717 (Figma) */
-.quire-entry__lightbox,
-q-lightbox {
-  background-color: var(--carrara-text);
+/* Lightbox scheda: sfondo #171717 (Figma), solo a schermo (nel PDF farebbe pagine nere) */
+@media screen {
+  .quire-entry__lightbox,
+  q-lightbox {
+    background-color: var(--carrara-text);
+  }
 }
-
 /* Pulsanti Indietro / Avanti */
 .quire-nav-button a,
 .quire-page__content .quire-nav-button a {
   font-size: 16px;
   line-height: 23px;
+}
+
+/*******************************/
+/* MEMOORIA 2026 refinements   */
+/* (interventi 27-10-2026)     */
+/*******************************/
+/* Header: icona search con un po' di aria dal logo */
+.quire-navbar .quire-navbar-controls__left .search-button {
+  margin-left: 16px;
+}
+
+/* Header: hover solo sul colore (testo e icone #171717), niente box bianco, su tutti gli elementi */
+/* (selettori rinforzati: le regole Quire dei controlli di pagina sono più specifiche e con !important) */
+.quire-navbar nav.quire-navbar-controls a:hover,
+.quire-navbar nav.quire-navbar-controls button:hover,
+.quire-navbar nav.quire-navbar-controls .button:hover,
+.quire-navbar nav.quire-navbar-controls .quire-navbar-page-controls__item a:hover {
+  background-color: transparent !important;
+  color: var(--carrara-text) !important;
+}
+
+.quire-navbar nav.quire-navbar-controls a:hover *,
+.quire-navbar nav.quire-navbar-controls button:hover *,
+.quire-navbar nav.quire-navbar-controls .quire-navbar-page-controls__item a:hover * {
+  color: var(--carrara-text) !important;
+}
+
+.quire-navbar svg {
+  transition: fill 0.25s ease;
+}
+
+.quire-navbar nav.quire-navbar-controls a:hover svg,
+.quire-navbar nav.quire-navbar-controls button:hover svg,
+.quire-navbar nav.quire-navbar-controls .quire-navbar-page-controls__item a:hover svg {
+  fill: var(--carrara-text) !important;
+}
+
+/* Copertina: logo sponsor staccato dal bordo destro */
+@media only screen and (min-width: 801px) {
+  .quire-cover__logo {
+    right: 32px;
+  }
+}
+/* Pulsanti Indietro / Avanti: allineati tra loro (erano inline-block sulla baseline, sfalsati di 4px) */
+.quire-contents-buttons li.quire-nav-button {
+  vertical-align: top;
+}
+
+/* Pulsanti Indietro / Avanti: testo e freccia centrati nel pulsante */
+.quire-contents-buttons li.quire-nav-button a,
+.quire-contents-buttons li.quire-nav-button.prev a,
+.quire-cover .quire-contents-buttons ul li.quire-nav-button a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.25em;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.quire-contents-buttons li.quire-nav-button a .nav-title {
+  vertical-align: baseline;
+}
+
+.quire-contents-buttons li.quire-nav-button svg,
+.quire-contents-buttons li.quire-nav-button.prev svg {
+  margin: 0;
+}
+
+/* le frecce sono disegnate spostate a destra nel loro riquadro: si compensa perché
+   testo e freccia risultino centrati e alla stessa distanza in entrambi i pulsanti */
+.quire-contents-buttons li.quire-nav-button.next svg {
+  margin-left: -10px;
+}
+
+.quire-contents-buttons li.quire-nav-button.prev svg {
+  margin-left: -12px;
+}
+
+/* Scheda: tabella dati tecnici Caption 13/16, hover grigio neutro */
+.quire-entry__tombstone .table,
+.quire-entry__tombstone table td {
+  font-size: 13px;
+  line-height: 16px;
+}
+
+.quire-entry__tombstone tr:hover {
+  background-color: #BCBCBC !important;
+  color: var(--carrara-text) !important;
+}
+
+/* H2 senza maiuscolo e H3 senza corsivo (impostazioni globali di Quire su tutte le pagine) */
+.quire-page h2 {
+  text-transform: none;
+}
+
+.quire-page h3 {
+  font-style: normal;
+}
+
+/* PDF: testo della scheda per intero (il layout side-by-side a schermo lo mette in un box con scroll) */
+@media print {
+  .quire-entry .side-by-side .quire-entry__content {
+    height: auto !important;
+    overflow: visible !important;
+  }
+}
+/* Scheda: pulsanti sotto la tabella (Vedi nella collezione, Scarica PDF) */
+.quire-entry__tombstone-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
 }
