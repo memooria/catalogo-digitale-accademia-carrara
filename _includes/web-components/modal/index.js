@@ -36,7 +36,14 @@ class Modal extends LitElement {
   }
 
   getCurrentFigureId(event) {
-    const { target } = event
+    const { currentTarget, target } = event
+    // memooria 2026: the <figure> id is slugified (cat-18_3 -> cat-18-3) while
+    // lightbox slides use the original figure id, kept in the link href
+    const href = currentTarget && currentTarget.getAttribute && currentTarget.getAttribute('href')
+    if (href && href.startsWith('#') && href.length > 1) {
+      return decodeURIComponent(href.slice(1))
+    }
+
     let currentFigure = target
     while (
       !currentFigure.matches('figure') &&
