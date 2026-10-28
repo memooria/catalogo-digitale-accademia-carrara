@@ -8,7 +8,7 @@ module.exports = function(eleventyConfig, { page }) {
   const { config, objects } = eleventyConfig.globalData
   const { objectLinkText } = config.entryPage
 
-  return function (pageObjects = []) {
+  return function (pageObjects = [], pdfPath) {
     const titleCase = eleventyConfig.getFilter('titleCase')
     const icon = eleventyConfig.getFilter('icon')
     const markdownify = eleventyConfig.getFilter('markdownify')
@@ -27,8 +27,16 @@ module.exports = function(eleventyConfig, { page }) {
 
     const objectLink = (object) => object.link
       ? oneLine`
-        <a class="button" href="${object.link}" target="_blank">
+        <a class="button" href="${object.link}" target="_blank" data-outputs-exclude="epub,pdf">
           ${objectLinkText} ${icon({ type: 'link', description: '' })}
+        </a>`
+      : ''
+
+    // memooria 2026: PDF della singola scheda (generato da scripts/pdf-downloads.js)
+    const pdfLink = () => pdfPath
+      ? oneLine`
+        <a class="button" href="/downloads${pdfPath}.pdf" download data-outputs-exclude="epub,pdf">
+          Scarica PDF ${icon({ type: 'download', description: '' })}
         </a>`
       : ''
 
@@ -40,7 +48,10 @@ module.exports = function(eleventyConfig, { page }) {
               ${properties.map((property) => tableRow(object, property)).join('')}
             </tbody>
           </table>
-          ${objectLink(object)}
+          <div class="quire-entry__tombstone-buttons">
+            ${objectLink(object)}
+            ${pdfLink()}
+          </div>
         </div>
       </section>
     `

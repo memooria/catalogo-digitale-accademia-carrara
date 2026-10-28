@@ -229,11 +229,13 @@ figcaption,
     }
 }
 
-/* Testo: Body 18/26, niente capolettera (Figma) */
+/* Testo: Body 18/26 peso 350, niente capolettera (Figma) */
 .quire-page .quire-page__content .content p,
-.quire-page .quire-page__content .content li {
+.quire-page .quire-page__content .content li,
+.quire-cover .quire-page__content .container.is-fluid .content p {
     font-size: 18px;
     line-height: 26px;
+    font-weight: 350;
 }
 
 .quire-page .quire-page__content .container .content > p:first-child::first-letter {
@@ -277,10 +279,12 @@ q-lightbox,
     font-family: 'TWK Lausanne', 'Helvetica Neue', Arial, sans-serif;
 }
 
-/* Lightbox scheda: sfondo #171717 (Figma) */
-.quire-entry__lightbox,
-q-lightbox {
-    background-color: var(--carrara-text);
+/* Lightbox scheda: sfondo #171717 (Figma), solo a schermo (nel PDF farebbe pagine nere) */
+@media screen {
+    .quire-entry__lightbox,
+    q-lightbox {
+        background-color: var(--carrara-text);
+    }
 }
 
 /* Pulsanti Indietro / Avanti */
@@ -288,4 +292,97 @@ q-lightbox {
 .quire-page__content .quire-nav-button a {
     font-size: 16px;
     line-height: 23px;
+}
+
+/*******************************/
+/* MEMOORIA 2026 refinements   */
+/* (interventi 27-10-2026)     */
+/*******************************/
+
+/* Header: icone search/menu con un po' di aria e hover solo sul colore icona (niente box bianco) */
+.quire-navbar .quire-navbar-controls__left .search-button {
+    margin-left: 16px;
+}
+
+.quire-navbar .quire-navbar-controls__left a:hover,
+.quire-navbar .quire-navbar-controls__left button:hover,
+.quire-navbar .quire-navbar-controls__right a:hover,
+.quire-navbar .quire-navbar-controls__right button:hover {
+    background-color: transparent !important;
+}
+
+.quire-navbar .quire-navbar-controls__left button svg,
+.quire-navbar .quire-navbar-controls__right button svg {
+    transition: fill .25s ease;
+}
+
+.quire-navbar .quire-navbar-controls__left button:hover svg,
+.quire-navbar .quire-navbar-controls__right button:hover svg {
+    fill: var(--carrara-text) !important;
+}
+
+/* Copertina: logo sponsor staccato dal bordo destro */
+@media only screen and (min-width: 801px) {
+    .quire-cover__logo {
+        right: 32px;
+    }
+}
+
+/* Pulsanti Indietro / Avanti: testo e freccia centrati nel pulsante */
+.quire-contents-buttons li.quire-nav-button a,
+.quire-contents-buttons li.quire-nav-button.prev a,
+.quire-cover .quire-contents-buttons ul li.quire-nav-button a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: .25em;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.quire-contents-buttons li.quire-nav-button a .nav-title {
+    vertical-align: baseline;
+}
+
+.quire-contents-buttons li.quire-nav-button svg,
+.quire-contents-buttons li.quire-nav-button.prev svg {
+    margin: 0;
+}
+
+/* Scheda: tabella dati tecnici Caption 13/16, hover grigio neutro */
+.quire-entry__tombstone .table,
+.quire-entry__tombstone table td {
+    font-size: 13px;
+    line-height: 16px;
+}
+
+.quire-entry__tombstone tr:hover {
+    background-color: #BCBCBC !important;
+    color: var(--carrara-text) !important;
+}
+
+/* H2 senza maiuscolo e H3 senza corsivo (impostazioni globali di Quire su tutte le pagine) */
+.quire-page h2 {
+    text-transform: none;
+}
+
+.quire-page h3 {
+    font-style: normal;
+}
+
+/* PDF: testo della scheda per intero (il layout side-by-side a schermo lo mette in un box con scroll) */
+@media print {
+    .quire-entry .side-by-side .quire-entry__content {
+        height: auto !important;
+        overflow: visible !important;
+    }
+}
+
+/* Scheda: pulsanti sotto la tabella (Vedi nella collezione, Scarica PDF) */
+.quire-entry__tombstone-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
 }

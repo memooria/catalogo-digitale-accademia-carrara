@@ -24,7 +24,7 @@ citations:
 
 entryPage:
   sideBySide: false
-  objectLinkText: View in Collection
+  objectLinkText: Vedi nella collezione
 
 epub:
   defaultCoverImage: 'epub-cover.png'

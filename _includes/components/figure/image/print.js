@@ -1,4 +1,5 @@
 const { html } = require('~lib/common-tags')
+const fs = require('fs')
 const path = require('path')
 
 /**
@@ -15,6 +16,10 @@ module.exports = function(eleventyConfig) {
 
   const { imageDir } = eleventyConfig.globalData.config.figures
 
+  const printImageExists = (src) => fs.existsSync(
+    path.join(eleventyConfig.dir.input, imageDir, 'print', path.basename(src))
+  )
+
   return function(figure) {
     const { alt, caption, credit, id, label, src, staticInlineFigureImage } = figure
 
@@ -29,7 +34,12 @@ module.exports = function(eleventyConfig) {
         imageSrc = figure.staticInlineFigureImage
         break
       case figure.isCanvas || figure.isImageService:
-        imageSrc = figure.printImage
+        // memooria 2026: figure IIIF esterne senza printImage -> immagine di stampa
+        // preparata da scripts/print-images.js in _assets/images/print/
+        // (se manca resta vuota, altrimenti la generazione dell'EPUB si blocca)
+        imageSrc = figure.printImage || (printImageExists(src)
+          ? path.join(imageDir, 'print', path.basename(src))
+          : '')
         break
       default:
         imageSrc = src.startsWith('http')

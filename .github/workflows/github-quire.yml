@@ -49,7 +49,17 @@ jobs:
         run: npm install
 
       - name: Quire install
+        timeout-minutes: 15
         run: sudo npm install --global @thegetty/quire-cli@1.0.0-rc.11 --no-audit --no-fund --loglevel=warn
+
+      # Paged.js per i PDF: installato senza sudo cosi' Chrome finisce nella cache dell'utente runner
+      # (con sudo finiva in /root e `quire pdf` falliva con "Could not find Chrome")
+      - name: Paged.js install
+        timeout-minutes: 15
+        run: npm install --global pagedjs-cli@0.4.3 --no-audit --no-fund --loglevel=warn
+
+      - name: Print images
+        run: node scripts/print-images.js
 
       - name: Git init
         run: |
@@ -66,14 +76,19 @@ jobs:
       - name: Quire build
         run: quire build
         
-      - name: Quire PDF build
+      - name: EPUB build
         continue-on-error: true
         run: |
-          quire pdf
-          sudo apt-get install pandoc
+          quire epub
           mkdir -p _site/downloads
-          pandoc _site/pdf.html -o _site/downloads/output.pdf
+          mv epubjs.epub _site/downloads/output.epub
 
+      - name: PDF build
+        continue-on-error: true
+        timeout-minutes: 40
+        run: node scripts/pdf-downloads.js
+        env:
+          PDF_BROWSER_ARGS: --no-sandbox
 
       - name: GH Pages customizations
         run: |

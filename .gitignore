@@ -45,3 +45,6 @@ thumbs.db
 
 docs/static/CNAME
 docs/CNAME
+
+# Immagini di stampa scaricate da scripts/print-images.js
+content/_assets/images/print/
