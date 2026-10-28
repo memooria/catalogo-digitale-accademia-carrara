@@ -1,8 +1,8 @@
 /**
  * memooria 2026
  * Genera i PDF scaricabili dal sito, dopo `quire build`:
- *   _site/downloads/output.pdf            catalogo completo
- *   _site/downloads/catalogue/<n>.pdf     singola scheda
+ *   _site/downloads/Catalogo Digitale Collezione Zeri.pdf                 catalogo completo
+ *   _site/downloads/catalogue/Catalogo Digitale Collezione Zeri - <n>.pdf  singola scheda
  *
  * Usa Paged.js (pagedjs-cli) su _site/pdf.html, la stessa sorgente di
  * `quire pdf`; per le schede ritaglia da pdf.html la sola sezione della scheda.
@@ -20,6 +20,8 @@ const path = require('path')
 const { execFileSync } = require('child_process')
 
 const site = path.join(__dirname, '..', '_site')
+// nome dei file scaricati (anche in publication.yaml, tombstone.js e nel workflow)
+const filename = 'Catalogo Digitale Collezione Zeri'
 const downloads = path.join(site, 'downloads')
 const published = path.join(__dirname, '..', 'docs', 'downloads')
 const hashesFile = 'pdf-hashes.json'
@@ -65,7 +67,7 @@ const preamble = source.slice(0, pages[0].start)
 
 fs.mkdirSync(path.join(downloads, 'catalogue'), { recursive: true })
 
-print(path.join(site, 'pdf.html'), 'output.pdf', source)
+print(path.join(site, 'pdf.html'), `${filename}.pdf`, source)
 
 pages.forEach((page, index) => {
   const entry = page.id.match(/^catalogue-(\d+)$/)
@@ -75,7 +77,7 @@ pages.forEach((page, index) => {
   const html = `${preamble}${source.slice(page.start, end)}</body></html>`
   fs.writeFileSync(input, html)
   try {
-    print(input, `catalogue/${entry[1]}.pdf`, html)
+    print(input, `catalogue/${filename} - ${entry[1]}.pdf`, html)
   } finally {
     fs.rmSync(input)
   }

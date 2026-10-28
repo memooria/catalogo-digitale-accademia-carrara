@@ -45,7 +45,7 @@ h4 {
 }
 
 .quire-contents-list.grid ol li .card.image .card-content {
-    color: black;
+    color: var(--carrara-text, #171717); /* memooria 2026 da black */
     font-weight: 400;
 }
 
@@ -262,6 +262,21 @@ figcaption,
     border-bottom: none;
 }
 
+/* Indice come Figma: voci del catalogo fitte (una riga ogni 26px), rientro 40px, niente freccia */
+.quire-contents-list .table-of-contents-list li.level-1 {
+    margin: 0;
+    line-height: 26px;
+}
+
+.quire-contents-list .table-of-contents-list li.level-0 > ol,
+.quire-contents-list .table-of-contents-list li.level-0 > ul {
+    margin-left: 40px;
+}
+
+.quire-contents-list .table-of-contents-list li.level-0 > a .arrow {
+    display: none;
+}
+
 .quire-contents-list .table-of-contents-list li.level-1 > a:hover {
     color: var(--carrara-red);
 }
@@ -299,25 +314,34 @@ q-lightbox,
 /* (interventi 27-10-2026)     */
 /*******************************/
 
-/* Header: icone search/menu con un po' di aria e hover solo sul colore icona (niente box bianco) */
+/* Header: icona search con un po' di aria dal logo */
 .quire-navbar .quire-navbar-controls__left .search-button {
     margin-left: 16px;
 }
 
-.quire-navbar .quire-navbar-controls__left a:hover,
-.quire-navbar .quire-navbar-controls__left button:hover,
-.quire-navbar .quire-navbar-controls__right a:hover,
-.quire-navbar .quire-navbar-controls__right button:hover {
+/* Header: hover solo sul colore (testo e icone #171717), niente box bianco, su tutti gli elementi */
+/* (selettori rinforzati: le regole Quire dei controlli di pagina sono più specifiche e con !important) */
+.quire-navbar nav.quire-navbar-controls a:hover,
+.quire-navbar nav.quire-navbar-controls button:hover,
+.quire-navbar nav.quire-navbar-controls .button:hover,
+.quire-navbar nav.quire-navbar-controls .quire-navbar-page-controls__item a:hover {
     background-color: transparent !important;
+    color: var(--carrara-text) !important;
 }
 
-.quire-navbar .quire-navbar-controls__left button svg,
-.quire-navbar .quire-navbar-controls__right button svg {
+.quire-navbar nav.quire-navbar-controls a:hover *,
+.quire-navbar nav.quire-navbar-controls button:hover *,
+.quire-navbar nav.quire-navbar-controls .quire-navbar-page-controls__item a:hover * {
+    color: var(--carrara-text) !important;
+}
+
+.quire-navbar svg {
     transition: fill .25s ease;
 }
 
-.quire-navbar .quire-navbar-controls__left button:hover svg,
-.quire-navbar .quire-navbar-controls__right button:hover svg {
+.quire-navbar nav.quire-navbar-controls a:hover svg,
+.quire-navbar nav.quire-navbar-controls button:hover svg,
+.quire-navbar nav.quire-navbar-controls .quire-navbar-page-controls__item a:hover svg {
     fill: var(--carrara-text) !important;
 }
 

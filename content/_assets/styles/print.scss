@@ -342,11 +342,7 @@ $print-trim: $print-bleed * 2;
     @if $print-width > 7 {
       .quire-essay &,
       .quire-entry & {
-        column-count: 2;
-        column-fill: balance;
-        column-gap: .1875in;
-        max-width: 100%;
-        margin: 0;
+        // memooria 2026: impaginazione a 1 colonna (prima 2 colonne a tutta pagina)
 
         // with narrower columns, image should be full width
         .q-figure.is-pulled-left,

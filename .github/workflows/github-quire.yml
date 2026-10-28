@@ -81,7 +81,7 @@ jobs:
         run: |
           quire epub
           mkdir -p _site/downloads
-          mv epubjs.epub _site/downloads/output.epub
+          mv epubjs.epub "_site/downloads/Catalogo Digitale Collezione Zeri.epub"
 
       - name: PDF build
         continue-on-error: true

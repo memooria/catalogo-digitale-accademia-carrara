@@ -33,9 +33,11 @@ module.exports = function(eleventyConfig, { page }) {
       : ''
 
     // memooria 2026: PDF della singola scheda (generato da scripts/pdf-downloads.js)
+    // es. /catalogue/5 -> /downloads/catalogue/Catalogo Digitale Collezione Zeri - 5.pdf
+    const pdfName = (pagePath) => `Catalogo Digitale Collezione Zeri - ${path.basename(pagePath)}.pdf`
     const pdfLink = () => pdfPath
       ? oneLine`
-        <a class="button" href="/downloads${pdfPath}.pdf" download data-outputs-exclude="epub,pdf">
+        <a class="button" href="/downloads${path.dirname(pdfPath)}/${encodeURIComponent(pdfName(pdfPath))}" download="${pdfName(pdfPath)}" data-outputs-exclude="epub,pdf">
           Scarica PDF ${icon({ type: 'download', description: '' })}
         </a>`
       : ''
